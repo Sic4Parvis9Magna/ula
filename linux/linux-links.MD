@@ -25,3 +25,5 @@ Record-008: **#linux**, **#security**, **#audit**
 Record-009: **#linux**, **#tools**, **#microtik**  
 [Опять про «MikroTik» или долгожданный SOCKS5](https://habr.com/ru/post/502182/)
 
+Record-010: **#linux**, **#nat**  
+[Быстрый роутинг и NAT в Linux](https://habr.com/ru/post/501234/)

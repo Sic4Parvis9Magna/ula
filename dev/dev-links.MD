@@ -54,3 +54,18 @@ Record-018: **#java**, **#rx**, **#jdbc**
 
 Record-019: **#python**, **#vm**, **#internals**   
 [inside the python virtual machine](https://leanpub.com/insidethepythonvirtualmachine/read)
+
+Record-020: **#java**, **#rust**   
+[Rust for Java Devs](https://leshow.github.io/post/rust_for_java_devs/)
+
+Record-021: **#web**, **#tools**   
+[Excalidraw](https://excalidraw.com/)
+
+Record-022: **#go**, **#victoria_metrics**, **#performance**  
+[Go optimizations in VictoriaMetrics. Александр Валялкин](https://habr.com/ru/post/500844/)
+
+Record-023: **#career**, **#self_development**
+[The Technium: 68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
+
+Record-024: **#sql**, **#interview**
+[The Best Medium-Hard Data Analyst SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
