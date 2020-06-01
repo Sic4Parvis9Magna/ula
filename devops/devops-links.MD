@@ -37,3 +37,14 @@ Record-012: **#k8s**, **#patterns**, **#operator_pattern**
 Record-012: **#k8s**, **#patterns**, **#operator_pattern**  
 [Operator pattern](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
 
+Record-013: **#gitops**, **#argocd**, **#flixcd**, **#jenkinsx**  
+[FluxCD, ArgoCD or Jenkins X: Which Is the Right GitOps Tool for You?](https://blog.container-solutions.com/fluxcd-argocd-or-jenkins-x-which-is-the-right-gitops-tool-for-you)
+
+Record-014: **#gitops**  
+[GitOps - Operations by Pull Request](https://www.weave.works/blog/gitops-operations-by-pull-request)
+
+Record-014: **#k8s**, **#architecture**  
+[Architecting Kubernetes clusters — how many should you have?](https://learnk8s.io/how-many-clusters)
+
+Record-015: **#k8s**, **#configmaps**  
+[ConfigMaps в Kubernetes: нюансы, о которых стоит знать](https://habr.com/ru/company/flant/blog/498970/)

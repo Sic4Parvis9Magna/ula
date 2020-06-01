@@ -27,3 +27,18 @@ Record-009: **#linux**, **#tools**, **#microtik**
 
 Record-010: **#linux**, **#nat**  
 [Быстрый роутинг и NAT в Linux](https://habr.com/ru/post/501234/)
+
+Record-011: **#cs**, **#os**  
+[Пишем операционную систему. Часть 1. Загрузчик](https://habr.com/ru/post/504634/)
+
+Record-012: **#linux**, **#os**, **#overlay_fs**  
+[How are docker images built? A look into the Linux overlay file-systems and the OCI specification](https://dev.to/napicella/how-are-docker-images-built-a-look-into-the-linux-overlay-file-systems-and-the-oci-specification-175n)
+
+Record-013: **#linux**, **#os**, **#docker**  
+[A deep dive into Linux namespaces](http://ifeanyi.co/posts/linux-namespaces-part-1/)
+
+Record-014: **#linux**, **#os**, **#internals**  
+[Teleforking a process onto a different computer! - Tristan Hume](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
+
+Record-015: **#linux**, **#hard_tech**  
+[Восстановление стертой информации во Flash памяти на физическом уровне](https://habr.com/ru/post/484872/)

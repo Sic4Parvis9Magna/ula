@@ -64,8 +64,23 @@ Record-021: **#web**, **#tools**
 Record-022: **#go**, **#victoria_metrics**, **#performance**  
 [Go optimizations in VictoriaMetrics. Александр Валялкин](https://habr.com/ru/post/500844/)
 
-Record-023: **#career**, **#self_development**
+Record-023: **#career**, **#self_development**  
 [The Technium: 68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 
-Record-024: **#sql**, **#interview**
+Record-024: **#sql**, **#interview**  
 [The Best Medium-Hard Data Analyst SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
+
+Record-025: **#rust**, **#concurrency**  
+[Асинхронщина в Rust: Стандартная библиотека и async/.await](https://habr.com/ru/post/504020/)
+
+Record-026: **#architecture**   
+[Удобные архитектурные паттерны](https://habr.com/ru/company/dbtc/blog/499758/)
+
+Record-027: **#hadoop**, **#bigtop**  
+[Apache Bigtop и выбор Hadoop-дистрибутива сегодня](https://habr.com/ru/company/rostelecom/blog/499854/)
+
+Record-028: **#git**, **#martin_fowler**    
+[Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
+
+Record-029: **#rust**, **#borrow_checker**    
+[Rust. Borrow checker через итераторы](https://habr.com/ru/post/499108/)

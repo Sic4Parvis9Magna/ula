@@ -13,3 +13,15 @@ Record-004: **#physics**, **#math**
 
 Record-005: **#math**  
 [Задача Танежи: новый этап развития математики?](https://habr.com/ru/post/502314/)
+
+Record-006: **#math**, **#cs**, **#algorithms**  
+[Сортировка слабой кучей](https://habr.com/ru/company/edison/blog/499786/)
+
+Record-007: **#math**, **#cs**, **#algorithms**, **#science**  
+[С‘Amazing’ Math Bridge Extended Beyond Fermat’s Last Theorem](https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/)
+
+Record-008: **#math**, **#cs**, **#algorithms**, **#random**  
+[Алгоритмы рандома](https://habr.com/ru/post/499490/)
+
+Record-009: **#science**, **#math**, **#physics**  
+[What Is the Geometry of the Universe?](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/)
