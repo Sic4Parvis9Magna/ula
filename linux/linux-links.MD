@@ -42,3 +42,30 @@ Record-014: **#linux**, **#os**, **#internals**
 
 Record-015: **#linux**, **#hard_tech**  
 [Восстановление стертой информации во Flash памяти на физическом уровне](https://habr.com/ru/post/484872/)
+
+Record-016: **#linux**, **#overlay_fs**  
+[Overlay Filesystem](https://www.kernel.org/doc/Documentation/filesystems/overlayfs.txt)
+
+Record-017: **#linux**, **#k8s**, **#courses**  
+[Course: Cloud Native Certified Kubernetes Administrator (CKA) | Linux Academy](https://linuxacademy.com/course/cloud-native-certified-kubernetes-administrator-cka/)
+
+Record-018: **#linux**, **#ssd**  
+[Активация discard (TRIM) на Linux для SSD](https://habr.com/ru/post/497004/)
+
+Record-019: **#cs**, **#web**  
+[Сети для начинающего IT-специалиста. Обязательная база](https://habr.com/ru/post/491540/)
+
+Record-020: **#whois**  
+[Суды как инструмент социального хакинга или немного о достоверности сведений в базах WHOIS](https://habr.com/ru/post/483766/)
+
+Record-021: **#grpc**  
+[gRPC в качестве протокола межсервисного взаимодействия. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/484068/)
+
+Record-022: **#MAC**, **#network**  
+[Всё, что вы хотели знать о МАС адресе](https://habr.com/ru/post/483670/)
+
+Record-023: **#network**, **#web**  
+[Сети для самых маленьких. Часть нулевая. Планирование / linkmeup](https://linkmeup.ru/blog/11.html)
+
+Record-024: **#network**, **#web**  
+[Еще раз про IP-адреса, маски подсетей и вообще](https://m.habr.com/ru/post/129664/)

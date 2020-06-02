@@ -84,3 +84,42 @@ Record-028: **#git**, **#martin_fowler**
 
 Record-029: **#rust**, **#borrow_checker**    
 [Rust. Borrow checker через итераторы](https://habr.com/ru/post/499108/)
+
+Record-030: **#python**, **#open_cv**, **#tesor_flow**, **#ml**    
+[Детектор приседаний на OpenCV и Tensorflow](https://habr.com/ru/post/501362/)
+
+Record-031: **#java**, **#jep30**, **#seled_types**  
+[JEP 360: Sealed Types (Preview)](https://habr.com/ru/company/jugru/blog/498494/)
+
+Record-032: **#scala**  
+[The Death of Hype: What's Next for Scala](https://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html)
+
+Record-033: **#api**, **#google**, **#design**  
+[API design: Understanding gRPC, OpenAPI and REST and when to use them](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+
+Record-034: **#c**, **#posgres**  
+[PostgreSQL: Разработка расширений (функций) на языке С](https://habr.com/ru/company/tensor/blog/497990/)
+
+Record-035: **#interview**, **#basics**, **#java**, **#core**  
+[Вопросы к собеседованию Java-backend, Java core (60 вопросов)](https://habr.com/ru/post/485678/)
+
+Record-036: **#martin_fowler**, **#rest**, **#maturity_model**  
+[Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+
+Record-037: **#frontend**, **#web**, **#css**   
+[Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
+
+Record-038: **#sql**, **#tech_interview**  
+[5 вопросов по SQL, которые часто задают дата-сайентистам на собеседованиях](https://habr.com/ru/company/ruvds/blog/487878/)
+
+Record-039: **#rust**, **#go**  
+[Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+
+Record-040: **#graphql**  
+[GraphQL: A query language for APIs.](https://graphql.org/learn/queries/)
+
+Record-041: **#rust**  
+[Safe Manual Memory Management](https://pcwalton.github.io/2013/05/20/safe-manual-memory-management.html)
+
+Record-042: **#google**, **#architecture**  
+[Why you should pick strong consistency, whenever possible | Google Cloud Blog](https://cloud.google.com/blog/products/gcp/why-you-should-pick-strong-consistency-whenever-possible)

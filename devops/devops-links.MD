@@ -48,3 +48,42 @@ Record-014: **#k8s**, **#architecture**
 
 Record-015: **#k8s**, **#configmaps**  
 [ConfigMaps в Kubernetes: нюансы, о которых стоит знать](https://habr.com/ru/company/flant/blog/498970/)
+
+Record-016: **#gcp**, **#aws**, **#comparison**  
+[Compare Platforms  |  Documentation  |  Google Cloud](https://cloud.google.com/docs/compare)
+
+Record-017: **#gcp**, **#courses**  
+[Cloud Engineering with Google Cloud](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
+
+Record-016: **#k8s**, **#auth**  
+[Implementing a custom Kubernetes authentication method](https://learnk8s.io/kubernetes-custom-authentication)
+
+Record-017: **#k8s**, **#ssl**  
+[SSL-сертификаты от Let's Encrypt с cert-manager в Kubernetes](https://habr.com/ru/company/flant/blog/496936/)
+
+Record-018: **#k8s**, **#tools**  
+[50+ Useful Kubernetes Tools List - Part 2 | Caylent](https://caylent.com/50-useful-kubernetes-tools-list-part-2)
+
+Record-019: **#elasticsearch**, **#search_engines**    
+[С чего начинается Elasticsearch](https://habr.com/ru/post/489924/)
+
+Record-020: **#hl**, **#arhitecture**  
+[HighLoad++, Михаил Райченко (ManyChat): почти без магии, или как просто раздать терабит видеопотока](https://habr.com/ru/company/ua-hosting/blog/488148/)
+
+Record-021: **#security**, **#elasticsearch**  
+[Security for Elasticsearch is now free](https://www.elastic.co/blog/security-for-elasticsearch-is-now-free)
+
+Record-022: **#redis**, **#best_practices**  
+[Redis Best Practices](https://redislabs.com/redis-best-practices/)
+
+Record-023: **#elasticsearch**, **#best_practices**  
+[Как настроить Elasticsearch, чтобы не было утечек](https://habr.com/ru/company/dataline/blog/487210/)
+
+Record-024: **#nginx**, **#apache**  
+[Разница между nginx и apache с примерами](https://habr.com/ru/post/320710/)
+
+Record-025: **#k8s**, **#troubleshooting**  
+[A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+
+Record-026: **#devops**, **#2019**  
+[Отчет DORA за 2019 год: как повысить эффективность DevOps](https://habr.com/ru/company/mailru/blog/483444/)

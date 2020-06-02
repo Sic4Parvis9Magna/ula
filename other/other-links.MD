@@ -27,3 +27,30 @@ Record-009: **#work**, **#career**
 
 Record-010: **#grow**, **#career**, **#tech_interview**   
 [Подготовка к собеседованиям в IT-гиганты: как я преодолела проклятье алгоритмического собеседования](https://habr.com/ru/post/499394/)
+
+Record-011: **#cv**, **#career**  
+[130+ New Fashion Resume / CV Templates For Free Download (2020 Update)](https://365webresources.com/10-fashion-resume-cv-templates-for-free-download/)
+
+Record-012: **#cs**, **#audio**, **#formats**  
+[Психоакустика, lossless и что еще я знаю об аудио-стандартах](https://habr.com/ru/post/468685/)
+
+Record-013: **#stocks**, **#wiki**  
+[A Beginner's Guide to Stock Investing](https://www.investopedia.com/articles/basics/06/invest1000.asp)
+
+Record-014: **#english**, **#grammar**  
+[Про фразовые глаголы-3 (on/off)](https://habr.com/ru/post/497074/)
+
+Record-015: **#cv**, **#career**, **#rushana**  
+[Как написать действительно классное резюме. Диалог рекрутера с воображаемым другом](https://vc.ru/hr/50424-kak-napisat-deystvitelno-klassnoe-rezyume-dialog-rekrutera-s-voobrazhaemym-drugom)
+
+Record-016: **#telegram**, **#channels**  
+[goq/telegram-list](http://github.com/goq/telegram-list)
+
+Record-017: **#self_development**, **#programming_problems**  
+[1000 LeetCode Problems within a Year - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year)
+
+Record-018: **#faang**, **#career**, **#education**  
+[Стажировки в Google: Цюрих, Лондон и Кремниевая долина](https://habr.com/ru/company/hsespb/blog/488338/)
+
+Record-019: **#science**, **#health**  
+[Injected Nanoparticles May Provide First Real Treatment for Traumatic Brain Injury](https://scitechdaily.com/injected-nanoparticles-may-provide-first-real-treatment-for-traumatic-brain-injury/)
