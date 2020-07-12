@@ -26,7 +26,7 @@ Record-009: **#devops**, **#learning**, **#guides**
 [How To Become a DevOps Engineer In Six Months or Less, Part 3: Version](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-3-version-76034885a7ab)
 
 Record-010: **#k8s**, **#architecture**  
-[kubernetes/community](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/architecture.md)
+[Kubernetes Design and Architecture](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/architecture.md)
 
 Record-011: **#k8s**, **#patterns**, **#google**  
 [Best practices for building Kubernetes Operators and stateful apps](https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-building-kubernetes-operators-and-stateful-apps)
@@ -67,7 +67,7 @@ Record-018: **#k8s**, **#tools**
 Record-019: **#elasticsearch**, **#search_engines**    
 [С чего начинается Elasticsearch](https://habr.com/ru/post/489924/)
 
-Record-020: **#hl**, **#arhitecture**  
+Record-020: **#hl**, **#architecture**  
 [HighLoad++, Михаил Райченко (ManyChat): почти без магии, или как просто раздать терабит видеопотока](https://habr.com/ru/company/ua-hosting/blog/488148/)
 
 Record-021: **#security**, **#elasticsearch**  
@@ -87,3 +87,6 @@ Record-025: **#k8s**, **#troubleshooting**
 
 Record-026: **#devops**, **#2019**  
 [Отчет DORA за 2019 год: как повысить эффективность DevOps](https://habr.com/ru/company/mailru/blog/483444/)
+
+Record-027: **#k8s**, **#cli**, **#kubectl**  
+[Boosting your kubectl productivity](https://learnk8s.io/blog/kubectl-productivity)

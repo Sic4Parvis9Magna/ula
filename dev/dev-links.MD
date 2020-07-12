@@ -10,13 +10,13 @@ Record-003: **#db**, **#cs**
 Record-004: **#db**, **#cs**, **#sql**, **#schema_design**  
 [A humble guide to database schema design - Mike Alche](https://www.mikealche.com/software-development/a-humble-guide-to-database-schema-design)
 
-Record-005: **#google**, **#devstory**  
+Record-005: **#google**, **#dev_story**  
 [A Google Cloud support engineer solves a tough DNS case | Google Cloud Blog](https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-engineer-solves-a-tough-dns-case)
 
 Record-006: **#git**, **#martin_fowler**, **#feature_toggles**  
 [Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
 
-Record-007: **#martin_fowler**, **#keystoneinterface**  
+Record-007: **#martin_fowler**, **#keystone_interface**  
 [bliki: KeystoneInterface](https://martinfowler.com/bliki/KeystoneInterface.html)
 
 Record-008: **#java**, **#spring**, **#aop**  
@@ -88,7 +88,7 @@ Record-029: **#rust**, **#borrow_checker**
 Record-030: **#python**, **#open_cv**, **#tesor_flow**, **#ml**    
 [Детектор приседаний на OpenCV и Tensorflow](https://habr.com/ru/post/501362/)
 
-Record-031: **#java**, **#jep30**, **#seled_types**  
+Record-031: **#java**, **#jep30**, **#sealed_types**  
 [JEP 360: Sealed Types (Preview)](https://habr.com/ru/company/jugru/blog/498494/)
 
 Record-032: **#scala**  
@@ -97,7 +97,7 @@ Record-032: **#scala**
 Record-033: **#api**, **#google**, **#design**  
 [API design: Understanding gRPC, OpenAPI and REST and when to use them](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
 
-Record-034: **#c**, **#posgres**  
+Record-034: **#c**, **#postgre**  
 [PostgreSQL: Разработка расширений (функций) на языке С](https://habr.com/ru/company/tensor/blog/497990/)
 
 Record-035: **#interview**, **#basics**, **#java**, **#core**  

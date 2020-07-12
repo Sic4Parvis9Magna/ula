@@ -1,4 +1,3 @@
-
 Record-001: **#cs**, **#algorithms**  
 [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
 
@@ -32,7 +31,7 @@ Record-010: **#algorithms** , **#sha**
 Record-011: **#sha**, **#algorithms** , **#google**  
 [Announcing the first SHA1 collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
 
-Record-012: **#cs**, **#neutal_networks**  
+Record-012: **#cs**, **#neural_networks**  
 [Новые архитектуры нейросетей](https://habr.com/ru/post/498168/)
 
 Record-013: **#algorithms**, **#image_processing**  

@@ -69,3 +69,12 @@ Record-023: **#network**, **#web**
 
 Record-024: **#network**, **#web**  
 [Еще раз про IP-адреса, маски подсетей и вообще](https://m.habr.com/ru/post/129664/)
+
+Record-025: **#vim**, **#latex**, **#math**  
+[How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+
+Record-026: **#linux**, **#administration**, **#courses**    
+[Бесплатные образовательные курсы: администрирование](https://habr.com/ru/company/habr_career/blog/505016/)
+
+Record-027: **#web**, **#cdn**  
+[Что такое CDN, и как это вообще работает](https://habr.com/ru/company/ruvds/blog/503800/)
