@@ -90,3 +90,6 @@ Record-026: **#devops**, **#2019**
 
 Record-027: **#k8s**, **#cli**, **#kubectl**  
 [Boosting your kubectl productivity](https://learnk8s.io/blog/kubectl-productivity)
+
+Record-028: **#cloud**, **#sequrity**  
+[The Cloud Security Reading List](https://cloudseclist.com/issues/issue-42/)
