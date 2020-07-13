@@ -78,3 +78,6 @@ Record-026: **#linux**, **#administration**, **#courses**
 
 Record-027: **#web**, **#cdn**  
 [Что такое CDN, и как это вообще работает](https://habr.com/ru/company/ruvds/blog/503800/)
+
+Record-028: **#docker**, **#linux**  
+[Docker and Kubernetes — root vs. privileged](https://itnext.io/docker-and-kubernetes-root-vs-privileged-9d2a37453dec)
