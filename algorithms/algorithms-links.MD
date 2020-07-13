@@ -51,3 +51,6 @@ Record-017: **#algorithms**, **#db**
 
 Record-018: **#cs**, **#math**  
 [The Year in Math and Computer Science](https://www.quantamagazine.org/quantas-year-in-math-and-computer-science-2019-20191223/)
+
+Record-019: **#math**  
+[Магия тензорной алгебры: Часть 1 — что такое тензор и для чего он нужен?](https://habr.com/en/post/261421/)
