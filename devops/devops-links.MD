@@ -93,3 +93,6 @@ Record-027: **#k8s**, **#cli**, **#kubectl**
 
 Record-028: **#cloud**, **#sequrity**  
 [The Cloud Security Reading List](https://cloudseclist.com/issues/issue-42/)
+
+Record-029: **#gcp**, **#nginx**  
+[Ingress with NGINX controller on Google Kubernetes Engine](https://cloud.google.com/community/tutorials/nginx-ingress-gke)
