@@ -96,3 +96,6 @@ Record-028: **#cloud**, **#sequrity**
 
 Record-029: **#gcp**, **#nginx**  
 [Ingress with NGINX controller on Google Kubernetes Engine](https://cloud.google.com/community/tutorials/nginx-ingress-gke)
+
+Record-030: **#k8s**, **#cloud_controller**  
+[The Kubernetes Cloud Controller Manager](https://medium.com/@m.json/the-kubernetes-cloud-controller-manager-d440af0d2be5)
