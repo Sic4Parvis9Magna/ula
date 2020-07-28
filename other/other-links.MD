@@ -60,3 +60,6 @@ Record-020: **#imigration**, **#education**
 
 Record-021: **#salary**, **#carieer**  
 [Детальный разбор структуры зарплат IT-специалистов в Кремниевой Долине](https://habr.com/ru/post/512598/)
+
+Record-022: **#education**, **#jetbrains**, **#learning**  
+[JetBrains Academy - Learn programming by building your own apps](https://hyperskill.org/onboarding/?track=1)
