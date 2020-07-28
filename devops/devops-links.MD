@@ -105,3 +105,6 @@ Record-031: **#istio**, **#network**, **#service_mesh**
 
 Record-032: **#k8s**, **#best_practices**, **#huge_man**  
 [A List of Resources to Learn Kubernetes](https://logz.io/blog/what-are-the-hardest-parts-of-kubernetes-to-learn/)
+
+Record-033: **#k8s**, **#networking**  
+[Kubernetes NodePort and iptables rules](https://ronaknathani.com/blog/2020/07/kubernetes-nodeport-and-iptables-rules/)
