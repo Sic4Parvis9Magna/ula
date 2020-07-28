@@ -90,3 +90,6 @@ Record-030: **#linux**, **#network**
 
 Record-031: **#dns**, **#network**  
 [How Does DNS Work?](https://sookocheff.com/post/networking/how-does-dns-work/)
+
+Record-032: **#linux**, **#tools**, **#network**  
+[Manage network connections from the Linux command line with nmcli](https://opensource.com/article/20/7/nmcli)
