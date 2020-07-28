@@ -87,3 +87,6 @@ Record-029: **#docker**, **#linux**, **#handbook**
 
 Record-030: **#linux**, **#network**  
 [Network Maps. Краткий обзор софта для построения карт сети](https://habr.com/ru/post/444410/)
+
+Record-031: **#dns**, **#network**  
+[How Does DNS Work?](https://sookocheff.com/post/networking/how-does-dns-work/)
