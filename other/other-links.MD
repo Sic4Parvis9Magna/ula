@@ -63,3 +63,6 @@ Record-021: **#salary**, **#carieer**
 
 Record-022: **#education**, **#jetbrains**, **#learning**  
 [JetBrains Academy - Learn programming by building your own apps](https://hyperskill.org/onboarding/?track=1)
+
+Record-023: **#NL**, **#relocation**  
+[Жизнь и работа в Нидерландах](https://habr.com/ru/post/511632/)
