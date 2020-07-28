@@ -129,3 +129,6 @@ Record-043: **#rust**
 
 Record-044: **#spring**, **#webflux**, **#reactive**, **#webflux**  
 [webflux-client docs](https://docs.spring.io/spring/docs/5.1.2.RELEASE/spring-framework-reference/web-reactive.html#webflux-client)
+
+Record-045: **#rest**, **#API**, **#design**  
+[Best practices for REST API design - Stack Overflow Blog](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
