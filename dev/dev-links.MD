@@ -123,3 +123,6 @@ Record-041: **#rust**
 
 Record-042: **#google**, **#architecture**  
 [Why you should pick strong consistency, whenever possible | Google Cloud Blog](https://cloud.google.com/blog/products/gcp/why-you-should-pick-strong-consistency-whenever-possible)
+
+Record-043: **#rust**  
+[Announcing Rust 1.45.0](https://blog.rust-lang.org/2020/07/16/Rust-1.45.0.html)
