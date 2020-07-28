@@ -54,3 +54,6 @@ Record-018: **#faang**, **#career**, **#education**
 
 Record-019: **#science**, **#health**  
 [Injected Nanoparticles May Provide First Real Treatment for Traumatic Brain Injury](https://scitechdaily.com/injected-nanoparticles-may-provide-first-real-treatment-for-traumatic-brain-injury/)
+
+Record-020: **#imigration**, **#education**  
+[Магистратура в области Computer Science в Эстонии: личный опыт](https://habr.com/ru/post/512564/)
