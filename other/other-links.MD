@@ -57,3 +57,6 @@ Record-019: **#science**, **#health**
 
 Record-020: **#imigration**, **#education**  
 [Магистратура в области Computer Science в Эстонии: личный опыт](https://habr.com/ru/post/512564/)
+
+Record-021: **#salary**, **#carieer**  
+[Детальный разбор структуры зарплат IT-специалистов в Кремниевой Долине](https://habr.com/ru/post/512598/)
