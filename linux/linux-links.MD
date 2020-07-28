@@ -84,3 +84,6 @@ Record-028: **#docker**, **#linux**
 
 Record-029: **#docker**, **#linux**, **#handbook**  
 [The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
+
+Record-030: **#linux**, **#network**  
+[Network Maps. Краткий обзор софта для построения карт сети](https://habr.com/ru/post/444410/)
