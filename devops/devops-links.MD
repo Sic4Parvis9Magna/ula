@@ -99,3 +99,6 @@ Record-029: **#gcp**, **#nginx**
 
 Record-030: **#k8s**, **#cloud_controller**  
 [The Kubernetes Cloud Controller Manager](https://medium.com/@m.json/the-kubernetes-cloud-controller-manager-d440af0d2be5)
+
+Record-031: **#istio**, **#network**, **#service_mesh**  
+[Introduction to Istio access control](https://banzaicloud.com/blog/istio-authorization-policies/)
