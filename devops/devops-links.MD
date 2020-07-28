@@ -108,3 +108,6 @@ Record-032: **#k8s**, **#best_practices**, **#huge_man**
 
 Record-033: **#k8s**, **#networking**  
 [Kubernetes NodePort and iptables rules](https://ronaknathani.com/blog/2020/07/kubernetes-nodeport-and-iptables-rules/)
+
+Record-034: **#aws**, **#train**, **#grow**  
+[Self-Paced Labs - AWS Online Training](https://aws.amazon.com/training/self-paced-labs/)
