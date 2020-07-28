@@ -102,3 +102,6 @@ Record-030: **#k8s**, **#cloud_controller**
 
 Record-031: **#istio**, **#network**, **#service_mesh**  
 [Introduction to Istio access control](https://banzaicloud.com/blog/istio-authorization-policies/)
+
+Record-032: **#k8s**, **#best_practices**, **#huge_man**  
+[A List of Resources to Learn Kubernetes](https://logz.io/blog/what-are-the-hardest-parts-of-kubernetes-to-learn/)
