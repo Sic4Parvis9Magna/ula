@@ -81,3 +81,6 @@ Record-027: **#web**, **#cdn**
 
 Record-028: **#docker**, **#linux**  
 [Docker and Kubernetes — root vs. privileged](https://itnext.io/docker-and-kubernetes-root-vs-privileged-9d2a37453dec)
+
+Record-029: **#docker**, **#linux**, **#handbook**  
+[The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
