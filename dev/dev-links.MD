@@ -126,3 +126,6 @@ Record-042: **#google**, **#architecture**
 
 Record-043: **#rust**  
 [Announcing Rust 1.45.0](https://blog.rust-lang.org/2020/07/16/Rust-1.45.0.html)
+
+Record-044: **#spring**, **#webflux**, **#reactive**, **#webflux**  
+[webflux-client docs](https://docs.spring.io/spring/docs/5.1.2.RELEASE/spring-framework-reference/web-reactive.html#webflux-client)
