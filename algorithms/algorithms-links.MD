@@ -57,3 +57,6 @@ Record-019: **#math**
 
 Record-020: **#math**, **#physics**  
 [Космология. Подробный разбор решения Фридмана](https://habr.com/ru/post/507098/)
+
+Record-021: **#algorithms**, **#sha**  
+[How SHA-2 Works Step-By-Step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
