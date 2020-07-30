@@ -111,3 +111,6 @@ Record-033: **#k8s**, **#networking**
 
 Record-034: **#aws**, **#train**, **#grow**  
 [Self-Paced Labs - AWS Online Training](https://aws.amazon.com/training/self-paced-labs/)
+
+Record-035: **#k8s**, **#authentication**  
+[About Kubernetes Authentication](https://hackernoon.com/about-kubernetes-authentication-gg1f3yrd)
