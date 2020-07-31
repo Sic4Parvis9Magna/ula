@@ -114,3 +114,6 @@ Record-034: **#aws**, **#train**, **#grow**
 
 Record-035: **#k8s**, **#authentication**  
 [About Kubernetes Authentication](https://hackernoon.com/about-kubernetes-authentication-gg1f3yrd)
+
+Record-036: **#istio**, **#ssl**  
+[Diving Into Istio 1.6 Certificate Rotation](https://blog.christianposta.com/diving-into-istio-1-6-certificate-rotation/)
