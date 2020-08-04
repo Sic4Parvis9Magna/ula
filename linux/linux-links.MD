@@ -93,3 +93,6 @@ Record-031: **#dns**, **#network**
 
 Record-032: **#linux**, **#tools**, **#network**  
 [Manage network connections from the Linux command line with nmcli](https://opensource.com/article/20/7/nmcli)
+
+Record-033: **#docker**, **#network**, **#internals**, **#iptables**  
+[Docker Networking Internals How Docker uses Linux iptables and interfaces](https://www.securitynik.com/2016/12/docker-networking-internals-how-docker_16.html)
