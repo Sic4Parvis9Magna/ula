@@ -132,3 +132,6 @@ Record-044: **#spring**, **#webflux**, **#reactive**, **#webflux**
 
 Record-045: **#rest**, **#API**, **#design**  
 [Best practices for REST API design - Stack Overflow Blog](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+
+Record-046: **#java**, **#bytecode**  
+[Java Bytecode Fundamentals](http://arhipov.blogspot.com/2011/01/java-bytecode-fundamentals.html)
