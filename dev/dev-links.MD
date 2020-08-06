@@ -135,3 +135,6 @@ Record-045: **#rest**, **#API**, **#design**
 
 Record-046: **#java**, **#bytecode**  
 [Java Bytecode Fundamentals](http://arhipov.blogspot.com/2011/01/java-bytecode-fundamentals.html)
+
+Record-047: **#jit**, **#java**, **#compilers**  
+[How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More](https://carolchen.me/blog/jits-impls/)
