@@ -117,3 +117,6 @@ Record-035: **#k8s**, **#authentication**
 
 Record-036: **#istio**, **#ssl**  
 [Diving Into Istio 1.6 Certificate Rotation](https://blog.christianposta.com/diving-into-istio-1-6-certificate-rotation/)
+
+Record-037: **#k8s**, **#hpa**  
+[Horizontal Autoscaling in Kubernetes](https://partlycloudy.blog/2020/05/29/horizontal-autoscaling-in-kubernetes-3-keda/)
