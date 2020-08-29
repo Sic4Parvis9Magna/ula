@@ -138,3 +138,6 @@ Record-046: **#java**, **#bytecode**
 
 Record-047: **#jit**, **#java**, **#compilers**  
 [How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More](https://carolchen.me/blog/jits-impls/)
+
+Record-048: **#sql**, **#style_guide**  
+[SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)
