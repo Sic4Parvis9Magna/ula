@@ -141,3 +141,6 @@ Record-047: **#jit**, **#java**, **#compilers**
 
 Record-048: **#sql**, **#style_guide**  
 [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)
+
+Record-049: **#java**, **#gradle**, **#build_tools**  
+[Композитная сборка как альтернатива buildSrc в Gradle](https://habr.com/ru/company/badoo/blog/514094/)
