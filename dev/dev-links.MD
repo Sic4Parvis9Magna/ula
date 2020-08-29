@@ -147,3 +147,6 @@ Record-049: **#java**, **#gradle**, **#build_tools**
 
 Record-050: **#sql**, **#tips_tricks**  
 [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
+
+Record-051: **#sql**, **#tips_tricks**, **#pagination**  
+[Why You Shouldn’t Use OFFSET and LIMIT For Your Pagination](https://medium.com/swlh/why-you-shouldnt-use-offset-and-limit-for-your-pagination-4440e421ba87)
