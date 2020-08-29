@@ -144,3 +144,6 @@ Record-048: **#sql**, **#style_guide**
 
 Record-049: **#java**, **#gradle**, **#build_tools**  
 [Композитная сборка как альтернатива buildSrc в Gradle](https://habr.com/ru/company/badoo/blog/514094/)
+
+Record-050: **#sql**, **#tips_tricks**  
+[Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
