@@ -96,3 +96,6 @@ Record-032: **#linux**, **#tools**, **#network**
 
 Record-033: **#docker**, **#network**, **#internals**, **#iptables**  
 [Docker Networking Internals How Docker uses Linux iptables and interfaces](https://www.securitynik.com/2016/12/docker-networking-internals-how-docker_16.html)
+
+Record-034: **#ssh**, **#linux**, **#guide**  
+[22 SSH Examples, Practical Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
