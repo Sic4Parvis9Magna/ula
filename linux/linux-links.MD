@@ -99,3 +99,6 @@ Record-033: **#docker**, **#network**, **#internals**, **#iptables**
 
 Record-034: **#ssh**, **#linux**, **#guide**  
 [22 SSH Examples, Practical Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
+
+Record-035: **#ssl**, **#free**, **#linux_networking**  
+[Как получить бесплатный Wildcard SSL-сертификат](https://codex.so/wildcard-ssl)
