@@ -111,3 +111,6 @@ Record-037: **#linux**, **#boot**, **#processes**
 
 Record-038: **#linux**, **#cheat_sheet**, **#commands**  
 [Linux/Ubuntu Common Operations Command Cheat Sheet](http://walkintocloud.com/index.php/2020/09/03/linux-ubuntu-common-operations-command-cheat-sheet/)
+
+Record-039: **#linux**, **#x**  
+[Как устроена графика в Linux: обзор различных сред оформления рабочего стола](https://habr.com/ru/company/lanit/blog/516330/)
