@@ -147,3 +147,6 @@ Record-045: **#k8s**, **#volume**, **#persistance**
 
 Record-046: **#k8s**, **#blue_green_deployment**, **#deployment_strategy_impl**  
 [Continuous Blue-Green Deployments With Kubernetes - Semaphore](https://semaphoreci.com/blog/continuous-blue-green-deployments-with-kubernetes)
+
+Record-047: **#aws**, **#eks**, **#security**  
+[Introducing security groups for pods](https://aws.amazon.com/blogs/containers/introducing-security-groups-for-pods/)
