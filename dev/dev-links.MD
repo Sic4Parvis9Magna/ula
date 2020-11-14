@@ -150,3 +150,6 @@ Record-050: **#sql**, **#tips_tricks**
 
 Record-051: **#sql**, **#tips_tricks**, **#pagination**  
 [Why You Shouldn’t Use OFFSET and LIMIT For Your Pagination](https://medium.com/swlh/why-you-shouldnt-use-offset-and-limit-for-your-pagination-4440e421ba87)
+
+Record-052: **#java**, **#native_calls**, **#jni**  
+[В нативный код из уютного мира Java: путешествие туда и обратно (часть 1)](https://habr.com/ru/company/jugru/blog/521672/)
