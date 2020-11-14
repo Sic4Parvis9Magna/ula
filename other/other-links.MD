@@ -78,3 +78,6 @@ Record-026: **#money**, **#market**
 
 Record-027: **#self**, **#seniority**  
 [Things I Learned to Become a Senior Software Engineer](https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html)
+
+Record-028: **#relocation**, **#nl**, **#amsterdam**  
+[Переезд инженера в Нидерланды: рулинг, кеннисмигранты, стоимость жизни](https://habr.com/ru/company/gms/blog/518792/)
