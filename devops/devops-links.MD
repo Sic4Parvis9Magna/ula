@@ -123,3 +123,6 @@ Record-037: **#k8s**, **#hpa**
 
 Record-038: **#k8s**, **#cloud**, **#providers**  
 [Comparison of Kubernetes managed services](https://docs.google.com/spreadsheets/d/1RPpyDOLFmcgxMCpABDzrsBYWpPYCIBuvAoUQLwOGoQw)
+
+Record-039: **#sre**, **#google**, **#books**  
+[Free books SRE](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Flanding.google.com%2Fsre%2Fbooks%2F)
