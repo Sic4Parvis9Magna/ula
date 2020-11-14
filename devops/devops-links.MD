@@ -153,3 +153,6 @@ Record-047: **#aws**, **#eks**, **#security**
 
 Record-048: **#devops**, **#channels**, **#list**  
 [Telegram devops channels](https://habr.com/ru/company/scienceman_events/blog/477882/https://habr.com/ru/company/scienceman_events/blog/477882/)
+
+Record-049: **#aws**, **#python**, **#django**, **#aws_lambda**, **#aws_api_gateway**  
+[Deploying serverless Django applications to AWS with CDK](https://briancaffey.github.io/2020/08/01/django-and-lambda-with-cdk-and-api-gateway.html)
