@@ -96,3 +96,6 @@ Record-032: **#relocation**, **#germany**
 
 Record-033: **#science**, **#radiation**, **#nucklear_plants**  
 [Ввоз немецких урановых хвостов в Россию. Часть 4 (последняя): Использование ОГФУ, протесты и выводы](https://habr.com/ru/post/515324/)
+
+Record-034: **#carieer**, **#job_interview**, **#aws**, **#microsoft**  
+[ Amazon vs Microsoft: чем отличается процесс собеседований в крупных ИТ-компаниях](https://habr.com/ru/company/gms/blog/516148/)
