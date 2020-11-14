@@ -126,3 +126,6 @@ Record-038: **#k8s**, **#cloud**, **#providers**
 
 Record-039: **#sre**, **#google**, **#books**  
 [Free books SRE](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Flanding.google.com%2Fsre%2Fbooks%2F)
+
+Record-040: **#aws**, **#iam**  
+[AWS IAM Deep Dive. Chapter 3: Credential evaluation, Principals, Conditions, Policy variables](https://medium.com/@thomas.storm/aws-iam-deep-dive-chapter-3-credential-evaluation-principals-conditions-policy-variables-89b2026918e8)
