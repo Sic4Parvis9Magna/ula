@@ -144,3 +144,6 @@ Record-044: **#k8s**, **#metrics**, **#prometheus**
 
 Record-045: **#k8s**, **#volume**, **#persistance**  
 [Kubernetes: PersistentVolume and PersistentVolumeClaim — an overview with example](https://itnext.io/kubernetes-persistentvolume-and-persistentvolumeclaim-an-overview-with-examples-3c5688222f99)
+
+Record-046: **#k8s**, **#blue_green_deployment**, **#deployment_strategy_impl**  
+[Continuous Blue-Green Deployments With Kubernetes - Semaphore](https://semaphoreci.com/blog/continuous-blue-green-deployments-with-kubernetes)
