@@ -108,3 +108,6 @@ Record-036: **#linux**, **#tools**, **#htop**
 
 Record-037: **#linux**, **#boot**, **#processes**  
 [Linux Booting Process](https://medium.com/the-devops-journey/linux-booting-process-a43554dc72cd)
+
+Record-038: **#linux**, **#cheat_sheet**, **#commands**  
+[Linux/Ubuntu Common Operations Command Cheat Sheet](http://walkintocloud.com/index.php/2020/09/03/linux-ubuntu-common-operations-command-cheat-sheet/)
