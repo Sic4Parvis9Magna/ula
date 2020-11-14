@@ -90,3 +90,6 @@ Record-030: **#guide**, **#latex**
 
 Record-031: **#relocation**, **#germany**  
 [Переезд инженера в Германию: «Голубая карта», налоги, дети](https://habr.com/ru/company/gms/blog/517898/)
+
+Record-032: **#relocation**, **#germany**  
+[Германия, или Туда и Обратно — 1](https://habr.com/ru/post/472070/)
