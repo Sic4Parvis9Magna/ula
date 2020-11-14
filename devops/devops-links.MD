@@ -150,3 +150,6 @@ Record-046: **#k8s**, **#blue_green_deployment**, **#deployment_strategy_impl**
 
 Record-047: **#aws**, **#eks**, **#security**  
 [Introducing security groups for pods](https://aws.amazon.com/blogs/containers/introducing-security-groups-for-pods/)
+
+Record-048: **#devops**, **#channels**, **#list**  
+[Telegram devops channels](https://habr.com/ru/company/scienceman_events/blog/477882/https://habr.com/ru/company/scienceman_events/blog/477882/)
