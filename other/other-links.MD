@@ -93,3 +93,6 @@ Record-031: **#relocation**, **#germany**
 
 Record-032: **#relocation**, **#germany**  
 [Германия, или Туда и Обратно — 1](https://habr.com/ru/post/472070/)
+
+Record-033: **#science**, **#radiation**, **#nucklear_plants**  
+[Ввоз немецких урановых хвостов в Россию. Часть 4 (последняя): Использование ОГФУ, протесты и выводы](https://habr.com/ru/post/515324/)
