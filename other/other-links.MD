@@ -75,3 +75,6 @@ Record-025: **#relocation**, **#belgium**, **#freelance**
 
 Record-026: **#money**, **#market**  
 [Новичкам фондового рынка: честный разговор о валюте](https://habr.com/ru/company/ruvds/blog/519096/)
+
+Record-027: **#self**, **#seniority**  
+[Things I Learned to Become a Senior Software Engineer](https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html)
