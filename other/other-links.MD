@@ -69,3 +69,6 @@ Record-023: **#NL**, **#relocation**
 
 Record-024: **#crypto_currency**  
 [Как в разных странах регулируют криптовалюту: обзор законов в 2020 году](https://habr.com/ru/company/moneypipe/blog/523354/)
+
+Record-025: **#relocation**, **#belgium**, **#freelance**  
+[Работа фрилансером в Бельгии](https://habr.com/ru/post/523634/)
