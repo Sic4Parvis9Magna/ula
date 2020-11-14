@@ -156,3 +156,6 @@ Record-052: **#java**, **#native_calls**, **#jni**
 
 Record-053: **#dev**, **#clean_code**, **#code_review**  
 [Design Patterns, Smalltalk, and the Lost Art of Reading Code](https://medium.com/@kylegenebrown/design-patterns-smalltalk-and-the-lost-art-of-reading-code-1727d93fd7fa)
+
+Record-054: **#vue**, **#frontend**, **#fraimwork**, **#dependencies**  
+[Vue Libraries](https://medium.com/better-programming/top-vue-libraries-for-your-next-app-af10de6c2b74)
