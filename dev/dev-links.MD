@@ -159,3 +159,6 @@ Record-053: **#dev**, **#clean_code**, **#code_review**
 
 Record-054: **#vue**, **#frontend**, **#fraimwork**, **#dependencies**  
 [Vue Libraries](https://medium.com/better-programming/top-vue-libraries-for-your-next-app-af10de6c2b74)
+
+Record-055: **#architecture**, **#clean_code**  
+[The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
