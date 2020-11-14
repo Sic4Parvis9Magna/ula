@@ -87,3 +87,6 @@ Record-029: **#user_data**, **#leak**
 
 Record-030: **#guide**, **#latex**  
 [Как писать книгу по физике в LaTeX. Cтатья 1](https://habr.com/ru/post/518302/)
+
+Record-031: **#relocation**, **#germany**  
+[Переезд инженера в Германию: «Голубая карта», налоги, дети](https://habr.com/ru/company/gms/blog/517898/)
