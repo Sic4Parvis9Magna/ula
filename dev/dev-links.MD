@@ -153,3 +153,6 @@ Record-051: **#sql**, **#tips_tricks**, **#pagination**
 
 Record-052: **#java**, **#native_calls**, **#jni**  
 [В нативный код из уютного мира Java: путешествие туда и обратно (часть 1)](https://habr.com/ru/company/jugru/blog/521672/)
+
+Record-053: **#dev**, **#clean_code**, **#code_review**  
+[Design Patterns, Smalltalk, and the Lost Art of Reading Code](https://medium.com/@kylegenebrown/design-patterns-smalltalk-and-the-lost-art-of-reading-code-1727d93fd7fa)
