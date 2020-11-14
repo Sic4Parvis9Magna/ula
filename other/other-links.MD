@@ -66,3 +66,6 @@ Record-022: **#education**, **#jetbrains**, **#learning**
 
 Record-023: **#NL**, **#relocation**  
 [Жизнь и работа в Нидерландах](https://habr.com/ru/post/511632/)
+
+Record-024: **#crypto_currency**  
+[Как в разных странах регулируют криптовалюту: обзор законов в 2020 году](https://habr.com/ru/company/moneypipe/blog/523354/)
