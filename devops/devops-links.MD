@@ -141,3 +141,6 @@ Record-043: **#k8s**, **#networking**, **#pod_ip**
 
 Record-044: **#k8s**, **#metrics**, **#prometheus**  
 [Kubernetes in Production: The Ultimate Guide to Monitoring Resource Metrics with Prometheus](https://www.replex.io/blog/kubernetes-in-production-the-ultimate-guide-to-monitoring-resource-metrics)
+
+Record-045: **#k8s**, **#volume**, **#persistance**  
+[Kubernetes: PersistentVolume and PersistentVolumeClaim — an overview with example](https://itnext.io/kubernetes-persistentvolume-and-persistentvolumeclaim-an-overview-with-examples-3c5688222f99)
