@@ -84,3 +84,6 @@ Record-028: **#relocation**, **#nl**, **#amsterdam**
 
 Record-029: **#user_data**, **#leak**  
 [Расследование: как обезличенные данные становятся персональными и продаются на сторону](https://habr.com/ru/post/518458/)
+
+Record-030: **#guide**, **#latex**  
+[Как писать книгу по физике в LaTeX. Cтатья 1](https://habr.com/ru/post/518302/)
