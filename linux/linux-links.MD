@@ -105,3 +105,6 @@ Record-035: **#ssl**, **#free**, **#linux_networking**
 
 Record-036: **#linux**, **#tools**, **#htop**  
 [htop и многое другое на пальцах](https://habr.com/ru/post/316806/)
+
+Record-037: **#linux**, **#boot**, **#processes**  
+[Linux Booting Process](https://medium.com/the-devops-journey/linux-booting-process-a43554dc72cd)
