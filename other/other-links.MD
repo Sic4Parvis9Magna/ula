@@ -81,3 +81,6 @@ Record-027: **#self**, **#seniority**
 
 Record-028: **#relocation**, **#nl**, **#amsterdam**  
 [Переезд инженера в Нидерланды: рулинг, кеннисмигранты, стоимость жизни](https://habr.com/ru/company/gms/blog/518792/)
+
+Record-029: **#user_data**, **#leak**  
+[Расследование: как обезличенные данные становятся персональными и продаются на сторону](https://habr.com/ru/post/518458/)
