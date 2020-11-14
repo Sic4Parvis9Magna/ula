@@ -120,3 +120,6 @@ Record-036: **#istio**, **#ssl**
 
 Record-037: **#k8s**, **#hpa**  
 [Horizontal Autoscaling in Kubernetes](https://partlycloudy.blog/2020/05/29/horizontal-autoscaling-in-kubernetes-3-keda/)
+
+Record-038: **#k8s**, **#cloud**, **#providers**  
+[Comparison of Kubernetes managed services](https://docs.google.com/spreadsheets/d/1RPpyDOLFmcgxMCpABDzrsBYWpPYCIBuvAoUQLwOGoQw)
