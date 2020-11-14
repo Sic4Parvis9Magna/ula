@@ -72,3 +72,6 @@ Record-024: **#crypto_currency**
 
 Record-025: **#relocation**, **#belgium**, **#freelance**  
 [Работа фрилансером в Бельгии](https://habr.com/ru/post/523634/)
+
+Record-026: **#money**, **#market**  
+[Новичкам фондового рынка: честный разговор о валюте](https://habr.com/ru/company/ruvds/blog/519096/)
