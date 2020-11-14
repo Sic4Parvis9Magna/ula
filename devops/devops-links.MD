@@ -135,3 +135,6 @@ Record-041: **#implementations**, **#service_mesh**, **#comparison**
 
 Record-042: **#devops**, **#sre**, **#google**, **#workshop**  
 [Google - Site Reliability Engineering](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)
+
+Record-043: **#k8s**, **#networking**, **#pod_ip**  
+[How a Kubernetes Pod Gets an IP Address](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
