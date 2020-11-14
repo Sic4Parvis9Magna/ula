@@ -138,3 +138,6 @@ Record-042: **#devops**, **#sre**, **#google**, **#workshop**
 
 Record-043: **#k8s**, **#networking**, **#pod_ip**  
 [How a Kubernetes Pod Gets an IP Address](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
+
+Record-044: **#k8s**, **#metrics**, **#prometheus**  
+[Kubernetes in Production: The Ultimate Guide to Monitoring Resource Metrics with Prometheus](https://www.replex.io/blog/kubernetes-in-production-the-ultimate-guide-to-monitoring-resource-metrics)
