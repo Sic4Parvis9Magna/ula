@@ -132,3 +132,6 @@ Record-040: **#aws**, **#iam**
 
 Record-041: **#implementations**, **#service_mesh**, **#comparison**  
 [Service Mesh Feature Comparison](https://servicemesh.es/)
+
+Record-042: **#devops**, **#sre**, **#google**, **#workshop**  
+[Google - Site Reliability Engineering](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)
