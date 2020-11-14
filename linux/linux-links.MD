@@ -102,3 +102,6 @@ Record-034: **#ssh**, **#linux**, **#guide**
 
 Record-035: **#ssl**, **#free**, **#linux_networking**  
 [Как получить бесплатный Wildcard SSL-сертификат](https://codex.so/wildcard-ssl)
+
+Record-036: **#linux**, **#tools**, **#htop**  
+[htop и многое другое на пальцах](https://habr.com/ru/post/316806/)
