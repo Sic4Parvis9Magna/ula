@@ -114,3 +114,6 @@ Record-038: **#linux**, **#cheat_sheet**, **#commands**
 
 Record-039: **#linux**, **#x**  
 [Как устроена графика в Linux: обзор различных сред оформления рабочего стола](https://habr.com/ru/company/lanit/blog/516330/)
+
+Record-040: **#quemu**, **#linux**, **#kvm**, **#debian**  
+[Howto Qemu-kvm Debian 8](https://habr.com/ru/post/260791/)
