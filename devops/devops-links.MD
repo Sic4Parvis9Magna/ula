@@ -162,3 +162,6 @@ Record-050: **#k8s**, **#network**, **#linux**
 
 Record-051: **#ansible**, **#blog**, **#devops**, **#tools**, **#guide**  
 [Основы Ansible, без которых ваши плейбуки — комок слипшихся макарон](https://m.habr.com/ru/post/508762/)
+
+Record-052: **#aws**, **#labs**, **#examples**, **#tutorials**  
+[Amazon Web Services - Labs](https://github.com/awslabs)
