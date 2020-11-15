@@ -99,3 +99,6 @@ Record-033: **#science**, **#radiation**, **#nucklear_plants**
 
 Record-034: **#carieer**, **#job_interview**, **#aws**, **#microsoft**  
 [ Amazon vs Microsoft: чем отличается процесс собеседований в крупных ИТ-компаниях](https://habr.com/ru/company/gms/blog/516148/)
+
+Record-035: **#carieer**, **#job_interview**  
+[Удалёнка за доллары: а меня возьмут?](https://habr.com/ru/post/514398/)
