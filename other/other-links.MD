@@ -111,3 +111,6 @@ Record-037: **#discord**, **#linux**, **#streaming**, **#audio**
 
 Record-038: **#job_interviews**, **#resume**, **#cv**, **#tips**  
 [I Hire Software Developers. Your Resume Is The Reason You’re Not Getting Interviews](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1)
+
+Record-039: **#google**, **#dorking**, **#search_internals**  
+[Google Dorking или используем Гугл на максимум](https://habr.com/ru/company/postuf/blog/510766/)
