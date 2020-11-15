@@ -156,3 +156,6 @@ Record-048: **#devops**, **#channels**, **#list**
 
 Record-049: **#aws**, **#python**, **#django**, **#aws_lambda**, **#aws_api_gateway**  
 [Deploying serverless Django applications to AWS with CDK](https://briancaffey.github.io/2020/08/01/django-and-lambda-with-cdk-and-api-gateway.html)
+
+Record-050: **#k8s**, **#network**, **#linux**  
+[A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
