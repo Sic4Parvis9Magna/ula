@@ -117,3 +117,6 @@ Record-039: **#google**, **#dorking**, **#search_internals**
 
 Record-040: **#www**, **#scheme**, **#general_questions**  
 [What happens when u type a URL in an address bar in a browser](https://res.cloudinary.com/practicaldev/image/fetch/s--GY9Fa-eL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/lya7b81ow94pniln3aif.jpg)
+
+Record-041: **#relocation**, **#tips**, **#guidelines**  
+[Навигатор для трактора или эмиграция с цифрами](https://habr.com/ru/post/510610/)
