@@ -108,3 +108,6 @@ Record-036: **#carieer**, **#job_interview**
 
 Record-037: **#discord**, **#linux**, **#streaming**, **#audio**  
 [Guide: How to stream audio to discord on Linux using pulseaudio](https://www.reddit.com/r/discordapp/comments/f22vz6/guide_how_to_stream_audio_to_discord_on_linux/)
+
+Record-038: **#job_interviews**, **#resume**, **#cv**, **#tips**  
+[I Hire Software Developers. Your Resume Is The Reason You’re Not Getting Interviews](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1)
