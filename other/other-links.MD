@@ -105,3 +105,6 @@ Record-035: **#carieer**, **#job_interview**
 
 Record-036: **#carieer**, **#job_interview**  
 [Как в 2020 году разработчику найти удаленную работу: статистика, инструменты](https://habr.com/ru/company/gms/blog/515200/)
+
+Record-037: **#discord**, **#linux**, **#streaming**, **#audio**  
+[Guide: How to stream audio to discord on Linux using pulseaudio](https://www.reddit.com/r/discordapp/comments/f22vz6/guide_how_to_stream_audio_to_discord_on_linux/)
