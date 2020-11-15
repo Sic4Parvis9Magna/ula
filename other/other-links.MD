@@ -102,3 +102,6 @@ Record-034: **#carieer**, **#job_interview**, **#aws**, **#microsoft**
 
 Record-035: **#carieer**, **#job_interview**  
 [Удалёнка за доллары: а меня возьмут?](https://habr.com/ru/post/514398/)
+
+Record-036: **#carieer**, **#job_interview**  
+[Как в 2020 году разработчику найти удаленную работу: статистика, инструменты](https://habr.com/ru/company/gms/blog/515200/)
