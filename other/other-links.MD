@@ -114,3 +114,6 @@ Record-038: **#job_interviews**, **#resume**, **#cv**, **#tips**
 
 Record-039: **#google**, **#dorking**, **#search_internals**  
 [Google Dorking или используем Гугл на максимум](https://habr.com/ru/company/postuf/blog/510766/)
+
+Record-040: **#www**, **#scheme**, **#general_questions**  
+[What happens when u type a URL in an address bar in a browser](https://res.cloudinary.com/practicaldev/image/fetch/s--GY9Fa-eL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/lya7b81ow94pniln3aif.jpg)
