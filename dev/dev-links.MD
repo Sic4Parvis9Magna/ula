@@ -171,3 +171,6 @@ Record-057: **#architecture**, **#patterns**, **#microservices**, **#martin_fowl
 
 Record-058: **#vue**, **#frontend**, **#dev**, **#attribute_binding**  
 [Vue Attribute Binding](https://www.vuemastery.com/courses/intro-to-vue-js/attribute-binding)
+
+Record-059: **#soap**, **#web**  
+[Soap spec](https://www.w3.org/TR/soap12-part1/)
