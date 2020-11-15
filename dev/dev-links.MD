@@ -165,3 +165,6 @@ Record-055: **#architecture**, **#clean_code**
 
 Record-056: **#architecture**, **#domain_oriented**  
 [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
+
+Record-057: **#architecture**, **#patterns**, **#microservices**, **#martin_fowler**  
+[Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
