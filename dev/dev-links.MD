@@ -168,3 +168,6 @@ Record-056: **#architecture**, **#domain_oriented**
 
 Record-057: **#architecture**, **#patterns**, **#microservices**, **#martin_fowler**  
 [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+
+Record-058: **#vue**, **#frontend**, **#dev**, **#attribute_binding**  
+[Vue Attribute Binding](https://www.vuemastery.com/courses/intro-to-vue-js/attribute-binding)
