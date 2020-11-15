@@ -162,3 +162,6 @@ Record-054: **#vue**, **#frontend**, **#fraimwork**, **#dependencies**
 
 Record-055: **#architecture**, **#clean_code**  
 [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+Record-056: **#architecture**, **#domain_oriented**  
+[Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
