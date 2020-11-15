@@ -117,3 +117,6 @@ Record-039: **#linux**, **#x**
 
 Record-040: **#quemu**, **#linux**, **#kvm**, **#debian**  
 [Howto Qemu-kvm Debian 8](https://habr.com/ru/post/260791/)
+
+Record-041: **#linux**, **#tools**, **#rsync**  
+[Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)
