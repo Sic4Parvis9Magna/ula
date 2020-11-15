@@ -174,3 +174,6 @@ Record-058: **#vue**, **#frontend**, **#dev**, **#attribute_binding**
 
 Record-059: **#soap**, **#web**  
 [Soap spec](https://www.w3.org/TR/soap12-part1/)
+
+Record-060: **#jvm**, **#dev**, **#jdk9**, **#threading**  
+[Using JDK 9 Memory Order Modes](http://gee.cs.oswego.edu/dl/html/j9mm.html)
