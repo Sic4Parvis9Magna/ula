@@ -159,3 +159,6 @@ Record-049: **#aws**, **#python**, **#django**, **#aws_lambda**, **#aws_api_gate
 
 Record-050: **#k8s**, **#network**, **#linux**  
 [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
+
+Record-051: **#ansible**, **#blog**, **#devops**, **#tools**, **#guide**  
+[Основы Ansible, без которых ваши плейбуки — комок слипшихся макарон](https://m.habr.com/ru/post/508762/)
