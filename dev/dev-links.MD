@@ -177,3 +177,6 @@ Record-059: **#soap**, **#web**
 
 Record-060: **#jvm**, **#dev**, **#jdk9**, **#threading**  
 [Using JDK 9 Memory Order Modes](http://gee.cs.oswego.edu/dl/html/j9mm.html)
+
+Record-061: **#web**, **#frontend**, **#performance**, **#guidelines**  
+[Web Performance 101: JS, CSS, HTTP, images & fonts](https://3perf.com/talks/web-perf-101)
