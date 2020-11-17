@@ -189,3 +189,6 @@ Record-063: **#system**, **#desing**, **#architecture**
 
 Record-064: **#architecture**, **#books**  
 [Fundamentals of Software Architecture: An Engineering Approach: Richards, Mark, Ford](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
+
+Record-065: **#sql**, **#aggregating_tables**  
+[Сводные таблицы в SQL](https://habr.com/ru/post/506070/)
