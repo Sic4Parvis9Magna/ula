@@ -126,3 +126,6 @@ Record-042: **#x86**, **#cs**, **#hardware**, **#x64**
 
 Record-043: **#google**, **#tsunami**, **#network**  
 [Tsunami: An extensible network scanning engine to detect severity vulnerabilities](https://opensource.googleblog.com/2020/06/tsunami-extensible-network-scanning.html)
+
+Record-044: **#linux**, **#network**, **#tutorials**  
+[Сети для самых маленьких. Часть нулевая. Планирование](https://m.habr.com/ru/post/134892/)
