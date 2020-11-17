@@ -129,3 +129,6 @@ Record-043: **#money**, **#stoks**, **#market**
 
 Record-044: **#opencv**, **#computor_vision**  
 [OpenCV — 20! Второй проект центра разработки Intel в России](https://habr.com/ru/company/intel/blog/507382/)
+
+Record-045: **#corporate_english**, **#english**, **#tips**  
+[Корпоративный жаргон в США](https://habr.com/ru/company/englishdom/blog/506690)
