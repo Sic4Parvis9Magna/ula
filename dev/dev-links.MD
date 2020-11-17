@@ -195,3 +195,6 @@ Record-065: **#sql**, **#aggregating_tables**
 
 Record-066: **#posgre**, **#sql**, **#tips_tricks**  
 [SQL HowTo: 1000 и один способ агрегации](https://habr.com/ru/company/tensor/blog/507056/)
+
+Record-067: **#hardware**, **#ram**, **#architecture**  
+[Anatomy of RAM](https://www.techspot.com/article/2024-anatomy-ram/)
