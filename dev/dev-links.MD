@@ -183,3 +183,6 @@ Record-061: **#web**, **#frontend**, **#performance**, **#guidelines**
 
 Record-062: **#python**, **#interview_questions**  
 [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
+
+Record-063: **#system**, **#desing**, **#architecture**  
+[System design primer](https://github.com/donnemartin/system-design-primer)
