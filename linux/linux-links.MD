@@ -120,3 +120,6 @@ Record-040: **#quemu**, **#linux**, **#kvm**, **#debian**
 
 Record-041: **#linux**, **#tools**, **#rsync**  
 [Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)
+
+Record-042: **#x86**, **#cs**, **#hardware**, **#x64**  
+[Understanding the x64 code models](https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models)
