@@ -186,3 +186,6 @@ Record-062: **#python**, **#interview_questions**
 
 Record-063: **#system**, **#desing**, **#architecture**  
 [System design primer](https://github.com/donnemartin/system-design-primer)
+
+Record-064: **#architecture**, **#books**  
+[Fundamentals of Software Architecture: An Engineering Approach: Richards, Mark, Ford](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
