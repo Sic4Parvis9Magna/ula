@@ -126,3 +126,6 @@ Record-042: **#physics**, **#particles**, **#nuclear_physics**
 
 Record-043: **#money**, **#stoks**, **#market**  
 [Новичкам фондового рынка: честный разговор об акциях](https://habr.com/ru/company/ruvds/blog/508660/)
+
+Record-044: **#opencv**, **#computor_vision**  
+[OpenCV — 20! Второй проект центра разработки Intel в России](https://habr.com/ru/company/intel/blog/507382/)
