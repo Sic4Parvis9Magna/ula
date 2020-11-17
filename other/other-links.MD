@@ -123,3 +123,6 @@ Record-041: **#relocation**, **#tips**, **#guidelines**
 
 Record-042: **#physics**, **#particles**, **#nuclear_physics**  
 [Непристойное приложение](https://habr.com/ru/post/508644/)
+
+Record-043: **#money**, **#stoks**, **#market**  
+[Новичкам фондового рынка: честный разговор об акциях](https://habr.com/ru/company/ruvds/blog/508660/)
