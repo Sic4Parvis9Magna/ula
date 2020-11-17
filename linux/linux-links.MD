@@ -123,3 +123,6 @@ Record-041: **#linux**, **#tools**, **#rsync**
 
 Record-042: **#x86**, **#cs**, **#hardware**, **#x64**  
 [Understanding the x64 code models](https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models)
+
+Record-043: **#google**, **#tsunami**, **#network**  
+[Tsunami: An extensible network scanning engine to detect severity vulnerabilities](https://opensource.googleblog.com/2020/06/tsunami-extensible-network-scanning.html)
