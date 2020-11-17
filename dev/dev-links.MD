@@ -180,3 +180,6 @@ Record-060: **#jvm**, **#dev**, **#jdk9**, **#threading**
 
 Record-061: **#web**, **#frontend**, **#performance**, **#guidelines**  
 [Web Performance 101: JS, CSS, HTTP, images & fonts](https://3perf.com/talks/web-perf-101)
+
+Record-062: **#python**, **#interview_questions**  
+[53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
