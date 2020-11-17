@@ -165,3 +165,6 @@ Record-051: **#ansible**, **#blog**, **#devops**, **#tools**, **#guide**
 
 Record-052: **#aws**, **#labs**, **#examples**, **#tutorials**  
 [Amazon Web Services - Labs](https://github.com/awslabs)
+
+Record-053: **#sre**, **#devops**, **#ebook**  
+[SRE ebook by google](https://landing.google.com/sre/sre-book/toc/index.html)
