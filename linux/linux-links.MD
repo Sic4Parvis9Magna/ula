@@ -129,3 +129,6 @@ Record-043: **#google**, **#tsunami**, **#network**
 
 Record-044: **#linux**, **#network**, **#tutorials**  
 [Сети для самых маленьких. Часть нулевая. Планирование](https://m.habr.com/ru/post/134892/)
+
+Record-045: **#linux**, **#tools**  
+[5 modern alternatives to essential Linux command-line tools](https://opensource.com/article/20/6/modern-linux-command-line-tools)
