@@ -192,3 +192,6 @@ Record-064: **#architecture**, **#books**
 
 Record-065: **#sql**, **#aggregating_tables**  
 [Сводные таблицы в SQL](https://habr.com/ru/post/506070/)
+
+Record-066: **#posgre**, **#sql**, **#tips_tricks**  
+[SQL HowTo: 1000 и один способ агрегации](https://habr.com/ru/company/tensor/blog/507056/)
