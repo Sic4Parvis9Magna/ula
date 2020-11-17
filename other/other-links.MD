@@ -132,3 +132,6 @@ Record-044: **#opencv**, **#computor_vision**
 
 Record-045: **#corporate_english**, **#english**, **#tips**  
 [Корпоративный жаргон в США](https://habr.com/ru/company/englishdom/blog/506690)
+
+Record-046: **#sience**, **#physics**, **#space**, **#black_holes**  
+[Black Hole Paradoxes Reveal a Fundamental Link Between Energy and Order](https://www.quantamagazine.org/black-hole-paradoxes-reveal-a-fundamental-link-between-energy-and-order-20200528/)
