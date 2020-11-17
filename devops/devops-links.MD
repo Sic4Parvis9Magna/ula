@@ -168,3 +168,6 @@ Record-052: **#aws**, **#labs**, **#examples**, **#tutorials**
 
 Record-053: **#sre**, **#devops**, **#ebook**  
 [SRE ebook by google](https://landing.google.com/sre/sre-book/toc/index.html)
+
+Record-054: **#clouds**, **#costs**, **#management**  
+[На чём стоит экономить в облаке](https://habr.com/ru/company/technoserv/blog/502510/)
