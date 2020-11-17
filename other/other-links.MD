@@ -120,3 +120,6 @@ Record-040: **#www**, **#scheme**, **#general_questions**
 
 Record-041: **#relocation**, **#tips**, **#guidelines**  
 [Навигатор для трактора или эмиграция с цифрами](https://habr.com/ru/post/510610/)
+
+Record-042: **#physics**, **#particles**, **#nuclear_physics**  
+[Непристойное приложение](https://habr.com/ru/post/508644/)
