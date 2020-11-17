@@ -171,3 +171,6 @@ Record-053: **#sre**, **#devops**, **#ebook**
 
 Record-054: **#clouds**, **#costs**, **#management**  
 [На чём стоит экономить в облаке](https://habr.com/ru/company/technoserv/blog/502510/)
+
+Record-055: **#k8s**, **#images**, **#docs**, **#using**  
+[k8s mages](https://kubernetes.io/docs/concepts/containers/images/#using-a-private-registry)
