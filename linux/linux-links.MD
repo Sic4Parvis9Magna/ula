@@ -132,3 +132,6 @@ Record-044: **#linux**, **#network**, **#tutorials**
 
 Record-045: **#linux**, **#tools**  
 [5 modern alternatives to essential Linux command-line tools](https://opensource.com/article/20/6/modern-linux-command-line-tools)
+
+Record-046: **#hardware**, **#memory**, **#x86**  
+[How x86_64 addresses memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
