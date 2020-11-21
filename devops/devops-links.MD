@@ -174,3 +174,6 @@ Record-054: **#clouds**, **#costs**, **#management**
 
 Record-055: **#k8s**, **#images**, **#docs**, **#using**  
 [k8s mages](https://kubernetes.io/docs/concepts/containers/images/#using-a-private-registry)
+
+Record-056: **#github_actions**, **#devops**, **#ci_cd**  
+[Круги ада с GitHub Actions (строим CI/CD pipeline для Java-проекта](https://habr.com/ru/company/jugru/blog/505994/)
