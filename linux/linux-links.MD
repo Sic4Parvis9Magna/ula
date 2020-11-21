@@ -135,3 +135,6 @@ Record-045: **#linux**, **#tools**
 
 Record-046: **#hardware**, **#memory**, **#x86**  
 [How x86_64 addresses memory](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
+
+Record-047: **#bash**, **#game**, **#dev**  
+[Играючи BASH'им](https://habr.com/en/post/335960/)
