@@ -135,3 +135,6 @@ Record-045: **#corporate_english**, **#english**, **#tips**
 
 Record-046: **#sience**, **#physics**, **#space**, **#black_holes**  
 [Black Hole Paradoxes Reveal a Fundamental Link Between Energy and Order](https://www.quantamagazine.org/black-hole-paradoxes-reveal-a-fundamental-link-between-energy-and-order-20200528/)
+
+Record-047: **#architect**, **#career**, **#selfreflection**  
+[My Tech career is shifting — and I am happy with that](https://blog.usejournal.com/my-tech-career-is-shifting-and-i-am-happy-with-that-d52329c196b0)
