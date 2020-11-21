@@ -138,3 +138,6 @@ Record-046: **#sience**, **#physics**, **#space**, **#black_holes**
 
 Record-047: **#architect**, **#career**, **#selfreflection**  
 [My Tech career is shifting — and I am happy with that](https://blog.usejournal.com/my-tech-career-is-shifting-and-i-am-happy-with-that-d52329c196b0)
+
+Record-048: **#cs**, **#nature_words**  
+[Hacker Folklore](https://endler.dev/2020/folklore/)
