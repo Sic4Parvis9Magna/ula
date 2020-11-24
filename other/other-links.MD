@@ -141,3 +141,6 @@ Record-047: **#architect**, **#career**, **#selfreflection**
 
 Record-048: **#cs**, **#nature_words**  
 [Hacker Folklore](https://endler.dev/2020/folklore/)
+
+Record-049: **#tesla**, **#lidar**, **#tech**, **#4019ebfd2a3b**  
+[Elon Musk's War On LIDAR: Who Is Right And Why Do They Think That?](https://www.forbes.com/sites/bradtempleton/2019/05/06/elon-musks-war-on-lidar-who-is-right-and-why-do-they-think-that/#4019ebfd2a3b)
