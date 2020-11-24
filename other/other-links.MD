@@ -144,3 +144,6 @@ Record-048: **#cs**, **#nature_words**
 
 Record-049: **#tesla**, **#lidar**, **#tech**, **#4019ebfd2a3b**  
 [Elon Musk's War On LIDAR: Who Is Right And Why Do They Think That?](https://www.forbes.com/sites/bradtempleton/2019/05/06/elon-musks-war-on-lidar-who-is-right-and-why-do-they-think-that/#4019ebfd2a3b)
+
+Record-050: **#physics**, **#science**, **#einstein**  
+[Einstein's two mistakes](https://phys.org/news/2020-05-einstein.html)
