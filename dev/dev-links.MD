@@ -213,3 +213,6 @@ Record-071: **#kotlin**, **#java**, **#spring**, **#spring_boot**, **#hibernate*
 
 Record-072: **#Gradle**, **#java**, **#build_tools**, **#build_lifecycle**  
 [Understanding Gradle: the Build Lifecycle](https://proandroiddev.com/understanding-gradle-the-build-lifecycle-5118c1da613f)
+
+Record-073: **#webpack**, **#guides**, **#docs**, **#frontend**, **#tools**  
+[Production | webpack](https://webpack.js.org/guides/production/)
