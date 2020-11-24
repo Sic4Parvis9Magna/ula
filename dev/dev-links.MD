@@ -216,3 +216,6 @@ Record-072: **#Gradle**, **#java**, **#build_tools**, **#build_lifecycle**
 
 Record-073: **#webpack**, **#guides**, **#docs**, **#frontend**, **#tools**  
 [Production | webpack](https://webpack.js.org/guides/production/)
+
+Record-074: **#java**, **#sealed_types**, **#java_15**  
+[Исследуем sealed классы в Java 15](https://habr.com/ru/post/505696/)
