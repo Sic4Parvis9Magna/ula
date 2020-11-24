@@ -204,3 +204,6 @@ Record-068: **#rust**, **#programming_langs**, **#microsoft**
 
 Record-069: **#github**, **#api**, **#contents**  
 [Github api contents](https://developer.github.com/v3/repos/contents/)
+
+Record-070: **#fp**, **#dev**, **#functional_programming**  
+[Почему функциональное программирование такое сложное](https://habr.com/ru/post/505928/)
