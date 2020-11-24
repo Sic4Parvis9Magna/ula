@@ -147,3 +147,6 @@ Record-049: **#tesla**, **#lidar**, **#tech**, **#4019ebfd2a3b**
 
 Record-050: **#physics**, **#science**, **#einstein**  
 [Einstein's two mistakes](https://phys.org/news/2020-05-einstein.html)
+
+Record-051: **#physics**, **#science**, **#quantum_theory**  
+[The Many Mice Theory of Quantum Mechanics](http://cosmos.nautil.us/short/95/the-many-mice-theory-of-quantum-mechanics)
