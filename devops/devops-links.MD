@@ -177,3 +177,6 @@ Record-055: **#k8s**, **#images**, **#docs**, **#using**
 
 Record-056: **#github_actions**, **#devops**, **#ci_cd**  
 [Круги ада с GitHub Actions (строим CI/CD pipeline для Java-проекта](https://habr.com/ru/company/jugru/blog/505994/)
+
+Record-057: **#k8s**, **#patterns**  
+[top 10 k8s design patterns for k8s beginners](https://developers.redhat.com/blog/wp-content/uploads/2020/04/top_10_kubernetes_patterns.png)
