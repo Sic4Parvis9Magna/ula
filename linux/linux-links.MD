@@ -141,3 +141,6 @@ Record-047: **#bash**, **#game**, **#dev**
 
 Record-048: **#linux**, **#permissions_management**, **#oscp**  
 [Я есть root. Разбираемся в повышении привилегий ОS ](https://habr.com/ru/company/jetinfosystems/blog/505740/)
+
+Record-049: **#linux**, **#performance**, **#noatime**, **#tools**  
+[Improve Linux system performance with noatime](https://opensource.com/article/20/6/linux-noatime)
