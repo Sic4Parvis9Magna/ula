@@ -207,3 +207,6 @@ Record-069: **#github**, **#api**, **#contents**
 
 Record-070: **#fp**, **#dev**, **#functional_programming**  
 [Почему функциональное программирование такое сложное](https://habr.com/ru/post/505928/)
+
+Record-071: **#kotlin**, **#java**, **#spring**, **#spring_boot**, **#hibernate**  
+[Spring Boot, Hibernate и Kotlin для новичков шаг за шагом](https://habr.com/ru/company/domclick/blog/505860/)
