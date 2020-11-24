@@ -222,3 +222,6 @@ Record-074: **#java**, **#sealed_types**, **#java_15**
 
 Record-075: **#python**, **#gpu**  
 [How GPU Computing literally saved me at work?](https://medium.com/walmartlabs/how-gpu-computing-literally-saved-me-at-work-fc1dc70f48b6)
+
+Record-076: **#rust**, **#types**  
+[Имитируем функционал зависимых типов в системе типов Rust](https://habr.com/ru/post/477330/)
