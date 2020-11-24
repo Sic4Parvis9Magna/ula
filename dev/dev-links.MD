@@ -225,3 +225,6 @@ Record-075: **#python**, **#gpu**
 
 Record-076: **#rust**, **#types**  
 [Имитируем функционал зависимых типов в системе типов Rust](https://habr.com/ru/post/477330/)
+
+Record-077: **#web**, **#sequrity**, **#rfc_fer**  
+[Hypertext Transfer Protocol (HTTP) Authentication Scheme Registry](https://www.iana.org/assignments/http-authschemes/http-authschemes.xhtml)
