@@ -201,3 +201,6 @@ Record-067: **#hardware**, **#ram**, **#architecture**
 
 Record-068: **#rust**, **#programming_langs**, **#microsoft**  
 [Microsoft: Rust Is the Industry’s ‘Best Chance’ at Safe Systems Programming](https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming/)
+
+Record-069: **#github**, **#api**, **#contents**  
+[Github api contents](https://developer.github.com/v3/repos/contents/)
