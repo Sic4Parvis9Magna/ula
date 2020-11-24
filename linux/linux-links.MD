@@ -144,3 +144,6 @@ Record-048: **#linux**, **#permissions_management**, **#oscp**
 
 Record-049: **#linux**, **#performance**, **#noatime**, **#tools**  
 [Improve Linux system performance with noatime](https://opensource.com/article/20/6/linux-noatime)
+
+Record-050: **#allocators**, **#memory**, **#tech**  
+[Аллокаторы памяти](https://habr.com/ru/post/505632/)
