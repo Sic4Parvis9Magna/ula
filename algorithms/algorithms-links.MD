@@ -60,3 +60,6 @@ Record-020: **#math**, **#physics**
 
 Record-021: **#algorithms**, **#sha**  
 [How SHA-2 Works Step-By-Step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
+
+Record-022: **#algorithms**, **#math**, **#trees**  
+[Сортировка декартовым деревом](https://habr.com/ru/company/edison/blog/505744/)
