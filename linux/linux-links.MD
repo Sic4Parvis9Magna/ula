@@ -138,3 +138,6 @@ Record-046: **#hardware**, **#memory**, **#x86**
 
 Record-047: **#bash**, **#game**, **#dev**  
 [Играючи BASH'им](https://habr.com/en/post/335960/)
+
+Record-048: **#linux**, **#permissions_management**, **#oscp**  
+[Я есть root. Разбираемся в повышении привилегий ОS ](https://habr.com/ru/company/jetinfosystems/blog/505740/)
