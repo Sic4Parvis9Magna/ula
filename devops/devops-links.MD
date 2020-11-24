@@ -180,3 +180,6 @@ Record-056: **#github_actions**, **#devops**, **#ci_cd**
 
 Record-057: **#k8s**, **#patterns**  
 [top 10 k8s design patterns for k8s beginners](https://developers.redhat.com/blog/wp-content/uploads/2020/04/top_10_kubernetes_patterns.png)
+
+Record-058: **#k8s**, **#architecture**  
+[Kubernetes Series: Part 1](https://medium.com/priceline-labs/kubernetes-series-part-1-2babc30fc7b5)
