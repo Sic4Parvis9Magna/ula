@@ -219,3 +219,6 @@ Record-073: **#webpack**, **#guides**, **#docs**, **#frontend**, **#tools**
 
 Record-074: **#java**, **#sealed_types**, **#java_15**  
 [Исследуем sealed классы в Java 15](https://habr.com/ru/post/505696/)
+
+Record-075: **#python**, **#gpu**  
+[How GPU Computing literally saved me at work?](https://medium.com/walmartlabs/how-gpu-computing-literally-saved-me-at-work-fc1dc70f48b6)
