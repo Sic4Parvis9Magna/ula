@@ -150,3 +150,6 @@ Record-050: **#physics**, **#science**, **#einstein**
 
 Record-051: **#physics**, **#science**, **#quantum_theory**  
 [The Many Mice Theory of Quantum Mechanics](http://cosmos.nautil.us/short/95/the-many-mice-theory-of-quantum-mechanics)
+
+Record-052: **#education**, **#edu**, **#usa**, **#relocation**  
+[Путь поступления и учебы в университете в Калифорнии глазами родителей](https://habr.com/ru/post/530502/)
