@@ -183,3 +183,6 @@ Record-057: **#k8s**, **#patterns**
 
 Record-058: **#k8s**, **#architecture**  
 [Kubernetes Series: Part 1](https://medium.com/priceline-labs/kubernetes-series-part-1-2babc30fc7b5)
+
+Record-059: **#devops**, **#tech_stack**, **#2020**  
+[CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
