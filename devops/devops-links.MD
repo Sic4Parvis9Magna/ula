@@ -189,3 +189,6 @@ Record-059: **#devops**, **#tech_stack**, **#2020**
 
 Record-060: **#devops**, **#elk**, **#plg**, **#k8s**, **#logs**, **#logging**  
 [Logging in Kubernetes: EFK vs PLG Stack](https://www.infracloud.io/blogs/logging-in-kubernetes-efk-vs-plg-stack/)
+
+Record-061: **#helm**, **#k8s**, **#tools**, **#guidelines**  
+[Продвинутая Helm-шаблонизация: выжимаем максимум](https://habr.com/ru/company/flant/blog/529158/)
