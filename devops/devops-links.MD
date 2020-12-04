@@ -186,3 +186,6 @@ Record-058: **#k8s**, **#architecture**
 
 Record-059: **#devops**, **#tech_stack**, **#2020**  
 [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+
+Record-060: **#devops**, **#elk**, **#plg**, **#k8s**, **#logs**, **#logging**  
+[Logging in Kubernetes: EFK vs PLG Stack](https://www.infracloud.io/blogs/logging-in-kubernetes-efk-vs-plg-stack/)
