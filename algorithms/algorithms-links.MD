@@ -63,3 +63,6 @@ Record-021: **#algorithms**, **#sha**
 
 Record-022: **#algorithms**, **#math**, **#trees**  
 [Сортировка декартовым деревом](https://habr.com/ru/company/edison/blog/505744/)
+
+Record-023: **#math**, **#algorithms**, **#logic**  
+[Some Math Problems Seem Impossible. That Can Be a Good Thing.](https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/)
