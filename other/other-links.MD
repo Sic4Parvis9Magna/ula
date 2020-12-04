@@ -153,3 +153,6 @@ Record-051: **#physics**, **#science**, **#quantum_theory**
 
 Record-052: **#education**, **#edu**, **#usa**, **#relocation**  
 [Путь поступления и учебы в университете в Калифорнии глазами родителей](https://habr.com/ru/post/530502/)
+
+Record-053: **#physics**, **#sicence**, **#particles**  
+[Why Is The Universe Fundamentally Left-Handed?](https://www.forbes.com/sites/startswithabang/2020/11/19/why-is-the-universe-fundamentally-left-handed/?sh=815fcc233b33)
