@@ -192,3 +192,6 @@ Record-060: **#devops**, **#elk**, **#plg**, **#k8s**, **#logs**, **#logging**
 
 Record-061: **#helm**, **#k8s**, **#tools**, **#guidelines**  
 [Продвинутая Helm-шаблонизация: выжимаем максимум](https://habr.com/ru/company/flant/blog/529158/)
+
+Record-062: **#ssl**, **#tsl**, **#network**, **#certificate**, **#security**  
+[Запасной вариант для Let's Encrypt — бесплатные автоматические УЦ](https://habr.com/ru/company/globalsign/blog/529698/)
