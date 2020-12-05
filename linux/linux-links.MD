@@ -147,3 +147,6 @@ Record-049: **#linux**, **#performance**, **#noatime**, **#tools**
 
 Record-050: **#allocators**, **#memory**, **#tech**  
 [Аллокаторы памяти](https://habr.com/ru/post/505632/)
+
+Record-051: **#linux**, **#systemd**, **#time**  
+[Control your computer time and date with systemd](https://opensource.com/article/20/6/time-date-systemd)
