@@ -156,3 +156,6 @@ Record-052: **#development**, **#cache**, **#linux**, **#L1**
 
 Record-053: **#cdn**, **#web**, **#www**, **#networking**  
 [Что такое CDN, и как это вообще работает](https://habr.com/ru/company/ruvds/blog/503800/)
+
+Record-054: **#linux**, **#administration**, **#courses**, **#free**, **#education**  
+[Бесплатные образовательные курсы: администрирование](https://habr.com/ru/company/habr_career/blog/505016/)
