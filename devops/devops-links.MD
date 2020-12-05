@@ -195,3 +195,6 @@ Record-061: **#helm**, **#k8s**, **#tools**, **#guidelines**
 
 Record-062: **#ssl**, **#tsl**, **#network**, **#certificate**, **#security**  
 [Запасной вариант для Let's Encrypt — бесплатные автоматические УЦ](https://habr.com/ru/company/globalsign/blog/529698/)
+
+Record-063: **#etcd**, **#test**, **#fio**, **#performance**  
+[Using Fio to Tell Whether Your Storage is Fast Enough for Etcd](https://www.ibm.com/cloud/blog/using-fio-to-tell-whether-your-storage-is-fast-enough-for-etcd)
