@@ -207,3 +207,6 @@ Record-065: **#k8s**, **#alibaba**, **#setup**, **#tunnig**, **#high_load**, **#
 
 Record-066: **#cloud**, **#gcp**, **#aws**  
 [Compare platforms  |  Documentation  |  Google Cloud](https://cloud.google.com/docs/compare)
+
+Record-067: **#gitops**, **#argocd**, **#flixcd**, **#jenkinsx**  
+[GitOps Tool for You](https://blog.container-solutions.com/fluxcd-argocd-or-jenkins-x-which-is-the-right-gitops-tool-for-you)
