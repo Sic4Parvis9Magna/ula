@@ -204,3 +204,6 @@ Record-064: **#k8s**, **#cli**, **#kubectl**
 
 Record-065: **#k8s**, **#alibaba**, **#setup**, **#tunnig**, **#high_load**, **#success_story**  
 [Demystifying Kubernetes as a service - How Alibaba cloud manages 10,000s of Kubernetes clusters](https://www.cncf.io/blog/2019/12/12/demystifying-kubernetes-as-a-service-how-does-alibaba-cloud-manage-10000s-of-kubernetes-clusters/)
+
+Record-066: **#cloud**, **#gcp**, **#aws**  
+[Compare platforms  |  Documentation  |  Google Cloud](https://cloud.google.com/docs/compare)
