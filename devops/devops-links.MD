@@ -198,3 +198,6 @@ Record-062: **#ssl**, **#tsl**, **#network**, **#certificate**, **#security**
 
 Record-063: **#etcd**, **#test**, **#fio**, **#performance**  
 [Using Fio to Tell Whether Your Storage is Fast Enough for Etcd](https://www.ibm.com/cloud/blog/using-fio-to-tell-whether-your-storage-is-fast-enough-for-etcd)
+
+Record-064: **#k8s**, **#cli**, **#kubectl**  
+[Boosting your kubectl productivity](https://learnk8s.io/blog/kubectl-productivity)
