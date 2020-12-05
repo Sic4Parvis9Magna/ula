@@ -231,3 +231,6 @@ Record-077: **#web**, **#sequrity**, **#rfc_fer**
 
 Record-078: **#web**, **#security**, **#www**  
 [Смертные грехи безопасности сайта: что мы узнали из статистики сканера уязвимостей за год](https://habr.com/ru/company/dataline/blog/505274/)
+
+Record-079: **#python**, **#open_cv**, **#ml**  
+[Детектор приседаний на OpenCV и Tensorflow](https://habr.com/ru/post/501362/)
