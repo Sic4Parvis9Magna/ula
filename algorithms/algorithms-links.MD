@@ -66,3 +66,6 @@ Record-022: **#algorithms**, **#math**, **#trees**
 
 Record-023: **#math**, **#algorithms**, **#logic**  
 [Some Math Problems Seem Impossible. That Can Be a Good Thing.](https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/)
+
+Record-024: **#sha**, **#algorithms**, **#google**, **#security**, **#www**  
+[Announcing the first SHA1 collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
