@@ -69,3 +69,6 @@ Record-023: **#math**, **#algorithms**, **#logic**
 
 Record-024: **#sha**, **#algorithms**, **#google**, **#security**, **#www**  
 [Announcing the first SHA1 collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
+
+Record-025: **#algorithms**, **#sha**, **#security**  
+[Опасный алгоритм SHA-1 убирают из библиотек SSH](https://habr.com/ru/company/dcmiran/blog/504950/)
