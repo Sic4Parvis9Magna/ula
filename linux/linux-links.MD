@@ -159,3 +159,6 @@ Record-053: **#cdn**, **#web**, **#www**, **#networking**
 
 Record-054: **#linux**, **#administration**, **#courses**, **#free**, **#education**  
 [Бесплатные образовательные курсы: администрирование](https://habr.com/ru/company/habr_career/blog/505016/)
+
+Record-055: **#wifi7**, **#cs**, **#www**  
+[Что нас ждет в Wi-Fi 7, IEEE 802.11be?](https://habr.com/ru/post/501266/)
