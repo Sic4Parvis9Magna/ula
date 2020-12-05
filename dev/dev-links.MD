@@ -228,3 +228,6 @@ Record-076: **#rust**, **#types**
 
 Record-077: **#web**, **#sequrity**, **#rfc_fer**  
 [Hypertext Transfer Protocol (HTTP) Authentication Scheme Registry](https://www.iana.org/assignments/http-authschemes/http-authschemes.xhtml)
+
+Record-078: **#web**, **#security**, **#www**  
+[Смертные грехи безопасности сайта: что мы узнали из статистики сканера уязвимостей за год](https://habr.com/ru/company/dataline/blog/505274/)
