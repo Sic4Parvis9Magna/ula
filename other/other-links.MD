@@ -156,3 +156,6 @@ Record-052: **#education**, **#edu**, **#usa**, **#relocation**
 
 Record-053: **#physics**, **#sicence**, **#particles**  
 [Why Is The Universe Fundamentally Left-Handed?](https://www.forbes.com/sites/startswithabang/2020/11/19/why-is-the-universe-fundamentally-left-handed/?sh=815fcc233b33)
+
+Record-054: **#vim**, **#latex**, **#math**, **#notes**  
+[How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
