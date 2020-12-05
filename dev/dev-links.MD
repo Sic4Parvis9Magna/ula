@@ -234,3 +234,6 @@ Record-078: **#web**, **#security**, **#www**
 
 Record-079: **#python**, **#open_cv**, **#ml**  
 [Детектор приседаний на OpenCV и Tensorflow](https://habr.com/ru/post/501362/)
+
+Record-080: **#os**, **#development**, **#boot_loader**, **#fasm**, **#assembler**, **#virtual_box**  
+[Пишем операционную систему. Часть 1. Загрузчик](https://habr.com/ru/post/504634/)
