@@ -237,3 +237,6 @@ Record-079: **#python**, **#open_cv**, **#ml**
 
 Record-080: **#os**, **#development**, **#boot_loader**, **#fasm**, **#assembler**, **#virtual_box**  
 [Пишем операционную систему. Часть 1. Загрузчик](https://habr.com/ru/post/504634/)
+
+Record-081: **#ruts**, **#async**  
+[Асинхронщина в Rust: Стандартная библиотека и async/.await](https://habr.com/ru/post/504020/)
