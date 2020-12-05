@@ -153,3 +153,6 @@ Record-051: **#linux**, **#systemd**, **#time**
 
 Record-052: **#development**, **#cache**, **#linux**, **#L1**  
 [Provide an opt-in (prctl driven) mechanism to flush the L1D cache on context switch.](https://lore.kernel.org/lkml/CAHk-=wgXf_wQ9zrJKv2Hy4EpEbLuqty-Cjbs2u00gm7XcYHBfw@mail.gmail.com/)
+
+Record-053: **#cdn**, **#web**, **#www**, **#networking**  
+[Что такое CDN, и как это вообще работает](https://habr.com/ru/company/ruvds/blog/503800/)
