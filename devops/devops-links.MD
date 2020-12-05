@@ -201,3 +201,6 @@ Record-063: **#etcd**, **#test**, **#fio**, **#performance**
 
 Record-064: **#k8s**, **#cli**, **#kubectl**  
 [Boosting your kubectl productivity](https://learnk8s.io/blog/kubectl-productivity)
+
+Record-065: **#k8s**, **#alibaba**, **#setup**, **#tunnig**, **#high_load**, **#success_story**  
+[Demystifying Kubernetes as a service - How Alibaba cloud manages 10,000s of Kubernetes clusters](https://www.cncf.io/blog/2019/12/12/demystifying-kubernetes-as-a-service-how-does-alibaba-cloud-manage-10000s-of-kubernetes-clusters/)
