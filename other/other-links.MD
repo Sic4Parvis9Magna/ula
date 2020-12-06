@@ -159,3 +159,6 @@ Record-053: **#physics**, **#sicence**, **#particles**
 
 Record-054: **#vim**, **#latex**, **#math**, **#notes**  
 [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+
+Record-055: **#physics**, **#time**  
+[Does Time Really Flow? New Clues Come From a Century-Old Approach to Math.](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
