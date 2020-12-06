@@ -162,3 +162,7 @@ Record-054: **#linux**, **#administration**, **#courses**, **#free**, **#educati
 
 Record-055: **#wifi7**, **#cs**, **#www**  
 [Что нас ждет в Wi-Fi 7, IEEE 802.11be?](https://habr.com/ru/post/501266/)
+
+
+Record-056: **#tls**, **#ssl**, **#network**, **#security**, **#www**  
+[Введение в TLS для п̶р̶а̶к̶т̶и̶к̶о̶в̶ Патриков (часть 1)](https://habr.com/ru/company/plesk/blog/502604/)
