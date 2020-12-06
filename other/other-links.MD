@@ -162,3 +162,6 @@ Record-054: **#vim**, **#latex**, **#math**, **#notes**
 
 Record-055: **#physics**, **#time**  
 [Does Time Really Flow? New Clues Come From a Century-Old Approach to Math.](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
+
+Record-056: **#career**, **#self_development**, **#career_development**, **#tips**  
+[68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
