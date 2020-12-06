@@ -210,3 +210,6 @@ Record-066: **#cloud**, **#gcp**, **#aws**
 
 Record-067: **#gitops**, **#argocd**, **#flixcd**, **#jenkinsx**  
 [GitOps Tool for You](https://blog.container-solutions.com/fluxcd-argocd-or-jenkins-x-which-is-the-right-gitops-tool-for-you)
+
+Record-068: **#hadoop**, **#bigtop**  
+[Apache Bigtop и выбор Hadoop-дистрибутива сегодня](https://habr.com/ru/company/rostelecom/blog/499854/)
