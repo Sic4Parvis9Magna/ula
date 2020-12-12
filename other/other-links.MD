@@ -165,3 +165,6 @@ Record-055: **#physics**, **#time**
 
 Record-056: **#career**, **#self_development**, **#career_development**, **#tips**  
 [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
+
+Record-057: **#science**, **#space**, **#geometry**  
+[What Is the Geometry of the Universe?](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/)
