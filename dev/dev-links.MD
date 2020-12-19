@@ -243,3 +243,6 @@ Record-081: **#ruts**, **#async**
 
 Record-082: **#rust**, **#go**, **#discord**, **#migration**, **#dev**  
 [Почему Discord переходит с Go на Rust](https://m.habr.com/ru/post/487116/)
+
+Record-083: **#haskell**, **#functional_programming**  
+[Why Dependent Haskell is the Future of Software Development](https://serokell.io/blog/why-dependent-haskell)
