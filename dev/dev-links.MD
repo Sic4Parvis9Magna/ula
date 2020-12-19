@@ -240,3 +240,6 @@ Record-080: **#os**, **#development**, **#boot_loader**, **#fasm**, **#assembler
 
 Record-081: **#ruts**, **#async**  
 [Асинхронщина в Rust: Стандартная библиотека и async/.await](https://habr.com/ru/post/504020/)
+
+Record-082: **#rust**, **#go**, **#discord**, **#migration**, **#dev**  
+[Почему Discord переходит с Go на Rust](https://m.habr.com/ru/post/487116/)
