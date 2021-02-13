@@ -213,3 +213,6 @@ Record-067: **#gitops**, **#argocd**, **#flixcd**, **#jenkinsx**
 
 Record-068: **#hadoop**, **#bigtop**  
 [Apache Bigtop и выбор Hadoop-дистрибутива сегодня](https://habr.com/ru/company/rostelecom/blog/499854/)
+
+Record-069: **#k8s**, **#alibaba**, **#cloud_native**, **#usage_tips**  
+[Demystifying Kubernetes as a service - How Alibaba cloud manages 10,000s of Kubernetes clusters ](https://www.cncf.io/blog/2019/12/12/demystifying-kubernetes-as-a-service-how-does-alibaba-cloud-manage-10000s-of-kubernetes-clusters/)
