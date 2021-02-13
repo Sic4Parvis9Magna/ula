@@ -172,3 +172,6 @@ Record-057: **#cs**, **#network**, **#linkmeup**, **#for_begginers**
 
 Record-058: **#cs**, **#network**, **#ip**, **#network_masks**  
 [Еще раз про IP-адреса, маски подсетей и вообще](https://m.habr.com/ru/post/129664/)
+
+Record-059: **#web**, **#sequrity**  
+[О безопасности в сети](https://habr.com/ru/post/482906/)
