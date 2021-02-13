@@ -169,3 +169,6 @@ Record-056: **#tls**, **#ssl**, **#network**, **#security**, **#www**
 
 Record-057: **#cs**, **#network**, **#linkmeup**, **#for_begginers**  
 [Сети для самых маленьких. Часть нулевая. Планирование / linkmeup](https://linkmeup.ru/blog/11.html)
+
+Record-058: **#cs**, **#network**, **#ip**, **#network_masks**  
+[Еще раз про IP-адреса, маски подсетей и вообще](https://m.habr.com/ru/post/129664/)
