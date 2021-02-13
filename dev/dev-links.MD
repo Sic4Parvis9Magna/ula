@@ -249,3 +249,6 @@ Record-083: **#haskell**, **#functional_programming**
 
 Record-084: **#grpc**, **#protocols**, **#tips**  
 [gRPC в качестве протокола межсервисного взаимодействия. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/484068/)
+
+Record-085: **#cs**, **#google**, **#architecture**  
+[Why you should pick strong consistency, whenever possible](https://cloud.google.com/blog/products/gcp/why-you-should-pick-strong-consistency-whenever-possible)
