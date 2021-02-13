@@ -255,3 +255,6 @@ Record-085: **#cs**, **#google**, **#architecture**
 
 Record-086: **#dev**, **#decade**, **#tech_overview**  
 [A decade in review in Tech](https://medium.com/@copyconstruct/a-decade-in-review-in-tech-1cde76c9b43c)
+
+Record-087: **#jvm**, **#graal**  
+[Getting started with GraalVM - by Oleg Šelaje](https://www.javaadvent.com/2019/12/getting-started-with-graalvm.html)
