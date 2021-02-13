@@ -168,3 +168,6 @@ Record-056: **#career**, **#self_development**, **#career_development**, **#tips
 
 Record-057: **#science**, **#space**, **#geometry**  
 [What Is the Geometry of the Universe?](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/)
+
+Record-058: **#science**, **#biology**  
+[CRISPR babies scientist He Jiankui should not be villainized - STAT](https://www.statnews.com/2020/01/02/crispr-babies-scientist-he-jiankui-should-not-be-villainized/)
