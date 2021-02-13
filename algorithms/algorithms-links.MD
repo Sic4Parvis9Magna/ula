@@ -75,3 +75,6 @@ Record-025: **#algorithms**, **#sha**, **#security**
 
 Record-026: **#raft**, **#algorithms**  
 [The Raft Consensus Algorithm](https://raft.github.io/)
+
+Record-027: **#rsa**, **#ecdsa**, **#algorithms**  
+[Comparing ECDSA vs RSA](https://www.ssl.com/article/comparing-ecdsa-vs-rsa/)
