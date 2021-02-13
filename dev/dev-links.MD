@@ -246,3 +246,6 @@ Record-082: **#rust**, **#go**, **#discord**, **#migration**, **#dev**
 
 Record-083: **#haskell**, **#functional_programming**  
 [Why Dependent Haskell is the Future of Software Development](https://serokell.io/blog/why-dependent-haskell)
+
+Record-084: **#grpc**, **#protocols**, **#tips**  
+[gRPC в качестве протокола межсервисного взаимодействия. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/484068/)
