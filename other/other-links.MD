@@ -171,3 +171,6 @@ Record-057: **#science**, **#space**, **#geometry**
 
 Record-058: **#science**, **#biology**  
 [CRISPR babies scientist He Jiankui should not be villainized - STAT](https://www.statnews.com/2020/01/02/crispr-babies-scientist-he-jiankui-should-not-be-villainized/)
+
+Record-059: **#relocate**, **#czech_republic**  
+[Переезд из СНГ в Чехию, собственный опыт (часть 2)](https://habr.com/ru/post/483032/)
