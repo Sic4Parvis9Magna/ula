@@ -166,3 +166,6 @@ Record-055: **#wifi7**, **#cs**, **#www**
 
 Record-056: **#tls**, **#ssl**, **#network**, **#security**, **#www**  
 [Введение в TLS для п̶р̶а̶к̶т̶и̶к̶о̶в̶ Патриков (часть 1)](https://habr.com/ru/company/plesk/blog/502604/)
+
+Record-057: **#cs**, **#network**, **#linkmeup**, **#for_begginers**  
+[Сети для самых маленьких. Часть нулевая. Планирование / linkmeup](https://linkmeup.ru/blog/11.html)
