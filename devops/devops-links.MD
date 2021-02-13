@@ -216,3 +216,6 @@ Record-068: **#hadoop**, **#bigtop**
 
 Record-069: **#k8s**, **#alibaba**, **#cloud_native**, **#usage_tips**  
 [Demystifying Kubernetes as a service - How Alibaba cloud manages 10,000s of Kubernetes clusters ](https://www.cncf.io/blog/2019/12/12/demystifying-kubernetes-as-a-service-how-does-alibaba-cloud-manage-10000s-of-kubernetes-clusters/)
+
+Record-070: **#aws**, **#cheat_sheet**, **#tips**  
+[AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
