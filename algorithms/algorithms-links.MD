@@ -72,3 +72,6 @@ Record-024: **#sha**, **#algorithms**, **#google**, **#security**, **#www**
 
 Record-025: **#algorithms**, **#sha**, **#security**  
 [Опасный алгоритм SHA-1 убирают из библиотек SSH](https://habr.com/ru/company/dcmiran/blog/504950/)
+
+Record-026: **#raft**, **#algorithms**  
+[The Raft Consensus Algorithm](https://raft.github.io/)
