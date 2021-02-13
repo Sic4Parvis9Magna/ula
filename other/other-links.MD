@@ -174,3 +174,6 @@ Record-058: **#science**, **#biology**
 
 Record-059: **#relocate**, **#czech_republic**  
 [Переезд из СНГ в Чехию, собственный опыт (часть 2)](https://habr.com/ru/post/483032/)
+
+Record-060: **#google**, **#faang**, **#job_story**  
+[I Was Google’s Head of International Relations. Here’s Why I Left.](https://medium.com/@rossformaine/i-was-googles-head-of-international-relations-here-s-why-i-left-49313d23065)
