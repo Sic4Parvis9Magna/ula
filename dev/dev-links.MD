@@ -252,3 +252,6 @@ Record-084: **#grpc**, **#protocols**, **#tips**
 
 Record-085: **#cs**, **#google**, **#architecture**  
 [Why you should pick strong consistency, whenever possible](https://cloud.google.com/blog/products/gcp/why-you-should-pick-strong-consistency-whenever-possible)
+
+Record-086: **#dev**, **#decade**, **#tech_overview**  
+[A decade in review in Tech](https://medium.com/@copyconstruct/a-decade-in-review-in-tech-1cde76c9b43c)
