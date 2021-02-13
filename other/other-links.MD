@@ -177,3 +177,6 @@ Record-059: **#relocate**, **#czech_republic**
 
 Record-060: **#google**, **#faang**, **#job_story**  
 [I Was Google’s Head of International Relations. Here’s Why I Left.](https://medium.com/@rossformaine/i-was-googles-head-of-international-relations-here-s-why-i-left-49313d23065)
+
+Record-061: **#relocate**, **#edu**, **#germany**, **#magister_deg**  
+[Опыт поступления в магистратуру в Германии (детальный разбор)](https://habr.com/ru/post/482636/)
