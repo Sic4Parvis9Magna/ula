@@ -183,3 +183,6 @@ Record-061: **#relocate**, **#edu**, **#germany**, **#magister_deg**
 
 Record-062: **#self_development**, **#carrier**  
 [Программист-фанатик. Как сохранить конкурентные преимущества и стать заметным?](https://m.habr.com/ru/amp/post/482298/)
+
+Record-063: **#podcast**, **#it**, **#sallaries**  
+[Podlodka 121 – Зарплаты](https://soundcloud.com/podlodka/podlodka-121-zarplaty)
