@@ -186,3 +186,6 @@ Record-062: **#self_development**, **#carrier**
 
 Record-063: **#podcast**, **#it**, **#sallaries**  
 [Podlodka 121 – Зарплаты](https://soundcloud.com/podlodka/podlodka-121-zarplaty)
+
+Record-064: **#jobs**, **#offers**, **#negotiations**, **#story**  
+[How I negotiated a $300,000 job offer in Silicon Valley](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
