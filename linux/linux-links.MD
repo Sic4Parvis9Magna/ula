@@ -181,3 +181,6 @@ Record-060: **#net**, **#interview**, **#questions**, **#tips**
 
 Record-061: **#ip_v6**, **#network**, **#cs**, **#p2**  
 [IPv6 — это весело, часть 2](https://habr.com/ru/post/254293/)
+
+Record-062: **#ip_v6**, **#network**, **#cs**, **#p1**  
+[IPv6 — это весело, часть 1](https://habr.com/ru/post/253803/)
