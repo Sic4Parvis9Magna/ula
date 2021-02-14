@@ -175,3 +175,6 @@ Record-058: **#cs**, **#network**, **#ip**, **#network_masks**
 
 Record-059: **#web**, **#sequrity**  
 [О безопасности в сети](https://habr.com/ru/post/482906/)
+
+Record-060: **#net**, **#interview**, **#questions**, **#tips**  
+[Каверзные сетевые вопросы](https://habr.com/ru/post/189268/)
