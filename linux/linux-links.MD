@@ -178,3 +178,6 @@ Record-059: **#web**, **#sequrity**
 
 Record-060: **#net**, **#interview**, **#questions**, **#tips**  
 [Каверзные сетевые вопросы](https://habr.com/ru/post/189268/)
+
+Record-061: **#ip_v6**, **#network**, **#cs**, **#p2**  
+[IPv6 — это весело, часть 2](https://habr.com/ru/post/254293/)
