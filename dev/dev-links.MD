@@ -258,3 +258,6 @@ Record-086: **#dev**, **#decade**, **#tech_overview**
 
 Record-087: **#jvm**, **#graal**  
 [Getting started with GraalVM - by Oleg Šelaje](https://www.javaadvent.com/2019/12/getting-started-with-graalvm.html)
+
+Record-088: **#git**, **#commits**, **#tips_trics**  
+[A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
