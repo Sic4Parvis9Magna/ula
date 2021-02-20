@@ -219,3 +219,6 @@ Record-069: **#k8s**, **#alibaba**, **#cloud_native**, **#usage_tips**
 
 Record-070: **#aws**, **#cheat_sheet**, **#tips**  
 [AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
+
+Record-071: **#devops**, **#interview**, **#questions**  
+[Вопросы на собеседовании девопса](https://vc.ru/ask/90344-voprosy-na-sobesedovanii-devopsa)
