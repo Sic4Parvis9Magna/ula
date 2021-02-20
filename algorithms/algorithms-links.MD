@@ -78,3 +78,6 @@ Record-026: **#raft**, **#algorithms**
 
 Record-027: **#rsa**, **#ecdsa**, **#algorithms**  
 [Comparing ECDSA vs RSA](https://www.ssl.com/article/comparing-ecdsa-vs-rsa/)
+
+Record-028: **#this**, **#jpeg**, **#pics_processing**, **#compression**, **#algorithm**  
+[Исследование многократного перезалива JPEG](https://habr.com/ru/post/473544/)
