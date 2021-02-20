@@ -189,3 +189,6 @@ Record-063: **#podcast**, **#it**, **#sallaries**
 
 Record-064: **#jobs**, **#offers**, **#negotiations**, **#story**  
 [How I negotiated a $300,000 job offer in Silicon Valley](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
+
+Record-065: **#relocation**, **#tips**, **#guide**, **#it**  
+[Как найти работу с релокацией в Европу: практический гайд для IT-специалистов](https://habr.com/ru/post/469023/)
