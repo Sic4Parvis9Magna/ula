@@ -261,3 +261,6 @@ Record-087: **#jvm**, **#graal**
 
 Record-088: **#git**, **#commits**, **#tips_trics**  
 [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+
+Record-089: **#aws**, **#telegram**, **#bot**, **#dev**  
+[Building a Telegram Bot with AWS API Gateway and AWS Lambda](https://dev.to/nqcm/-building-a-telegram-bot-with-aws-api-gateway-and-aws-lambda-27fg)
