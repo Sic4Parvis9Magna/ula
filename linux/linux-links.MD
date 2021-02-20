@@ -184,3 +184,6 @@ Record-061: **#ip_v6**, **#network**, **#cs**, **#p2**
 
 Record-062: **#ip_v6**, **#network**, **#cs**, **#p1**  
 [IPv6 — это весело, часть 1](https://habr.com/ru/post/253803/)
+
+Record-063: **#linux**, **#tools**, **#strace**  
+[strace - linux syscall tracer](https://strace.io/)
