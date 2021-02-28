@@ -267,3 +267,6 @@ Record-089: **#aws**, **#telegram**, **#bot**, **#dev**
 
 Record-090: **#spring**, **#java**, **#application_context**  
 [Spring Web Contexts](https://www.baeldung.com/spring-web-contexts)
+
+Record-091: **#oauth2**, **#springboot**, **#java**, **#google**  
+[Getting Started With Google Sign-In and Spring Boot - DZone Security](https://dzone.com/articles/getting-started-with-google-sign-in-in-spring-boot)
