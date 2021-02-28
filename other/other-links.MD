@@ -210,3 +210,6 @@ Record-070: **#code_practive**, **#platform**, **#algorithms**
 
 Record-071: **#vine**  
 [Вино Вальполичелла Рио Альбо Ка'ругате купить (VALPOLICELLA RIO ALBA CA'RUGATE)](https://altavina.ru/product/valpolichella-rio-albo-ka-rugate-1038211585/)
+
+Record-072: **#vine**  
+[Вино Амароне Делла Вальполичелла  Ка'ругате купить (AMARONE DELLA VALPOLICELLA CA'RUGA](https://altavina.ru/product/amarone-della-valpolichella-ka-rugate-1914796759/)
