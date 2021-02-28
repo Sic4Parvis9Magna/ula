@@ -195,3 +195,6 @@ Record-065: **#relocation**, **#tips**, **#guide**, **#it**
 
 Record-066: **#travel**, **#relocation**, **#costs**, **#tips**  
 [Cost of living and prices for more than 3000 cities around the world](https://traveltables.com/)
+
+Record-067: **#job_story**, **#careers**, **#sberbank**, **#yandex**, **#ebanoe**  
+[Про Сбербанк, Яндекс, про уверенность в себе и про то, как не нужно выбирать место работы.](http://mesyarik.ru/18/sberbank.html)
