@@ -225,3 +225,6 @@ Record-071: **#devops**, **#interview**, **#questions**
 
 Record-072: **#observability**, **#metrics**, **#prometheus**  
 [Existential issues with metrics](https://www.robustperception.io/existential-issues-with-metrics)
+
+Record-073: **#metrics**, **#red_mentrics**, **#observability**  
+[The RED Method: key metrics for microservices architecture](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
