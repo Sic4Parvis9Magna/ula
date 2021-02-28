@@ -204,3 +204,6 @@ Record-068: **#faang**, **#salaries**, **#benefits**, **#bonuses**
 
 Record-069: **#telegram**, **#chats**, **#IT**, **#all**  
 [telegram-list](https://github.com/goq/telegram-list)
+
+Record-070: **#code_practive**, **#platform**, **#algorithms**  
+[Leetcode](https://leetcode.com)
