@@ -193,3 +193,6 @@ Record-064: **#linux**, **#tools**, **#ls**, **#explained**
 
 Record-065: **#linux**, **#tools**, **#tcpdump**  
 [tcpdump command](https://geek-university.com/linux/tcpdump-command/)
+
+Record-066: **#linux**, **#swap**, **#explained**  
+[In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
