@@ -198,3 +198,6 @@ Record-066: **#travel**, **#relocation**, **#costs**, **#tips**
 
 Record-067: **#job_story**, **#careers**, **#sberbank**, **#yandex**, **#ebanoe**  
 [Про Сбербанк, Яндекс, про уверенность в себе и про то, как не нужно выбирать место работы.](http://mesyarik.ru/18/sberbank.html)
+
+Record-068: **#faang**, **#salaries**, **#benefits**, **#bonuses**  
+[Salaries & Tools to Level Up Your Career](http://levels.fyi)
