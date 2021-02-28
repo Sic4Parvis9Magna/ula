@@ -228,3 +228,6 @@ Record-072: **#observability**, **#metrics**, **#prometheus**
 
 Record-073: **#metrics**, **#red_mentrics**, **#observability**  
 [The RED Method: key metrics for microservices architecture](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
+
+Record-074: **#metrics**, **#red_mentrics**, **#observability**  
+[The RED Method: key metrics for microservices architecture](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
