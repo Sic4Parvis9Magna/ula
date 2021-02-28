@@ -190,3 +190,6 @@ Record-063: **#linux**, **#tools**, **#strace**
 
 Record-064: **#linux**, **#tools**, **#ls**, **#explained**  
 [How does ls work?](https://gist.github.com/amitsaha/8169242)
+
+Record-065: **#linux**, **#tools**, **#tcpdump**  
+[tcpdump command](https://geek-university.com/linux/tcpdump-command/)
