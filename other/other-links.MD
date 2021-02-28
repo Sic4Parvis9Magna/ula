@@ -207,3 +207,6 @@ Record-069: **#telegram**, **#chats**, **#IT**, **#all**
 
 Record-070: **#code_practive**, **#platform**, **#algorithms**  
 [Leetcode](https://leetcode.com)
+
+Record-071: **#vine**  
+[Вино Вальполичелла Рио Альбо Ка'ругате купить (VALPOLICELLA RIO ALBA CA'RUGATE)](https://altavina.ru/product/valpolichella-rio-albo-ka-rugate-1038211585/)
