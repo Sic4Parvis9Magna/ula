@@ -222,3 +222,6 @@ Record-070: **#aws**, **#cheat_sheet**, **#tips**
 
 Record-071: **#devops**, **#interview**, **#questions**  
 [Вопросы на собеседовании девопса](https://vc.ru/ask/90344-voprosy-na-sobesedovanii-devopsa)
+
+Record-072: **#observability**, **#metrics**, **#prometheus**  
+[Existential issues with metrics](https://www.robustperception.io/existential-issues-with-metrics)
