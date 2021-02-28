@@ -213,3 +213,6 @@ Record-071: **#vine**
 
 Record-072: **#vine**  
 [Вино Амароне Делла Вальполичелла  Ка'ругате купить (AMARONE DELLA VALPOLICELLA CA'RUGA](https://altavina.ru/product/amarone-della-valpolichella-ka-rugate-1914796759/)
+
+Record-073: **#russian_police**, **#grugs**, **#kpi**, **#cursed**  
+[Лишний вес. Краткая энциклопедия полицейских наркопровокаций](https://zona.media/article/2019/07/15/encyclopedia-228)
