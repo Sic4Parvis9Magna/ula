@@ -201,3 +201,6 @@ Record-067: **#job_story**, **#careers**, **#sberbank**, **#yandex**, **#ebanoe*
 
 Record-068: **#faang**, **#salaries**, **#benefits**, **#bonuses**  
 [Salaries & Tools to Level Up Your Career](http://levels.fyi)
+
+Record-069: **#telegram**, **#chats**, **#IT**, **#all**  
+[telegram-list](https://github.com/goq/telegram-list)
