@@ -192,3 +192,6 @@ Record-064: **#jobs**, **#offers**, **#negotiations**, **#story**
 
 Record-065: **#relocation**, **#tips**, **#guide**, **#it**  
 [Как найти работу с релокацией в Европу: практический гайд для IT-специалистов](https://habr.com/ru/post/469023/)
+
+Record-066: **#travel**, **#relocation**, **#costs**, **#tips**  
+[Cost of living and prices for more than 3000 cities around the world](https://traveltables.com/)
