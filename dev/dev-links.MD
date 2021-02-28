@@ -270,3 +270,6 @@ Record-090: **#spring**, **#java**, **#application_context**
 
 Record-091: **#oauth2**, **#springboot**, **#java**, **#google**  
 [Getting Started With Google Sign-In and Spring Boot - DZone Security](https://dzone.com/articles/getting-started-with-google-sign-in-in-spring-boot)
+
+Record-092: **#spring**, **#init**, **#tips**  
+[Spring: web.xml vs Initializer ](https://www.baeldung.com/spring-xml-vs-java-config)
