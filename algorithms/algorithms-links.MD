@@ -81,3 +81,6 @@ Record-027: **#rsa**, **#ecdsa**, **#algorithms**
 
 Record-028: **#this**, **#jpeg**, **#pics_processing**, **#compression**, **#algorithm**  
 [Исследование многократного перезалива JPEG](https://habr.com/ru/post/473544/)
+
+Record-029: **#fibonacci**, **#algorithm**, **#test_task**, **#interview**  
+[Huge Fibonacci Number modulo m](https://medium.com/competitive/huge-fibonacci-number-modulo-m-6b4926a5c836)
