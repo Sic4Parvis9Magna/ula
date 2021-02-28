@@ -187,3 +187,6 @@ Record-062: **#ip_v6**, **#network**, **#cs**, **#p1**
 
 Record-063: **#linux**, **#tools**, **#strace**  
 [strace - linux syscall tracer](https://strace.io/)
+
+Record-064: **#linux**, **#tools**, **#ls**, **#explained**  
+[How does ls work?](https://gist.github.com/amitsaha/8169242)
