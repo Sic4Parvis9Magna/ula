@@ -231,3 +231,6 @@ Record-073: **#metrics**, **#red_mentrics**, **#observability**
 
 Record-074: **#metrics**, **#red_mentrics**, **#observability**  
 [The RED Method: key metrics for microservices architecture](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
+
+Record-075: **#gitops**, **#weaveworks**, **#devops**, **#best_practices**  
+[What Is GitOps](https://www.weave.works/blog/what-is-gitops-really)
