@@ -273,3 +273,6 @@ Record-091: **#oauth2**, **#springboot**, **#java**, **#google**
 
 Record-092: **#spring**, **#init**, **#tips**  
 [Spring: web.xml vs Initializer ](https://www.baeldung.com/spring-xml-vs-java-config)
+
+Record-093: **#dev**, **#python**, **#tips**, **#imports**, **#explained**  
+[Как работают импорты в Python](https://tproger.ru/translations/guide-into-python-imports/)
