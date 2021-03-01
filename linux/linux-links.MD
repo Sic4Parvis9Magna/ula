@@ -196,3 +196,6 @@ Record-065: **#linux**, **#tools**, **#tcpdump**
 
 Record-066: **#linux**, **#swap**, **#explained**  
 [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+
+Record-067: **#kafka**, **#ubuntu**, **#setup**, **#server_config**, **#linux**  
+[Установка Apache Kafka в Ubuntu 18.04](https://www.8host.com/blog/ustanovka-apache-kafka-v-ubuntu-18-04/)
