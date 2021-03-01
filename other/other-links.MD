@@ -219,3 +219,6 @@ Record-073: **#russian_police**, **#grugs**, **#kpi**, **#cursed**
 
 Record-074: **#ru**, **#politics**, **#police_issue**  
 [Мы призываем всех перепечатывать полные тексты расследований Ивана Голунова](https://meduza.io/feature/2019/06/08/my-prizyvaem-vseh-perepechatyvat-polnye-teksty-rassledovaniy-ivana-golunova?utm_source=telegram.org&utm_medium=share_telegram&utm_campaign=share)
+
+Record-075: **#it**, **#telegram**, **#groups**  
+[Экосистема разработчиков в Telegram](https://habr.com/ru/post/401383/)
