@@ -288,3 +288,6 @@ Record-096: **#telegram**, **#free_network_drive**, **#tips**
 
 Record-097: **#frontend**, **#dev**, **#history**, **#tech_overview**  
 [Объясняем современный JavaScript динозавру](https://habr.com/ru/company/mailru/blog/340922/)
+
+Record-098: **#jwt**, **#authentication**, **#authorization**, **#web_security**  
+[Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию. Token-Based Authentication](https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc)
