@@ -279,3 +279,6 @@ Record-093: **#dev**, **#python**, **#tips**, **#imports**, **#explained**
 
 Record-094: **#java**, **#performance**  
 [Еще немного о производительности Java](https://m.habr.com/ru/post/122061/)
+
+Record-095: **#dev**, **#python**, **#unicode**  
+[Исчерпывающее руководство по Юникоду и кодировке символов в Python](https://tproger.ru/translations/unicode-and-encoding-python-guide/)
