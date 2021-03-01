@@ -282,3 +282,6 @@ Record-094: **#java**, **#performance**
 
 Record-095: **#dev**, **#python**, **#unicode**  
 [Исчерпывающее руководство по Юникоду и кодировке символов в Python](https://tproger.ru/translations/unicode-and-encoding-python-guide/)
+
+Record-096: **#telegram**, **#free_network_drive**, **#tips**  
+[Telegram. Безлимитный сетевой диск. Бесплатный](https://m.habr.com/ru/company/vds/blog/456290/)
