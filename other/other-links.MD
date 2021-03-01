@@ -216,3 +216,6 @@ Record-072: **#vine**
 
 Record-073: **#russian_police**, **#grugs**, **#kpi**, **#cursed**  
 [Лишний вес. Краткая энциклопедия полицейских наркопровокаций](https://zona.media/article/2019/07/15/encyclopedia-228)
+
+Record-074: **#ru**, **#politics**, **#police_issue**  
+[Мы призываем всех перепечатывать полные тексты расследований Ивана Голунова](https://meduza.io/feature/2019/06/08/my-prizyvaem-vseh-perepechatyvat-polnye-teksty-rassledovaniy-ivana-golunova?utm_source=telegram.org&utm_medium=share_telegram&utm_campaign=share)
