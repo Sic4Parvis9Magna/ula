@@ -234,3 +234,6 @@ Record-074: **#metrics**, **#red_mentrics**, **#observability**
 
 Record-075: **#gitops**, **#weaveworks**, **#devops**, **#best_practices**  
 [What Is GitOps](https://www.weave.works/blog/what-is-gitops-really)
+
+Record-076: **#k8s**, **#dns**, **#coredns**, **#cloud_native**, **#devops**  
+[CoreDNS — DNS-сервер для мира cloud native и Service Discovery для Kubernetes](https://m.habr.com/ru/company/0/blog/331872/)
