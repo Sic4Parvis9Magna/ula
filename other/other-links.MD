@@ -222,3 +222,6 @@ Record-074: **#ru**, **#politics**, **#police_issue**
 
 Record-075: **#it**, **#telegram**, **#groups**  
 [Экосистема разработчиков в Telegram](https://habr.com/ru/post/401383/)
+
+Record-076: **#it**, **#telegram**, **#groups**  
+[Экосистема разработчиков в Telegram](https://habr.com/ru/post/401383/)
