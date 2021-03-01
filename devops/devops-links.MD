@@ -243,3 +243,6 @@ Record-077: **#devops**, **#k8s**, **#release_1**
 
 Record-078: **#service_mesh**, **#microservices**, **#arhitecture**, **#devops**  
 [Что такое service mesh и почему он мне нужен ](https://m.habr.com/ru/company/flant/blog/327536/)
+
+Record-079: **#devops**, **#ci_cd**, **#jenkins**, **#docs**  
+[Pipeline Syntax](https://jenkins.io/doc/book/pipeline/syntax/)
