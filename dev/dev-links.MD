@@ -276,3 +276,6 @@ Record-092: **#spring**, **#init**, **#tips**
 
 Record-093: **#dev**, **#python**, **#tips**, **#imports**, **#explained**  
 [Как работают импорты в Python](https://tproger.ru/translations/guide-into-python-imports/)
+
+Record-094: **#java**, **#performance**  
+[Еще немного о производительности Java](https://m.habr.com/ru/post/122061/)
