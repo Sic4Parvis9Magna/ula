@@ -240,3 +240,6 @@ Record-076: **#k8s**, **#dns**, **#coredns**, **#cloud_native**, **#devops**
 
 Record-077: **#devops**, **#k8s**, **#release_1**  
 [Kubernetes 1.15: обзор основных новшеств](https://m.habr.com/ru/company/flant/blog/456084/)
+
+Record-078: **#service_mesh**, **#microservices**, **#arhitecture**, **#devops**  
+[Что такое service mesh и почему он мне нужен ](https://m.habr.com/ru/company/flant/blog/327536/)
