@@ -237,3 +237,6 @@ Record-075: **#gitops**, **#weaveworks**, **#devops**, **#best_practices**
 
 Record-076: **#k8s**, **#dns**, **#coredns**, **#cloud_native**, **#devops**  
 [CoreDNS — DNS-сервер для мира cloud native и Service Discovery для Kubernetes](https://m.habr.com/ru/company/0/blog/331872/)
+
+Record-077: **#devops**, **#k8s**, **#release_1**  
+[Kubernetes 1.15: обзор основных новшеств](https://m.habr.com/ru/company/flant/blog/456084/)
