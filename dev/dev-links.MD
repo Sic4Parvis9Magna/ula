@@ -285,3 +285,6 @@ Record-095: **#dev**, **#python**, **#unicode**
 
 Record-096: **#telegram**, **#free_network_drive**, **#tips**  
 [Telegram. Безлимитный сетевой диск. Бесплатный](https://m.habr.com/ru/company/vds/blog/456290/)
+
+Record-097: **#frontend**, **#dev**, **#history**, **#tech_overview**  
+[Объясняем современный JavaScript динозавру](https://habr.com/ru/company/mailru/blog/340922/)
