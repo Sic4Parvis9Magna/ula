@@ -225,3 +225,6 @@ Record-075: **#it**, **#telegram**, **#groups**
 
 Record-076: **#it**, **#telegram**, **#groups**  
 [Экосистема разработчиков в Telegram](https://habr.com/ru/post/401383/)
+
+Record-077: **#data**, **#personal_info**  
+[Базы данных для поиска людей в Интернете](https://pikabu.ru/story/bazyi_dannyikh_dlya_poiska_lyudey_v_internete_4363058)
