@@ -84,3 +84,6 @@ Record-028: **#this**, **#jpeg**, **#pics_processing**, **#compression**, **#alg
 
 Record-029: **#fibonacci**, **#algorithm**, **#test_task**, **#interview**  
 [Huge Fibonacci Number modulo m](https://medium.com/competitive/huge-fibonacci-number-modulo-m-6b4926a5c836)
+
+Record-030: **#rb_tree**, **#algorithms**, **#explained**  
+[Painting Nodes Black With Red-Black Trees](https://medium.com/basecs/painting-nodes-black-with-red-black-trees-60eacb2be9a5)
