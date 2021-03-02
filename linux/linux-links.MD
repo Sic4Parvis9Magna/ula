@@ -199,3 +199,6 @@ Record-066: **#linux**, **#swap**, **#explained**
 
 Record-067: **#kafka**, **#ubuntu**, **#setup**, **#server_config**, **#linux**  
 [Установка Apache Kafka в Ubuntu 18.04](https://www.8host.com/blog/ustanovka-apache-kafka-v-ubuntu-18-04/)
+
+Record-068: **#dpi**, **#networking**, **#security_issue**, **#workaround**  
+[ValdikSS-GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
