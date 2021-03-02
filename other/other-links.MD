@@ -228,3 +228,6 @@ Record-076: **#it**, **#telegram**, **#groups**
 
 Record-077: **#data**, **#personal_info**  
 [Базы данных для поиска людей в Интернете](https://pikabu.ru/story/bazyi_dannyikh_dlya_poiska_lyudey_v_internete_4363058)
+
+Record-078: **#google**, **#interview**, **#question**  
+[What happens when...](https://github.com/alex/what-happens-when)
