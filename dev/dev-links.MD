@@ -309,3 +309,6 @@ Record-103: **#python**, **#decorators**
 
 Record-104: **#spring**, **#rest**, **#web**, **#example**  
 [Spring MVC 4 RESTFul Web Services CRUD Example+RestTemplate](http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/)
+
+Record-105: **#java**, **#jni**  
+[Java Native Interface](https://en.wikipedia.org/wiki/Java_Native_Interface)
