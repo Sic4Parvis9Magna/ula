@@ -312,3 +312,6 @@ Record-104: **#spring**, **#rest**, **#web**, **#example**
 
 Record-105: **#java**, **#jni**  
 [Java Native Interface](https://en.wikipedia.org/wiki/Java_Native_Interface)
+
+Record-106: **#java**, **#unsafe**, **#tips**, **#trics**  
+[Java Magic. Part 4: sun.misc.Unsafe](http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/)
