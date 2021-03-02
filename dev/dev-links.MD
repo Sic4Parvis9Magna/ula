@@ -300,3 +300,6 @@ Record-100: **#design_patterns**, **#java**, **#tutorials**
 
 Record-101: **#so**, **#security**, **#spring**, **#filter_chain**  
 [How Spring Security Filter Chain works](https://stackoverflow.com/questions/41480102/how-spring-security-filter-chain-works)
+
+Record-102: **#docs**, **#security**, **#spring**, **#filter_chain**  
+[The Security Filter Chain](https://docs.spring.io/spring-security/site/docs/3.0.x/reference/security-filter-chain.html)
