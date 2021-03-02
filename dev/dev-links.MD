@@ -291,3 +291,6 @@ Record-097: **#frontend**, **#dev**, **#history**, **#tech_overview**
 
 Record-098: **#jwt**, **#authentication**, **#authorization**, **#web_security**  
 [Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию. Token-Based Authentication](https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc)
+
+Record-099: **#telegram**, **#two_factor_auth**, **#issues**, **#web_security**  
+[Почему двухфакторная авторизация в Telegram не работает](https://habr.com/ru/post/357108/)
