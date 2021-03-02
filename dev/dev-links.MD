@@ -297,3 +297,6 @@ Record-099: **#telegram**, **#two_factor_auth**, **#issues**, **#web_security**
 
 Record-100: **#design_patterns**, **#java**, **#tutorials**  
 [Design Patterns in Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/design_pattern/)
+
+Record-101: **#so**, **#security**, **#spring**, **#filter_chain**  
+[How Spring Security Filter Chain works](https://stackoverflow.com/questions/41480102/how-spring-security-filter-chain-works)
