@@ -306,3 +306,6 @@ Record-102: **#docs**, **#security**, **#spring**, **#filter_chain**
 
 Record-103: **#python**, **#decorators**  
 [Декораторы в Python: понять и полюбить](https://tproger.ru/translations/demystifying-decorators-in-python/)
+
+Record-104: **#spring**, **#rest**, **#web**, **#example**  
+[Spring MVC 4 RESTFul Web Services CRUD Example+RestTemplate](http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/)
