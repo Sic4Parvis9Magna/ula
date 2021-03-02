@@ -303,3 +303,6 @@ Record-101: **#so**, **#security**, **#spring**, **#filter_chain**
 
 Record-102: **#docs**, **#security**, **#spring**, **#filter_chain**  
 [The Security Filter Chain](https://docs.spring.io/spring-security/site/docs/3.0.x/reference/security-filter-chain.html)
+
+Record-103: **#python**, **#decorators**  
+[Декораторы в Python: понять и полюбить](https://tproger.ru/translations/demystifying-decorators-in-python/)
