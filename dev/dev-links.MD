@@ -294,3 +294,6 @@ Record-098: **#jwt**, **#authentication**, **#authorization**, **#web_security**
 
 Record-099: **#telegram**, **#two_factor_auth**, **#issues**, **#web_security**  
 [Почему двухфакторная авторизация в Telegram не работает](https://habr.com/ru/post/357108/)
+
+Record-100: **#design_patterns**, **#java**, **#tutorials**  
+[Design Patterns in Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/design_pattern/)
