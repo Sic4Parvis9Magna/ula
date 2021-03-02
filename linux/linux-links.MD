@@ -202,3 +202,6 @@ Record-067: **#kafka**, **#ubuntu**, **#setup**, **#server_config**, **#linux**
 
 Record-068: **#dpi**, **#networking**, **#security_issue**, **#workaround**  
 [ValdikSS-GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
+Record-069: **#mac**, **#hmac**, **#security**  
+[HMAC](https://en.wikipedia.org/wiki/HMAC)
