@@ -243,3 +243,6 @@ Record-081: **#linux**, **#freebsd**, **#history**
 
 Record-082: **#podcasts**, **#list**, **#it**  
 [Подборка подкастов по программированию на русском и английском языках](https://habr.com/post/308532/)
+
+Record-083: **#finland**, **#visa**, **#spb**, **#tourist_documents**  
+[Finland visa](http://visa.finland.eu/Russia/St_Petersburg/Russian/Short_Term_Visa.html#tourist_documents)
