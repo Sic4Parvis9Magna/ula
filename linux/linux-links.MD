@@ -208,3 +208,6 @@ Record-069: **#mac**, **#hmac**, **#security**
 
 Record-070: **#linux**, **#lvm**  
 [LVM — это просто!](https://habr.com/ru/post/67283/)
+
+Record-071: **#free_software**, **#linux**, **#tools**, **#mta**  
+[All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/#mta)
