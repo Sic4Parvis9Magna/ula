@@ -339,3 +339,6 @@ Record-113: **#java**, **#interview**, **#tips**
 
 Record-114: **#java**, **#gc**, **#explained**  
 [Дюк, вынеси мусор! — Часть 3](https://habr.com/post/269863/)
+
+Record-115: **#java**, **#jvm**, **#stacks**, **#thread_dumps**, **#tips**  
+[Всё, что вы хотели знать о стек-трейсах и хип-дампах. Часть 1](https://habr.com/company/jugru/blog/324932/)
