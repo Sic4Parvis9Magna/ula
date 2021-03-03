@@ -211,3 +211,6 @@ Record-070: **#linux**, **#lvm**
 
 Record-071: **#free_software**, **#linux**, **#tools**, **#mta**  
 [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/#mta)
+
+Record-072: **#linux**, **#terminal**, **#tips**  
+[Самые полезные приёмы работы в командной строке Linux](https://habr.com/company/ruvds/blog/323330/)
