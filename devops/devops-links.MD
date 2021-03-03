@@ -246,3 +246,6 @@ Record-078: **#service_mesh**, **#microservices**, **#arhitecture**, **#devops**
 
 Record-079: **#devops**, **#ci_cd**, **#jenkins**, **#docs**  
 [Pipeline Syntax](https://jenkins.io/doc/book/pipeline/syntax/)
+
+Record-080: **#devops**, **#promethues**, **#observability**  
+[Prometheus Blog Series (Part 1): Metrics and Labels](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/)
