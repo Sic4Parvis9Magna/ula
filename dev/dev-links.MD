@@ -321,3 +321,6 @@ Record-107: **#java**, **#jmm**
 
 Record-108: **#cs**, **#c**, **#virtual_method_table**, **#wikipedia**  
 [Virtual method table](https://en.wikipedia.org/wiki/Virtual_method_table)
+
+Record-109: **#web**, **#wsdl**  
+[WSDL - Introduction - Tutorialspoint](https://www.tutorialspoint.com/wsdl/wsdl_introduction.htm)
