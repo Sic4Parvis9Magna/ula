@@ -327,3 +327,6 @@ Record-109: **#web**, **#wsdl**
 
 Record-110: **#protocols**, **#cache**, **#mesi**  
 [MESI protocol](https://en.wikipedia.org/wiki/MESI_protocol)
+
+Record-111: **#mongodb**, **#posgtre**, **#migration**, **#sql**, **#nosql**  
+[Миграция с Mongo на Postgres: опыт газеты The Guardian](https://habr.com/ru/company/itsumma/blog/436416/)
