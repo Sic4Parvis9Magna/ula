@@ -351,3 +351,6 @@ Record-117: **#pagination**, **#api_design**, **#offset**
 
 Record-118: **#rest**, **#api**, **#design**  
 [RESTful API Design. Best Practices in a Nutshell.](https://blog.philipphauer.de/restful-api-design-best-practices/)
+
+Record-119: **#json_api**, **#api**, **#design**, **#docs**, **#errors**  
+[Latest Specification json api](https://jsonapi.org/format/#errors)
