@@ -324,3 +324,6 @@ Record-108: **#cs**, **#c**, **#virtual_method_table**, **#wikipedia**
 
 Record-109: **#web**, **#wsdl**  
 [WSDL - Introduction - Tutorialspoint](https://www.tutorialspoint.com/wsdl/wsdl_introduction.htm)
+
+Record-110: **#protocols**, **#cache**, **#mesi**  
+[MESI protocol](https://en.wikipedia.org/wiki/MESI_protocol)
