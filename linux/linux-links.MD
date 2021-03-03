@@ -217,3 +217,6 @@ Record-072: **#linux**, **#terminal**, **#tips**
 
 Record-073: **#linux**, **#books_list**  
 [Книги](https://losst.ru/knigi)
+
+Record-074: **#kvm**, **#minikube**, **#k8s**  
+[How To run Minikube on KVM](https://computingforgeeks.com/how-to-run-minikube-on-kvm/)
