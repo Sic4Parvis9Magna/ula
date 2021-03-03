@@ -333,3 +333,6 @@ Record-111: **#mongodb**, **#posgtre**, **#migration**, **#sql**, **#nosql**
 
 Record-112: **#python**, **#scripts**, **#passwords**, **#tips**  
 [Как не продолбать пароли в Python скриптах](https://habr.com/post/435652/)
+
+Record-113: **#java**, **#interview**, **#tips**  
+[Шпаргалка Java-программиста 6. Список полезных ссылок для Java программиста](https://habr.com/company/luxoft/blog/280784/)
