@@ -237,3 +237,6 @@ Record-079: **#food**, **#reciple**
 
 Record-080: **#food**, **#reciple**  
 [Cajun Pork Steaks](https://www.littlecookingtips.com/content/cajun-pork-steaks?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly)
+
+Record-081: **#linux**, **#freebsd**, **#history**  
+[Open Source History: Why Didn’t BSD Beat Out GNU and Linux?](https://www.channelfutures.com/open-source/open-source-history-why-didnt-bsd-beat-out-gnu-and-linux)
