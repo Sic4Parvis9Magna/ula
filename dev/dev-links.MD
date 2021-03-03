@@ -348,3 +348,6 @@ Record-116: **#git**, **#code_stile**, **#automation**
 
 Record-117: **#pagination**, **#api_design**, **#offset**  
 [Web API Pagination with the 'Timestamp_Offset_Checksum' Continuation Token](https://blog.philipphauer.de/web-api-pagination-continuation-token/#offset-pagination)
+
+Record-118: **#rest**, **#api**, **#design**  
+[RESTful API Design. Best Practices in a Nutshell.](https://blog.philipphauer.de/restful-api-design-best-practices/)
