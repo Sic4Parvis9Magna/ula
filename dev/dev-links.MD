@@ -330,3 +330,6 @@ Record-110: **#protocols**, **#cache**, **#mesi**
 
 Record-111: **#mongodb**, **#posgtre**, **#migration**, **#sql**, **#nosql**  
 [Миграция с Mongo на Postgres: опыт газеты The Guardian](https://habr.com/ru/company/itsumma/blog/436416/)
+
+Record-112: **#python**, **#scripts**, **#passwords**, **#tips**  
+[Как не продолбать пароли в Python скриптах](https://habr.com/post/435652/)
