@@ -315,3 +315,6 @@ Record-105: **#java**, **#jni**
 
 Record-106: **#java**, **#unsafe**, **#tips**, **#trics**  
 [Java Magic. Part 4: sun.misc.Unsafe](http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/)
+
+Record-107: **#java**, **#jmm**  
+[Откуда растут ноги у Java Memory Model](https://m.habr.com/ru/post/440590/)
