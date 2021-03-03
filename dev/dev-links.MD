@@ -354,3 +354,6 @@ Record-118: **#rest**, **#api**, **#design**
 
 Record-119: **#json_api**, **#api**, **#design**, **#docs**, **#errors**  
 [Latest Specification json api](https://jsonapi.org/format/#errors)
+
+Record-120: **#http_methods**, **#put**, **#patch**, **#api**, **#design**  
+[PUT vs PATCH vs JSON-PATCH](https://philsturgeon.uk/api/2016/05/03/put-vs-patch-vs-json-patch/)
