@@ -214,3 +214,6 @@ Record-071: **#free_software**, **#linux**, **#tools**, **#mta**
 
 Record-072: **#linux**, **#terminal**, **#tips**  
 [Самые полезные приёмы работы в командной строке Linux](https://habr.com/company/ruvds/blog/323330/)
+
+Record-073: **#linux**, **#books_list**  
+[Книги](https://losst.ru/knigi)
