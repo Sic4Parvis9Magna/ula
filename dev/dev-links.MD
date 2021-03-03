@@ -318,3 +318,6 @@ Record-106: **#java**, **#unsafe**, **#tips**, **#trics**
 
 Record-107: **#java**, **#jmm**  
 [Откуда растут ноги у Java Memory Model](https://m.habr.com/ru/post/440590/)
+
+Record-108: **#cs**, **#c**, **#virtual_method_table**, **#wikipedia**  
+[Virtual method table](https://en.wikipedia.org/wiki/Virtual_method_table)
