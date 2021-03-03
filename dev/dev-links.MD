@@ -336,3 +336,6 @@ Record-112: **#python**, **#scripts**, **#passwords**, **#tips**
 
 Record-113: **#java**, **#interview**, **#tips**  
 [Шпаргалка Java-программиста 6. Список полезных ссылок для Java программиста](https://habr.com/company/luxoft/blog/280784/)
+
+Record-114: **#java**, **#gc**, **#explained**  
+[Дюк, вынеси мусор! — Часть 3](https://habr.com/post/269863/)
