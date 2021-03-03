@@ -240,3 +240,6 @@ Record-080: **#food**, **#reciple**
 
 Record-081: **#linux**, **#freebsd**, **#history**  
 [Open Source History: Why Didn’t BSD Beat Out GNU and Linux?](https://www.channelfutures.com/open-source/open-source-history-why-didnt-bsd-beat-out-gnu-and-linux)
+
+Record-082: **#podcasts**, **#list**, **#it**  
+[Подборка подкастов по программированию на русском и английском языках](https://habr.com/post/308532/)
