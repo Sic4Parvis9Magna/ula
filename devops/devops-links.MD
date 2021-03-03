@@ -249,3 +249,6 @@ Record-079: **#devops**, **#ci_cd**, **#jenkins**, **#docs**
 
 Record-080: **#devops**, **#promethues**, **#observability**  
 [Prometheus Blog Series (Part 1): Metrics and Labels](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/)
+
+Record-081: **#k8s**, **#prometheus**, **#metrics**, **#alert_manager**, **#observability**  
+[Kubernetes Monitoring with Prometheus (Part 2)](https://sysdig.com/blog/kubernetes-monitoring-with-prometheus-alertmanager-grafana-pushgateway-part-2/)
