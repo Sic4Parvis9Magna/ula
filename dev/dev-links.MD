@@ -342,3 +342,6 @@ Record-114: **#java**, **#gc**, **#explained**
 
 Record-115: **#java**, **#jvm**, **#stacks**, **#thread_dumps**, **#tips**  
 [Всё, что вы хотели знать о стек-трейсах и хип-дампах. Часть 1](https://habr.com/company/jugru/blog/324932/)
+
+Record-116: **#git**, **#code_stile**, **#automation**  
+[Configuring Git to handle line endings](https://help.github.com/articles/dealing-with-line-endings/)
