@@ -345,3 +345,6 @@ Record-115: **#java**, **#jvm**, **#stacks**, **#thread_dumps**, **#tips**
 
 Record-116: **#git**, **#code_stile**, **#automation**  
 [Configuring Git to handle line endings](https://help.github.com/articles/dealing-with-line-endings/)
+
+Record-117: **#pagination**, **#api_design**, **#offset**  
+[Web API Pagination with the 'Timestamp_Offset_Checksum' Continuation Token](https://blog.philipphauer.de/web-api-pagination-continuation-token/#offset-pagination)
