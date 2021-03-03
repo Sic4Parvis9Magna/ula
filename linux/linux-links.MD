@@ -205,3 +205,6 @@ Record-068: **#dpi**, **#networking**, **#security_issue**, **#workaround**
 
 Record-069: **#mac**, **#hmac**, **#security**  
 [HMAC](https://en.wikipedia.org/wiki/HMAC)
+
+Record-070: **#linux**, **#lvm**  
+[LVM — это просто!](https://habr.com/ru/post/67283/)
