@@ -360,3 +360,6 @@ Record-120: **#http_methods**, **#put**, **#patch**, **#api**, **#design**
 
 Record-121: **#temp_mail**, **#web**, **#tools**  
 [temporary email](https://temp-mail.org/en/option/refresh/)
+
+Record-122: **#java**, **#maven**, **#interview_questions**  
+[Ответы на вопросы на собеседование Maven (часть 2).](https://jsehelper.blogspot.com/2016/05/maven-2.html)
