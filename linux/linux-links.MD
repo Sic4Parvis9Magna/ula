@@ -229,3 +229,6 @@ Record-076: **#network**, **#tips**, **#guide**
 
 Record-077: **#docker**, **#docs**, **#linux_setup**, **#manage**  
 [Post-installation steps for Linux](https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user)
+
+Record-078: **#linux**, **#windows**, **#dualboot**  
+[How To Create A Ubuntu 16.04 USB Drive Using Windows 10](http://www.everydaylinuxuser.com/2015/11/how-to-create-ubuntu-1510-usb-drive.html)
