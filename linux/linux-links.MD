@@ -232,3 +232,6 @@ Record-077: **#docker**, **#docs**, **#linux_setup**, **#manage**
 
 Record-078: **#linux**, **#windows**, **#dualboot**  
 [How To Create A Ubuntu 16.04 USB Drive Using Windows 10](http://www.everydaylinuxuser.com/2015/11/how-to-create-ubuntu-1510-usb-drive.html)
+
+Record-079: **#linux**, **#file_permissions**  
+[Permissions](http://www.slackbook.org/html/filesystem-structure-permissions.html)
