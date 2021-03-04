@@ -372,3 +372,6 @@ Record-124: **#java**, **#interview**, **#core**, **#questions**
 
 Record-125: **#java**, **#interview**, **#core**, **#questions**  
 [Вопросы на собеседование Junior Java Developer](https://jsehelper.blogspot.com/p/welcome.html)
+
+Record-126: **#java**, **#inner_classed**  
+[Вложенные классы в Java](https://habr.com/post/342090/)
