@@ -357,3 +357,6 @@ Record-119: **#json_api**, **#api**, **#design**, **#docs**, **#errors**
 
 Record-120: **#http_methods**, **#put**, **#patch**, **#api**, **#design**  
 [PUT vs PATCH vs JSON-PATCH](https://philsturgeon.uk/api/2016/05/03/put-vs-patch-vs-json-patch/)
+
+Record-121: **#temp_mail**, **#web**, **#tools**  
+[temporary email](https://temp-mail.org/en/option/refresh/)
