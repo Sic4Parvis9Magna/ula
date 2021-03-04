@@ -258,3 +258,6 @@ Record-082: **#istio**, **#devops**, **#service_meth**, **#presentation**
 
 Record-083: **#k8s**, **#tools**, **#kops**  
 [kubernetes-kops](https://github.com/kubernetes/kops)
+
+Record-084: **#aws**, **#git**, **#examples**  
+[AWS Samples](https://github.com/aws-samples)
