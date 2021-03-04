@@ -369,3 +369,6 @@ Record-123: **#hibernate**, **#questions**, **#interview**
 
 Record-124: **#java**, **#interview**, **#core**, **#questions**  
 [Ответы на вопросы на собеседование Java core (часть 3).](https://jsehelper.blogspot.com/2016/01/java-core-3.html)
+
+Record-125: **#java**, **#interview**, **#core**, **#questions**  
+[Вопросы на собеседование Junior Java Developer](https://jsehelper.blogspot.com/p/welcome.html)
