@@ -261,3 +261,6 @@ Record-083: **#k8s**, **#tools**, **#kops**
 
 Record-084: **#aws**, **#git**, **#examples**  
 [AWS Samples](https://github.com/aws-samples)
+
+Record-085: **#aws**, **#policygen**, **#tools**  
+[AWS Policy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
