@@ -255,3 +255,6 @@ Record-081: **#k8s**, **#prometheus**, **#metrics**, **#alert_manager**, **#obse
 
 Record-082: **#istio**, **#devops**, **#service_meth**, **#presentation**  
 [Istio presentaition](https://vrutkovs.github.io/slides-istio-intro/)
+
+Record-083: **#k8s**, **#tools**, **#kops**  
+[kubernetes-kops](https://github.com/kubernetes/kops)
