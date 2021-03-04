@@ -252,3 +252,6 @@ Record-080: **#devops**, **#promethues**, **#observability**
 
 Record-081: **#k8s**, **#prometheus**, **#metrics**, **#alert_manager**, **#observability**  
 [Kubernetes Monitoring with Prometheus (Part 2)](https://sysdig.com/blog/kubernetes-monitoring-with-prometheus-alertmanager-grafana-pushgateway-part-2/)
+
+Record-082: **#istio**, **#devops**, **#service_meth**, **#presentation**  
+[Istio presentaition](https://vrutkovs.github.io/slides-istio-intro/)
