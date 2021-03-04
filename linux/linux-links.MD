@@ -226,3 +226,6 @@ Record-075: **#pulse_secure**, **#proxy**, **#tools**, **#linux**
 
 Record-076: **#network**, **#tips**, **#guide**  
 [Сети для самых маленьких. Часть нулевая. Планирование](https://habr.com/post/134892/)
+
+Record-077: **#docker**, **#docs**, **#linux_setup**, **#manage**  
+[Post-installation steps for Linux](https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user)
