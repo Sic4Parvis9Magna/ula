@@ -220,3 +220,6 @@ Record-073: **#linux**, **#books_list**
 
 Record-074: **#kvm**, **#minikube**, **#k8s**  
 [How To run Minikube on KVM](https://computingforgeeks.com/how-to-run-minikube-on-kvm/)
+
+Record-075: **#pulse_secure**, **#proxy**, **#tools**, **#linux**  
+[Pulse Secure installation on CentOS 8 and Ubuntu 18,20](https://cis.technion.ac.il/en/central-services/communication/install-pulse-client-linux/)
