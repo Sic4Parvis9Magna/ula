@@ -249,3 +249,6 @@ Record-083: **#finland**, **#visa**, **#spb**, **#tourist_documents**
 
 Record-084: **#interview**, **#java**, **#questiions**, **#june_way**  
 [Истории собеседований](https://docs.google.com/document/d/1eU5eFlJ_wepAQpg_rWH_j_JU-t0lxMcBWB9ayadekDo/edit#)
+
+Record-085: **#sefl_grow_plan**  
+[Детальный план самообразования в Computer Science за 1.5 года](https://proglib.io/p/cs-learning/)
