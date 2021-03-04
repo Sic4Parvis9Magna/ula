@@ -87,3 +87,6 @@ Record-029: **#fibonacci**, **#algorithm**, **#test_task**, **#interview**
 
 Record-030: **#rb_tree**, **#algorithms**, **#explained**  
 [Painting Nodes Black With Red-Black Trees](https://medium.com/basecs/painting-nodes-black-with-red-black-trees-60eacb2be9a5)
+
+Record-031: **#algorithms**, **#code_tasks**  
+[projecteuler](https://projecteuler.net)
