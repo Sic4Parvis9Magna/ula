@@ -223,3 +223,6 @@ Record-074: **#kvm**, **#minikube**, **#k8s**
 
 Record-075: **#pulse_secure**, **#proxy**, **#tools**, **#linux**  
 [Pulse Secure installation on CentOS 8 and Ubuntu 18,20](https://cis.technion.ac.il/en/central-services/communication/install-pulse-client-linux/)
+
+Record-076: **#network**, **#tips**, **#guide**  
+[Сети для самых маленьких. Часть нулевая. Планирование](https://habr.com/post/134892/)
