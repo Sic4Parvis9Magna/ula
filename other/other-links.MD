@@ -246,3 +246,6 @@ Record-082: **#podcasts**, **#list**, **#it**
 
 Record-083: **#finland**, **#visa**, **#spb**, **#tourist_documents**  
 [Finland visa](http://visa.finland.eu/Russia/St_Petersburg/Russian/Short_Term_Visa.html#tourist_documents)
+
+Record-084: **#interview**, **#java**, **#questiions**, **#june_way**  
+[Истории собеседований](https://docs.google.com/document/d/1eU5eFlJ_wepAQpg_rWH_j_JU-t0lxMcBWB9ayadekDo/edit#)
