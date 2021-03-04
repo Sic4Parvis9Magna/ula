@@ -235,3 +235,7 @@ Record-078: **#linux**, **#windows**, **#dualboot**
 
 Record-079: **#linux**, **#file_permissions**  
 [Permissions](http://www.slackbook.org/html/filesystem-structure-permissions.html)
+
+Record-080: **#linux**, **#web**, **#utils**, **#cron**  
+[
+The quick and simple editor for cron schedule expressions by Cronitor](https://crontab.guru/#@hourly)
