@@ -363,3 +363,6 @@ Record-121: **#temp_mail**, **#web**, **#tools**
 
 Record-122: **#java**, **#maven**, **#interview_questions**  
 [Ответы на вопросы на собеседование Maven (часть 2).](https://jsehelper.blogspot.com/2016/05/maven-2.html)
+
+Record-123: **#hibernate**, **#questions**, **#interview**  
+[Шпаргалка Java программиста 1: JPA и Hibernate в вопросах и ответах](https://habr.com/post/265061/)
