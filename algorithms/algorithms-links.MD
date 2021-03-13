@@ -96,3 +96,6 @@ Record-032: **#algorithms**, **#math**, **#cs**
 
 Record-033: **#queue**, **#algorithms**, **#data_structures**  
 [Queue Set 1 (Introduction and Array Implementation)](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
+
+Record-034: **#algotrithms**, **#fibonnach_heap**, **#heap**, **#data_structures**  
+[Fibonacci heap](https://en.wikipedia.org/wiki/Fibonacci_heap)
