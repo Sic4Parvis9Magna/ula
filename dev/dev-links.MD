@@ -405,3 +405,6 @@ Record-135: **#git**, **#branching_strategy**
 
 Record-136: **#java**, **#junior**, **#interview**, **#questions**  
 [Вопросы на собеседование Junior Java](https://jsehelper.blogspot.com/p/welcome.html)
+
+Record-137: **#zaal**, **#git**, **#lections**, **#course**, **#2018**  
+[Git for newbies course](https://drive.google.com/drive/folders/1kLdKKPx7fDjoqsC4L-Kps88H4EalIGCh)
