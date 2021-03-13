@@ -255,3 +255,6 @@ Record-085: **#sefl_grow_plan**
 
 Record-086: **#docs**, **#geant4**, **#physics**, **#tools**  
 [Geant4 File List](http://www.apc.univ-paris7.fr/~franco/g4doxy/html/files.html)
+
+Record-087: **#physics**, **#channeling**, **#books**  
+[Crystal Channeling and Its Application at High-Energy Accelerators](http://www.springer.com/la/book/9783540607694)
