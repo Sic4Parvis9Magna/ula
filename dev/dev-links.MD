@@ -387,3 +387,6 @@ Record-129: **#cap_theorem**, **#new_view**
 
 Record-130: **#testing**, **#stubbing**, **#mocking**, **#martin_fowler**  
 [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+
+Record-131: **#git**, **#course**, **#zaal**  
+[Git tool course by Zaal](https://drive.google.com/drive/folders/0B29M3sfdctitWENGaEtrZ0xPdmc)
