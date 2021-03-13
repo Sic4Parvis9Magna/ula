@@ -399,3 +399,6 @@ Record-133: **#java**, **#juneway**, **#cooperation**, **#google_docs**, **#memo
 
 Record-134: **#java**, **#spring**, **#tips**, **#trics**  
 [Обратная сторона Spring](https://habr.com/post/334448/)
+
+Record-135: **#git**, **#branching_strategy**  
+[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
