@@ -393,3 +393,6 @@ Record-131: **#git**, **#course**, **#zaal**
 
 Record-132: **#java**, **#book**, **#style_guide**, **#ebook**, **#free**  
 [Java 8 Programmer II Study Guide](http://ocpj8.javastudyguide.com/index.html)
+
+Record-133: **#java**, **#juneway**, **#cooperation**, **#google_docs**, **#memo**, **#gid**  
+[Становимся про](https://docs.google.com/spreadsheets/d/1PFOt_xx-gZ6fzMFS7s2iWFH8lLQHRSc7-gvuCW2E9is/edit#gid=718888910)
