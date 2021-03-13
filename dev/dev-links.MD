@@ -396,3 +396,6 @@ Record-132: **#java**, **#book**, **#style_guide**, **#ebook**, **#free**
 
 Record-133: **#java**, **#juneway**, **#cooperation**, **#google_docs**, **#memo**, **#gid**  
 [Становимся про](https://docs.google.com/spreadsheets/d/1PFOt_xx-gZ6fzMFS7s2iWFH8lLQHRSc7-gvuCW2E9is/edit#gid=718888910)
+
+Record-134: **#java**, **#spring**, **#tips**, **#trics**  
+[Обратная сторона Spring](https://habr.com/post/334448/)
