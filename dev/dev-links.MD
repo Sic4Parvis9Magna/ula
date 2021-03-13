@@ -384,3 +384,6 @@ Record-128: **#java**, **#jpa**, **#interview**, **#questions**
 
 Record-129: **#cap_theorem**, **#new_view**  
 [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
+
+Record-130: **#testing**, **#stubbing**, **#mocking**, **#martin_fowler**  
+[Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
