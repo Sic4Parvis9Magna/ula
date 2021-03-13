@@ -381,3 +381,6 @@ Record-127: **#dev**, **#transabctions**, **#sql**
 
 Record-128: **#java**, **#jpa**, **#interview**, **#questions**  
 [Шпаргалка Java программиста 1: JPA и Hibernate в вопросах и ответах](https://habr.com/post/265061/)
+
+Record-129: **#cap_theorem**, **#new_view**  
+[CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
