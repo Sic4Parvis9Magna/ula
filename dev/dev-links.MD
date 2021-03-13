@@ -375,3 +375,6 @@ Record-125: **#java**, **#interview**, **#core**, **#questions**
 
 Record-126: **#java**, **#inner_classed**  
 [Вложенные классы в Java](https://habr.com/post/342090/)
+
+Record-127: **#dev**, **#transabctions**, **#sql**  
+[Distributed transactions in Spring, with and without XA](https://www.javaworld.com/article/2077963/open-source-tools/distributed-transactions-in-spring--with-and-without-xa.html)
