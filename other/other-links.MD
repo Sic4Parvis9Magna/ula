@@ -252,3 +252,6 @@ Record-084: **#interview**, **#java**, **#questiions**, **#june_way**
 
 Record-085: **#sefl_grow_plan**  
 [Детальный план самообразования в Computer Science за 1.5 года](https://proglib.io/p/cs-learning/)
+
+Record-086: **#docs**, **#geant4**, **#physics**, **#tools**  
+[Geant4 File List](http://www.apc.univ-paris7.fr/~franco/g4doxy/html/files.html)
