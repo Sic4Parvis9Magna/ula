@@ -408,3 +408,6 @@ Record-136: **#java**, **#junior**, **#interview**, **#questions**
 
 Record-137: **#zaal**, **#git**, **#lections**, **#course**, **#2018**  
 [Git for newbies course](https://drive.google.com/drive/folders/1kLdKKPx7fDjoqsC4L-Kps88H4EalIGCh)
+
+Record-138: **#spring**, **#guides**, **#localization**  
+[How to localize Spring applications like a Pro – The Phrase Blog – Software Localization Experts](https://phraseapp.com/blog/posts/how-to-localize-spring-applications-like-a-pro/)
