@@ -93,3 +93,6 @@ Record-031: **#algorithms**, **#code_tasks**
 
 Record-032: **#algorithms**, **#math**, **#cs**  
 [mathematics for cs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
+
+Record-033: **#queue**, **#algorithms**, **#data_structures**  
+[Queue Set 1 (Introduction and Array Implementation)](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
