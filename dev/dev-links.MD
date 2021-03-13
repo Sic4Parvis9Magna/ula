@@ -390,3 +390,6 @@ Record-130: **#testing**, **#stubbing**, **#mocking**, **#martin_fowler**
 
 Record-131: **#git**, **#course**, **#zaal**  
 [Git tool course by Zaal](https://drive.google.com/drive/folders/0B29M3sfdctitWENGaEtrZ0xPdmc)
+
+Record-132: **#java**, **#book**, **#style_guide**, **#ebook**, **#free**  
+[Java 8 Programmer II Study Guide](http://ocpj8.javastudyguide.com/index.html)
