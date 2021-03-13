@@ -402,3 +402,6 @@ Record-134: **#java**, **#spring**, **#tips**, **#trics**
 
 Record-135: **#git**, **#branching_strategy**  
 [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
+Record-136: **#java**, **#junior**, **#interview**, **#questions**  
+[Вопросы на собеседование Junior Java](https://jsehelper.blogspot.com/p/welcome.html)
