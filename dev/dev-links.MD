@@ -378,3 +378,6 @@ Record-126: **#java**, **#inner_classed**
 
 Record-127: **#dev**, **#transabctions**, **#sql**  
 [Distributed transactions in Spring, with and without XA](https://www.javaworld.com/article/2077963/open-source-tools/distributed-transactions-in-spring--with-and-without-xa.html)
+
+Record-128: **#java**, **#jpa**, **#interview**, **#questions**  
+[Шпаргалка Java программиста 1: JPA и Hibernate в вопросах и ответах](https://habr.com/post/265061/)
