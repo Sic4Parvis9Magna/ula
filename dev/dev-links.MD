@@ -411,3 +411,6 @@ Record-137: **#zaal**, **#git**, **#lections**, **#course**, **#2018**
 
 Record-138: **#spring**, **#guides**, **#localization**  
 [How to localize Spring applications like a Pro – The Phrase Blog – Software Localization Experts](https://phraseapp.com/blog/posts/how-to-localize-spring-applications-like-a-pro/)
+
+Record-139: **#spring**, **#guides**, **#localization**  
+[Guide to Internationalization in Spring Boot](http://www.baeldung.com/spring-boot-internationalization)
