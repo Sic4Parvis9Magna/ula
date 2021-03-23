@@ -420,3 +420,6 @@ Record-140: **#cpp**, **#c**, **#exceptions**, **#errors_handling**
 
 Record-141: **#architecture**, **#microservice_architecture_overview**  
 [Microservices Architecture From A to Z](https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28)
+
+Record-142: **#web**, **#development**, **#hostings**, **#free**, **#list**  
+[Бесплатные хостинги для веб-разработчиков](https://habr.com/ru/post/535168/)
