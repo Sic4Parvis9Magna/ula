@@ -414,3 +414,6 @@ Record-138: **#spring**, **#guides**, **#localization**
 
 Record-139: **#spring**, **#guides**, **#localization**  
 [Guide to Internationalization in Spring Boot](http://www.baeldung.com/spring-boot-internationalization)
+
+Record-140: **#cpp**, **#c**, **#exceptions**, **#errors_handling**  
+[Error codes are far slower than exceptions](https://lordsoftech.com/programming/error-codes-are-far-slower-than-exceptions/)
