@@ -264,3 +264,6 @@ Record-084: **#aws**, **#git**, **#examples**
 
 Record-085: **#aws**, **#policygen**, **#tools**  
 [AWS Policy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
+
+Record-086: **#aws**, **#resource_limits**, **#devops**  
+[How to Defend Against AWS Surprise Bills](https://bahr.dev/2020/12/02/surprise-bills/)
