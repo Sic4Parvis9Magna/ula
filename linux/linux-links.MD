@@ -242,3 +242,6 @@ The quick and simple editor for cron schedule expressions by Cronitor](https://c
 
 Record-081: **#linux_networking**, **#linux**, **#ssh**, **#vpn**  
 [Linux Fu: VPN For Free With SSH](https://hackaday.com/2020/11/23/linux-fu-vpn-for-free-with-ssh/)
+
+Record-082: **#linux**, **#internals**, **#architecture**  
+[Анатомия GNU/Linux](https://habr.com/ru/post/531872/)
