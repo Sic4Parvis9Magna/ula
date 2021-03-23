@@ -273,3 +273,6 @@ Record-087: **#kvm**, **#aws**, **#xen**
 
 Record-088: **#netflix**, **#architecture**, **#clouds**, **#good_practice**, **#devops**  
 [A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
+
+Record-089: **#docker**, **#docker_files**, **#best_practice**, **#tips**, **#devops**  
+[Лучшие практики при написании безопасного Dockerfile](https://habr.com/ru/company/swordfish_security/blog/537280/)
