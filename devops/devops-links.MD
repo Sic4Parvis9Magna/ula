@@ -267,3 +267,6 @@ Record-085: **#aws**, **#policygen**, **#tools**
 
 Record-086: **#aws**, **#resource_limits**, **#devops**  
 [How to Defend Against AWS Surprise Bills](https://bahr.dev/2020/12/02/surprise-bills/)
+
+Record-087: **#kvm**, **#aws**, **#xen**  
+[AWS announced a move from Xen towards KVM. So what is KVM?](https://www.freecodecamp.org/news/aws-just-announced-a-move-from-xen-towards-kvm-so-what-is-kvm/)
