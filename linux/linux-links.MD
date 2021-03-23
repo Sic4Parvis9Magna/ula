@@ -239,3 +239,6 @@ Record-079: **#linux**, **#file_permissions**
 Record-080: **#linux**, **#web**, **#utils**, **#cron**  
 [
 The quick and simple editor for cron schedule expressions by Cronitor](https://crontab.guru/#@hourly)
+
+Record-081: **#linux_networking**, **#linux**, **#ssh**, **#vpn**  
+[Linux Fu: VPN For Free With SSH](https://hackaday.com/2020/11/23/linux-fu-vpn-for-free-with-ssh/)
