@@ -261,3 +261,6 @@ Record-087: **#physics**, **#channeling**, **#books**
 
 Record-088: **#covid**, **#pfizer**, **#review**  
 [Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine - Articles](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
+
+Record-089: **#spain**, **#relocation**, **#pros**  
+[Почему в Испании комфортно жить?](https://habr.com/ru/post/535090/)
