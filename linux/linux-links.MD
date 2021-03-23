@@ -245,3 +245,6 @@ Record-081: **#linux_networking**, **#linux**, **#ssh**, **#vpn**
 
 Record-082: **#linux**, **#internals**, **#architecture**  
 [Анатомия GNU/Linux](https://habr.com/ru/post/531872/)
+
+Record-083: **#wifi**, **#security**, **#linux**  
+[Cracking WPA2,WPA Wifi Network](https://alaa.blog/2019/09/cracking-wpa2wpa-wifi-network/)
