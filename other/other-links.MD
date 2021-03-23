@@ -258,3 +258,6 @@ Record-086: **#docs**, **#geant4**, **#physics**, **#tools**
 
 Record-087: **#physics**, **#channeling**, **#books**  
 [Crystal Channeling and Its Application at High-Energy Accelerators](http://www.springer.com/la/book/9783540607694)
+
+Record-088: **#covid**, **#pfizer**, **#review**  
+[Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine - Articles](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
