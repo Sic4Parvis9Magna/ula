@@ -270,3 +270,6 @@ Record-086: **#aws**, **#resource_limits**, **#devops**
 
 Record-087: **#kvm**, **#aws**, **#xen**  
 [AWS announced a move from Xen towards KVM. So what is KVM?](https://www.freecodecamp.org/news/aws-just-announced-a-move-from-xen-towards-kvm-so-what-is-kvm/)
+
+Record-088: **#netflix**, **#architecture**, **#clouds**, **#good_practice**, **#devops**  
+[A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
