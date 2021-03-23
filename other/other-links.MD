@@ -264,3 +264,6 @@ Record-088: **#covid**, **#pfizer**, **#review**
 
 Record-089: **#spain**, **#relocation**, **#pros**  
 [Почему в Испании комфортно жить?](https://habr.com/ru/post/535090/)
+
+Record-090: **#memory**, **#tech_details**, **#ssd**, **#hdd**, **#ram**  
+[Вспомнить всё. Разбираемся в полупроводниковой памяти](https://habr.com/ru/post/535552/)
