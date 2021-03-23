@@ -417,3 +417,6 @@ Record-139: **#spring**, **#guides**, **#localization**
 
 Record-140: **#cpp**, **#c**, **#exceptions**, **#errors_handling**  
 [Error codes are far slower than exceptions](https://lordsoftech.com/programming/error-codes-are-far-slower-than-exceptions/)
+
+Record-141: **#architecture**, **#microservice_architecture_overview**  
+[Microservices Architecture From A to Z](https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28)
