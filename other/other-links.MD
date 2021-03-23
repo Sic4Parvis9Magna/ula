@@ -270,3 +270,6 @@ Record-090: **#memory**, **#tech_details**, **#ssd**, **#hdd**, **#ram**
 
 Record-091: **#relocation**, **#im**, **#man_island**  
 [Переезд длиною в год: Украина – остров Мэн (часть 1)](https://habr.com/ru/post/536646/)
+
+Record-092: **#dpi**, **#networking**, **#scientific_papers**  
+[Evolving censorship evasion strategies](https://geneva.cs.umd.edu/papers/geneva_ccs19.pdf)
