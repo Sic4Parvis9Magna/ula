@@ -288,3 +288,6 @@ Record-096: **#faang**, **#interview**, **#algorithms**, **#tips**
 
 Record-097: **#physics**, **#elctro_magnetical_fileds**, **#bremsstrahlung**, **#xray**  
 [Как возникают электромагнитные волны](https://habr.com/ru/post/538070/)
+
+Record-098: **#physics**, **#space_expantion**, **#new_measures**  
+[Astronomers Get Their Wish, and a Cosmic Crisis Gets Worse](https://www.quantamagazine.org/astronomers-get-their-wish-and-the-hubble-crisis-gets-worse-20201217/)
