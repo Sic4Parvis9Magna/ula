@@ -105,3 +105,6 @@ Record-035: **#algorithms**, **#data_structures**, **#linked_list**
 
 Record-036: **#dna**, **#biology**, **#algorithms**  
 [CRISPR для чайников, или Краткая справка по быстрому редактированию ДНК](https://habr.com/ru/company/leader-id/blog/538374/)
+
+Record-037: **#telegram**, **#security**, **#algorithm**  
+[Security analysis of Telegram 2017](https://courses.csail.mit.edu/6.857/2017/project/19.pdf)
