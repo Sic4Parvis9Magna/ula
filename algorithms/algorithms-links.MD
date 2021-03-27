@@ -102,3 +102,6 @@ Record-034: **#algotrithms**, **#fibonnach_heap**, **#heap**, **#data_structures
 
 Record-035: **#algorithms**, **#data_structures**, **#linked_list**  
 [Doubly Circular Linked List](https://www.geeksforgeeks.org/doubly-circular-linked-list-set-1-introduction-and-insertion/)
+
+Record-036: **#dna**, **#biology**, **#algorithms**  
+[CRISPR для чайников, или Краткая справка по быстрому редактированию ДНК](https://habr.com/ru/company/leader-id/blog/538374/)
