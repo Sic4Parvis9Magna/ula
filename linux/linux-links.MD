@@ -251,3 +251,6 @@ Record-083: **#wifi**, **#security**, **#linux**
 
 Record-084: **#dpi**, **#networking**, **#general_overview**, **#workaround**  
 [Автономный способ обхода DPI и эффективный способ обхода блокировок сайтов по IP-адресу](https://habr.com/ru/post/335436/)
+
+Record-085: **#smtp**, **#server**, **#home_mail**, **#email_box**  
+[Настраиваем домашний почтовый сервер и уходим с «бесплатной» почты](https://habr.com/ru/post/539736/)
