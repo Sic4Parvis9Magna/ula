@@ -297,3 +297,6 @@ Record-099: **#physics**, **#primary_particles**, **#antiparticles**
 
 Record-100: **#workout**, **#guides**, **#health**  
 [The Dumbbell Workout Plan To Build Muscle At Home](https://www.coachmag.co.uk/fitness/workouts/dumbbell-workouts)
+
+Record-101: **#finance**, **#fonds_buble**, **#history**  
+[На фондовом рынке США сформировался пузырь небывалых размеров](https://habr.com/ru/post/541114/)
