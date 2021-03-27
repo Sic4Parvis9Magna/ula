@@ -423,3 +423,6 @@ Record-141: **#architecture**, **#microservice_architecture_overview**
 
 Record-142: **#web**, **#development**, **#hostings**, **#free**, **#list**  
 [Бесплатные хостинги для веб-разработчиков](https://habr.com/ru/post/535168/)
+
+Record-143: **#cpp17**, **#virtual_functions**  
+[C++17. Функция стандартной библиотеки std::launder и задача девиртуализации](https://habr.com/ru/post/540954/)
