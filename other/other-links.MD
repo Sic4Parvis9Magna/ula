@@ -294,3 +294,6 @@ Record-098: **#physics**, **#space_expantion**, **#new_measures**
 
 Record-099: **#physics**, **#primary_particles**, **#antiparticles**  
 [Not All Particles And Antiparticles Are Either Matter Or Antimatter](https://www.forbes.com/sites/startswithabang/2021/12/29/not-all-particles-and-antiparticles-are-either-matter-or-antimatter/?sh=10e6d2fd78af)
+
+Record-100: **#workout**, **#guides**, **#health**  
+[The Dumbbell Workout Plan To Build Muscle At Home](https://www.coachmag.co.uk/fitness/workouts/dumbbell-workouts)
