@@ -273,3 +273,6 @@ Record-091: **#relocation**, **#im**, **#man_island**
 
 Record-092: **#dpi**, **#networking**, **#scientific_papers**  
 [Evolving censorship evasion strategies](https://geneva.cs.umd.edu/papers/geneva_ccs19.pdf)
+
+Record-093: **#google**, **#career**, **#interview**, **#tips**  
+[My Preparation Journey for Google Interviews](https://medium.com/swlh/my-preparation-journey-for-google-interviews-f41e2dc3cdf9)
