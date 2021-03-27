@@ -108,3 +108,6 @@ Record-036: **#dna**, **#biology**, **#algorithms**
 
 Record-037: **#telegram**, **#security**, **#algorithm**  
 [Security analysis of Telegram 2017](https://courses.csail.mit.edu/6.857/2017/project/19.pdf)
+
+Record-038: **#mtp_proto**, **#security**, **#algorithm**  
+[On the CCA (in)security of MTProto](https://eprint.iacr.org/2015/1177.pdf)
