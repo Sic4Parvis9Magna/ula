@@ -276,3 +276,6 @@ Record-092: **#dpi**, **#networking**, **#scientific_papers**
 
 Record-093: **#google**, **#career**, **#interview**, **#tips**  
 [My Preparation Journey for Google Interviews](https://medium.com/swlh/my-preparation-journey-for-google-interviews-f41e2dc3cdf9)
+
+Record-094: **#web**, **#RKN**, **#web_issues**  
+[В России сохраняются проблемы с доступностью сайтов, но никто их не замечает](https://habr.com/en/post/528210/)
