@@ -426,3 +426,6 @@ Record-142: **#web**, **#development**, **#hostings**, **#free**, **#list**
 
 Record-143: **#cpp17**, **#virtual_functions**  
 [C++17. Функция стандартной библиотеки std::launder и задача девиртуализации](https://habr.com/ru/post/540954/)
+
+Record-144: **#flash**, **#cookies**, **#security_issue**  
+[VPN вас не спасет: как собирают персональные данные через SuperСookies](https://habr.com/ru/company/ruvds/blog/540664/)
