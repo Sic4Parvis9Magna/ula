@@ -279,3 +279,6 @@ Record-093: **#google**, **#career**, **#interview**, **#tips**
 
 Record-094: **#web**, **#RKN**, **#web_issues**  
 [В России сохраняются проблемы с доступностью сайтов, но никто их не замечает](https://habr.com/en/post/528210/)
+
+Record-095: **#covid_19**, **#vacines**, **#review**  
+[Куда идти за иммунитетом?](https://habr.com/ru/post/538600/)
