@@ -291,3 +291,6 @@ Record-097: **#physics**, **#elctro_magnetical_fileds**, **#bremsstrahlung**, **
 
 Record-098: **#physics**, **#space_expantion**, **#new_measures**  
 [Astronomers Get Their Wish, and a Cosmic Crisis Gets Worse](https://www.quantamagazine.org/astronomers-get-their-wish-and-the-hubble-crisis-gets-worse-20201217/)
+
+Record-099: **#physics**, **#primary_particles**, **#antiparticles**  
+[Not All Particles And Antiparticles Are Either Matter Or Antimatter](https://www.forbes.com/sites/startswithabang/2021/12/29/not-all-particles-and-antiparticles-are-either-matter-or-antimatter/?sh=10e6d2fd78af)
