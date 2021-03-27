@@ -111,3 +111,6 @@ Record-037: **#telegram**, **#security**, **#algorithm**
 
 Record-038: **#mtp_proto**, **#security**, **#algorithm**  
 [On the CCA (in)security of MTProto](https://eprint.iacr.org/2015/1177.pdf)
+
+Record-039: **#c**, **#fiiz_buss**, **#interview**, **#high_performance**, **#tips**  
+[FizzBuzz по-сениорски](https://habr.com/ru/post/540136/)
