@@ -114,3 +114,6 @@ Record-038: **#mtp_proto**, **#security**, **#algorithm**
 
 Record-039: **#c**, **#fiiz_buss**, **#interview**, **#high_performance**, **#tips**  
 [FizzBuzz по-сениорски](https://habr.com/ru/post/540136/)
+
+Record-040: **#lottery**, **#algorithm**, **#en_papers**  
+[The Lottery Hackers](https://highline.huffingtonpost.com/articles/en/lotto-winners/)
