@@ -300,3 +300,6 @@ Record-100: **#workout**, **#guides**, **#health**
 
 Record-101: **#finance**, **#fonds_buble**, **#history**  
 [На фондовом рынке США сформировался пузырь небывалых размеров](https://habr.com/ru/post/541114/)
+
+Record-102: **#relocation**, **#germany**  
+[Германия — достоинства, недостатки и неповторимое, часть 1](https://habr.com/ru/post/541164/)
