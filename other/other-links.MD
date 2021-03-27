@@ -303,3 +303,6 @@ Record-101: **#finance**, **#fonds_buble**, **#history**
 
 Record-102: **#relocation**, **#germany**  
 [Германия — достоинства, недостатки и неповторимое, часть 1](https://habr.com/ru/post/541164/)
+
+Record-103: **#relocation**, **#finland**  
+[Переезд IT-специалиста в Финляндию: низкая конкуренция, не так уж много снега](https://habr.com/ru/company/gms/blog/541680/)
