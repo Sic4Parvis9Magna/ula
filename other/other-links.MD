@@ -312,3 +312,6 @@ Record-104: **#health**, **#hair**
 
 Record-105: **#relocation**, **#germany**  
 [Германия — плюсы, минусы и немыслимое](https://habr.com/ru/post/541704/)
+
+Record-106: **#nda**, **#legal_data**  
+[Мне не страшен ваш NDA](https://habr.com/ru/post/423071/)
