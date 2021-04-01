@@ -321,3 +321,6 @@ Record-107: **#it**, **#job_change**, **#life_story**
 
 Record-108: **#story**, **#dependencies**, **#hacking**  
 [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
+
+Record-109: **#faang**, **#google**, **#careers**, **#does**  
+[Build for Everyone - Google Careers](https://careers.google.com/how-we-hire/#does-google-still-ask-brainteasers-in-job-interviews)
