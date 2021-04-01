@@ -327,3 +327,6 @@ Record-109: **#faang**, **#google**, **#careers**, **#does**
 
 Record-110: **#personality_test**  
 [What's Your Reasoning Style?](https://programs.clearerthinking.org/how_rational_are_you_really_take_the_test.html#.YDFbA3UzYUE)
+
+Record-111: **#money**, **#card_to_card**  
+[Как работают денежные переводы с карты на карту](https://habr.com/ru/post/469635/)
