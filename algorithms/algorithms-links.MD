@@ -123,3 +123,6 @@ Record-041: **#faang**, **#task**, **#leecode**, **#duplicate_emails**
 
 Record-042: **#faang**, **#leecode**, **#task**, **#cracking_safe**  
 [Cracking the Safe - LeetCode](https://leetcode.com/problems/cracking-the-safe/)
+
+Record-043: **#algorithms**, **#sqrt**  
+[Вычисление целочисленного квадратного корня](https://habr.com/ru/post/469561/)
