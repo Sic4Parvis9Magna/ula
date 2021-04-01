@@ -117,3 +117,6 @@ Record-039: **#c**, **#fiiz_buss**, **#interview**, **#high_performance**, **#ti
 
 Record-040: **#lottery**, **#algorithm**, **#en_papers**  
 [The Lottery Hackers](https://highline.huffingtonpost.com/articles/en/lotto-winners/)
+
+Record-041: **#faang**, **#task**, **#leecode**, **#duplicate_emails**  
+[Duplicate Emails - LeetCode](https://leetcode.com/problems/duplicate-emails/)
