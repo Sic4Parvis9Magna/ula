@@ -120,3 +120,6 @@ Record-040: **#lottery**, **#algorithm**, **#en_papers**
 
 Record-041: **#faang**, **#task**, **#leecode**, **#duplicate_emails**  
 [Duplicate Emails - LeetCode](https://leetcode.com/problems/duplicate-emails/)
+
+Record-042: **#faang**, **#leecode**, **#task**, **#cracking_safe**  
+[Cracking the Safe - LeetCode](https://leetcode.com/problems/cracking-the-safe/)
