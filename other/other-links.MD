@@ -309,3 +309,6 @@ Record-103: **#relocation**, **#finland**
 
 Record-104: **#health**, **#hair**  
 [Толмачева Елена Борисовна - 28 отзывов Санкт-Петербург - ПроДокторов](https://prodoctorov.ru/spb/vrach/198458-tolmacheva/)
+
+Record-105: **#relocation**, **#germany**  
+[Германия — плюсы, минусы и немыслимое](https://habr.com/ru/post/541704/)
