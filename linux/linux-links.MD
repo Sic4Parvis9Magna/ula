@@ -257,3 +257,6 @@ Record-085: **#smtp**, **#server**, **#home_mail**, **#email_box**
 
 Record-086: **#oscp_exam**, **#pent_test**, **#ethical_hakking**  
 [OSCP: как я сдавал самый известный экзамен по информационной безопасности](https://habr.com/ru/company/avito/blog/540738/)
+
+Record-087: **#cisco**, **#ccna**, **#certification**, **#books**  
+[The 5 Best CCNA Certification Books](https://www.simplilearn.com/5-best-ccna-certification-books-article)
