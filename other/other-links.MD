@@ -318,3 +318,6 @@ Record-106: **#nda**, **#legal_data**
 
 Record-107: **#it**, **#job_change**, **#life_story**  
 [Почему, а главное, куда люди уходят из IT?](https://habr.com/ru/post/478680/)
+
+Record-108: **#story**, **#dependencies**, **#hacking**  
+[Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
