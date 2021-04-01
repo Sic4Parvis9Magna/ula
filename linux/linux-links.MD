@@ -254,3 +254,6 @@ Record-084: **#dpi**, **#networking**, **#general_overview**, **#workaround**
 
 Record-085: **#smtp**, **#server**, **#home_mail**, **#email_box**  
 [Настраиваем домашний почтовый сервер и уходим с «бесплатной» почты](https://habr.com/ru/post/539736/)
+
+Record-086: **#oscp_exam**, **#pent_test**, **#ethical_hakking**  
+[OSCP: как я сдавал самый известный экзамен по информационной безопасности](https://habr.com/ru/company/avito/blog/540738/)
