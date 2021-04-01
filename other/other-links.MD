@@ -324,3 +324,6 @@ Record-108: **#story**, **#dependencies**, **#hacking**
 
 Record-109: **#faang**, **#google**, **#careers**, **#does**  
 [Build for Everyone - Google Careers](https://careers.google.com/how-we-hire/#does-google-still-ask-brainteasers-in-job-interviews)
+
+Record-110: **#personality_test**  
+[What's Your Reasoning Style?](https://programs.clearerthinking.org/how_rational_are_you_really_take_the_test.html#.YDFbA3UzYUE)
