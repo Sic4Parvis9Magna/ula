@@ -429,3 +429,6 @@ Record-143: **#cpp17**, **#virtual_functions**
 
 Record-144: **#flash**, **#cookies**, **#security_issue**  
 [VPN вас не спасет: как собирают персональные данные через SuperСookies](https://habr.com/ru/company/ruvds/blog/540664/)
+
+Record-145: **#rabbit_mq**, **#kafka**, **#messaging_systems**, **#comparizon**  
+[RabbitMQ vs Kafka Part 5 - Fault Tolerance and High Availability with RabbitMQ Clustering](https://jack-vanlightly.com/blog/2018/8/31/rabbitmq-vs-kafka-part-5-fault-tolerance-and-high-availability-with-rabbitmq)
