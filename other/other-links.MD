@@ -315,3 +315,6 @@ Record-105: **#relocation**, **#germany**
 
 Record-106: **#nda**, **#legal_data**  
 [Мне не страшен ваш NDA](https://habr.com/ru/post/423071/)
+
+Record-107: **#it**, **#job_change**, **#life_story**  
+[Почему, а главное, куда люди уходят из IT?](https://habr.com/ru/post/478680/)
