@@ -276,3 +276,6 @@ Record-088: **#netflix**, **#architecture**, **#clouds**, **#good_practice**, **
 
 Record-089: **#docker**, **#docker_files**, **#best_practice**, **#tips**, **#devops**  
 [Лучшие практики при написании безопасного Dockerfile](https://habr.com/ru/company/swordfish_security/blog/537280/)
+
+Record-090: **#s3**, **#aws**, **#nginx**, **#arhitecture**, **#flant**, **#devops**  
+[Как мы сэкономили 2000 USD на трафике из Amazon S3 с помощью nginx-кэша](https://habr.com/ru/company/flant/blog/542540/)
