@@ -285,3 +285,6 @@ Record-091: **#k8s**, **#dns**, **#security_issue**, **#spoothing**, **#devops**
 
 Record-092: **#devops**, **#sre**, **#google**, **#tips**  
 [Google’s Approach](https://medium.com/@jerub/googles-approach-4bcdc0533c0a)
+
+Record-093: **#devops**, **#jenkins**, **#tools**, **#certification**  
+[Certified Jenkins Engineer](https://blog.opennix.ru/posts/certified-jenkins-engineer-study-guide/certified-jenkins-engineer/)
