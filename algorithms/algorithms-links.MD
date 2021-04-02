@@ -126,3 +126,6 @@ Record-042: **#faang**, **#leecode**, **#task**, **#cracking_safe**
 
 Record-043: **#algorithms**, **#sqrt**  
 [Вычисление целочисленного квадратного корня](https://habr.com/ru/post/469561/)
+
+Record-044: **#algorithms**, **#prime_numbers**  
+[Алгоритмы поиска простых чисел](https://habr.com/ru/post/468833/)
