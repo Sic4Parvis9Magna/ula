@@ -438,3 +438,6 @@ Record-146: **#react**, **#course**, **#free**, **#fe**, **#js**
 
 Record-147: **#redis**, **#microservices**, **#arhitecture**  
 [How to Use Redis in Infrastructure Microservices - DZone Database](https://dzone.com/articles/how-to-use-redis-in-infrastructure-microservices)
+
+Record-148: **#redis**, **#sync**, **#async**  
+[What to Choose for Your Synchronous and Asynchronous Communication Needs](https://redislabs.com/blog/what-to-choose-for-your-synchronous-and-asynchronous-communication-needs-redis-streams-redis-pub-sub-kafka-etc-best-approaches-synchronous-asynchronous-communication/)
