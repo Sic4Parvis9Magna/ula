@@ -129,3 +129,6 @@ Record-043: **#algorithms**, **#sqrt**
 
 Record-044: **#algorithms**, **#prime_numbers**  
 [Алгоритмы поиска простых чисел](https://habr.com/ru/post/468833/)
+
+Record-045: **#math**, **#algorithms**, **#feigenbaum_constant**  
+[Mitchell Feigenbaum (1944‑2019), 4.66920160910299067185320382](https://writings.stephenwolfram.com/2019/07/mitchell-feigenbaum-1944-2019-4-66920160910299067185320382/)
