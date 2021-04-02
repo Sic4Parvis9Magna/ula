@@ -444,3 +444,6 @@ Record-148: **#redis**, **#sync**, **#async**
 
 Record-149: **#redis**, **#arhitecture**, **#event_store**  
 [Using Redis as an Event Store for Communication Between Microservices](https://redislabs.com/blog/use-redis-event-store-communication-microservices/)
+
+Record-150: **#course**, **#arhitecture**, **#interview**  
+[Grokking the System Design Interview - Learn Interactively](https://www.educative.io/courses/grokking-the-system-design-interview)
