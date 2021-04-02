@@ -279,3 +279,6 @@ Record-089: **#docker**, **#docker_files**, **#best_practice**, **#tips**, **#de
 
 Record-090: **#s3**, **#aws**, **#nginx**, **#arhitecture**, **#flant**, **#devops**  
 [Как мы сэкономили 2000 USD на трафике из Amazon S3 с помощью nginx-кэша](https://habr.com/ru/company/flant/blog/542540/)
+
+Record-091: **#k8s**, **#dns**, **#security_issue**, **#spoothing**, **#devops**, **#networking**  
+[DNS Spoofing on Kubernetes Clusters](https://blog.aquasec.com/dns-spoofing-kubernetes-clusters)
