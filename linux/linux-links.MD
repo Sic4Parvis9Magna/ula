@@ -260,3 +260,6 @@ Record-086: **#oscp_exam**, **#pent_test**, **#ethical_hakking**
 
 Record-087: **#cisco**, **#ccna**, **#certification**, **#books**  
 [The 5 Best CCNA Certification Books](https://www.simplilearn.com/5-best-ccna-certification-books-article)
+
+Record-088: **#sudo**, **#linux**, **#c**, **#tools**  
+[Super User Do](https://sud.dyne.org/)
