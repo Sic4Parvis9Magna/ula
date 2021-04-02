@@ -132,3 +132,6 @@ Record-044: **#algorithms**, **#prime_numbers**
 
 Record-045: **#math**, **#algorithms**, **#feigenbaum_constant**  
 [Mitchell Feigenbaum (1944‑2019), 4.66920160910299067185320382](https://writings.stephenwolfram.com/2019/07/mitchell-feigenbaum-1944-2019-4-66920160910299067185320382/)
+
+Record-046: **#task**, **#code_interview**, **#leecode**, **#cut_off_trees_**  
+[Cut Off Trees for Golf Event - LeetCode](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
