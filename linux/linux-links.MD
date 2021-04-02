@@ -263,3 +263,6 @@ Record-087: **#cisco**, **#ccna**, **#certification**, **#books**
 
 Record-088: **#sudo**, **#linux**, **#c**, **#tools**  
 [Super User Do](https://sud.dyne.org/)
+
+Record-089: **#linux**, **#administraitor**, **#tips**, **#guide**  
+[The Linux System Administrator's Guide](https://tldp.org/LDP/sag/html/index.html)
