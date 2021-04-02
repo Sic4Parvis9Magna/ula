@@ -435,3 +435,6 @@ Record-145: **#rabbit_mq**, **#kafka**, **#messaging_systems**, **#comparizon**
 
 Record-146: **#react**, **#course**, **#free**, **#fe**, **#js**  
 [React Tutorial: Learn React JS - Free 4-Hour Course](https://scrimba.com/learn/learnreact)
+
+Record-147: **#redis**, **#microservices**, **#arhitecture**  
+[How to Use Redis in Infrastructure Microservices - DZone Database](https://dzone.com/articles/how-to-use-redis-in-infrastructure-microservices)
