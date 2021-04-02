@@ -441,3 +441,6 @@ Record-147: **#redis**, **#microservices**, **#arhitecture**
 
 Record-148: **#redis**, **#sync**, **#async**  
 [What to Choose for Your Synchronous and Asynchronous Communication Needs](https://redislabs.com/blog/what-to-choose-for-your-synchronous-and-asynchronous-communication-needs-redis-streams-redis-pub-sub-kafka-etc-best-approaches-synchronous-asynchronous-communication/)
+
+Record-149: **#redis**, **#arhitecture**, **#event_store**  
+[Using Redis as an Event Store for Communication Between Microservices](https://redislabs.com/blog/use-redis-event-store-communication-microservices/)
