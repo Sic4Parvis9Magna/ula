@@ -282,3 +282,6 @@ Record-090: **#s3**, **#aws**, **#nginx**, **#arhitecture**, **#flant**, **#devo
 
 Record-091: **#k8s**, **#dns**, **#security_issue**, **#spoothing**, **#devops**, **#networking**  
 [DNS Spoofing on Kubernetes Clusters](https://blog.aquasec.com/dns-spoofing-kubernetes-clusters)
+
+Record-092: **#devops**, **#sre**, **#google**, **#tips**  
+[Google’s Approach](https://medium.com/@jerub/googles-approach-4bcdc0533c0a)
