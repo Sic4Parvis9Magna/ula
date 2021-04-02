@@ -333,3 +333,6 @@ Record-111: **#money**, **#card_to_card**
 
 Record-112: **#story**, **#relocation**, **#usa**, **#20_ya**  
 [Воспоминания бумера: Америка в эпоху дот-комов](https://habr.com/ru/post/543218/)
+
+Record-113: **#google**, **#careers**, **#job_change**, **#interview**  
+[My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)
