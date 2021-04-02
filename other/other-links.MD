@@ -330,3 +330,6 @@ Record-110: **#personality_test**
 
 Record-111: **#money**, **#card_to_card**  
 [Как работают денежные переводы с карты на карту](https://habr.com/ru/post/469635/)
+
+Record-112: **#story**, **#relocation**, **#usa**, **#20_ya**  
+[Воспоминания бумера: Америка в эпоху дот-комов](https://habr.com/ru/post/543218/)
