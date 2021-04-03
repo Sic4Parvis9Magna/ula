@@ -294,3 +294,6 @@ Record-094: **#envoy**, **#proxy_server**, **#inside**, **#threads**, **#devops*
 
 Record-095: **#ssl**, **#web**, **#security**, **#util**, **#tools**, **#devops**, **#cert_check**  
 [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/index.htmll)
+
+Record-096: **#netflix**, **#serverless**, **#cosmos**, **#devops**  
+[The Netflix Cosmos Platform](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
