@@ -336,3 +336,6 @@ Record-112: **#story**, **#relocation**, **#usa**, **#20_ya**
 
 Record-113: **#google**, **#careers**, **#job_change**, **#interview**  
 [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)
+
+Record-114: **#book**, **#code_interview**, **#recomendations**, **#section**  
+[Книга "Cracking the Coding Interview" McDowell Gayle Laakmann](https://www.ozon.ru/product/cracking-the-coding-interview-148410382/#section-description--offset-80)
