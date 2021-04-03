@@ -269,3 +269,6 @@ Record-089: **#linux**, **#administraitor**, **#tips**, **#guide**
 
 Record-090: **#linux**, **#core**, **#working_practice**  
 [Работаем с модулями ядра в Linux](https://m.habr.com/ru/post/117654/)
+
+Record-091: **#security_issue**, **#ntp_amplification**, **#web**, **#security**, **#time_server_issue**  
+[Атака с помощью вашего сервера времени: NTP amplification attack (CVE-2013-5211)](https://m.habr.com/ru/post/209438/)
