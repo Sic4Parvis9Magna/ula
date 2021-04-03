@@ -447,3 +447,6 @@ Record-149: **#redis**, **#arhitecture**, **#event_store**
 
 Record-150: **#course**, **#arhitecture**, **#interview**  
 [Grokking the System Design Interview - Learn Interactively](https://www.educative.io/courses/grokking-the-system-design-interview)
+
+Record-151: **#code_practice**, **#game**, **#web**  
+[Coding Games and Programming Challenges to Code Better](https://www.codingame.com/start)
