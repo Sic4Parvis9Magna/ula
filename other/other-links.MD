@@ -339,3 +339,6 @@ Record-113: **#google**, **#careers**, **#job_change**, **#interview**
 
 Record-114: **#book**, **#code_interview**, **#recomendations**, **#section**  
 [Книга "Cracking the Coding Interview" McDowell Gayle Laakmann](https://www.ozon.ru/product/cracking-the-coding-interview-148410382/#section-description--offset-80)
+
+Record-115: **#cern**, **#news**, **#physics**, **#hadrons**  
+[59 new hadrons and counting](https://home.cern/news/news/physics/59-new-hadrons-and-counting)
