@@ -272,3 +272,6 @@ Record-090: **#linux**, **#core**, **#working_practice**
 
 Record-091: **#security_issue**, **#ntp_amplification**, **#web**, **#security**, **#time_server_issue**  
 [Атака с помощью вашего сервера времени: NTP amplification attack (CVE-2013-5211)](https://m.habr.com/ru/post/209438/)
+
+Record-092: **#network**, **#jncis_sp**, **#certification**  
+[Today I Passed the Juniper JNCIS-SP Exam](https://neckercube.com/posts/2021-03-01-juniper-jncis-sp-exam/)
