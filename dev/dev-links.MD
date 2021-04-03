@@ -453,3 +453,6 @@ Record-151: **#code_practice**, **#game**, **#web**
 
 Record-152: **#zip_bomb**, **#security_issue**, **#practice**, **#web**  
 [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
+
+Record-153: **#oauth2_spec**, **#rcf6749**, **#dev**, **#web**  
+[The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
