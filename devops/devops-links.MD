@@ -291,3 +291,6 @@ Record-093: **#devops**, **#jenkins**, **#tools**, **#certification**
 
 Record-094: **#envoy**, **#proxy_server**, **#inside**, **#threads**, **#devops**  
 [Envoy threading model](https://blog.envoyproxy.io/envoy-threading-model-a8d44b922310)
+
+Record-095: **#ssl**, **#web**, **#security**, **#util**, **#tools**, **#devops**, **#cert_check**  
+[SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/index.htmll)
