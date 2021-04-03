@@ -462,3 +462,6 @@ Record-154: **#stmp_spec**, **#rfc5321**, **#dev**, **#web**
 
 Record-155: **#bearer_auth_token**, **#oauth2_spec**, **#rfc6750**, **#web**, **#security**, **#dev**  
 [The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://tools.ietf.org/html/rfc6750)
+
+Record-156: **#tlc_1**, **#spec**, **#rfc8446**, **#web**, **#dev**  
+[The Transport Layer Security (TLS) Protocol Version 1.3](https://tools.ietf.org/html/rfc8446)
