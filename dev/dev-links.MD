@@ -456,3 +456,6 @@ Record-152: **#zip_bomb**, **#security_issue**, **#practice**, **#web**
 
 Record-153: **#oauth2_spec**, **#rcf6749**, **#dev**, **#web**  
 [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
+
+Record-154: **#stmp_spec**, **#rfc5321**, **#dev**, **#web**  
+[ Simple Mail Transfer Protocol](https://tools.ietf.org/html/rfc5321)
