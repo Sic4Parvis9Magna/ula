@@ -465,3 +465,6 @@ Record-155: **#bearer_auth_token**, **#oauth2_spec**, **#rfc6750**, **#web**, **
 
 Record-156: **#tlc_1**, **#spec**, **#rfc8446**, **#web**, **#dev**  
 [The Transport Layer Security (TLS) Protocol Version 1.3](https://tools.ietf.org/html/rfc8446)
+
+Record-157: **#html_5**, **#spec**, **#dev**, **#web**  
+[HTML 5.2 W3C Recommendation, 14 December 2017 superseded 28 January 2021](https://www.w3.org/TR/html52/)
