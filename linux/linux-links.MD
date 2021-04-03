@@ -266,3 +266,6 @@ Record-088: **#sudo**, **#linux**, **#c**, **#tools**
 
 Record-089: **#linux**, **#administraitor**, **#tips**, **#guide**  
 [The Linux System Administrator's Guide](https://tldp.org/LDP/sag/html/index.html)
+
+Record-090: **#linux**, **#core**, **#working_practice**  
+[Работаем с модулями ядра в Linux](https://m.habr.com/ru/post/117654/)
