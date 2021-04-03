@@ -459,3 +459,6 @@ Record-153: **#oauth2_spec**, **#rcf6749**, **#dev**, **#web**
 
 Record-154: **#stmp_spec**, **#rfc5321**, **#dev**, **#web**  
 [ Simple Mail Transfer Protocol](https://tools.ietf.org/html/rfc5321)
+
+Record-155: **#bearer_auth_token**, **#oauth2_spec**, **#rfc6750**, **#web**, **#security**, **#dev**  
+[The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://tools.ietf.org/html/rfc6750)
