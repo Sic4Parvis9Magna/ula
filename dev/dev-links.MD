@@ -450,3 +450,6 @@ Record-150: **#course**, **#arhitecture**, **#interview**
 
 Record-151: **#code_practice**, **#game**, **#web**  
 [Coding Games and Programming Challenges to Code Better](https://www.codingame.com/start)
+
+Record-152: **#zip_bomb**, **#security_issue**, **#practice**, **#web**  
+[A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
