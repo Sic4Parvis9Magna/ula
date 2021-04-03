@@ -288,3 +288,6 @@ Record-092: **#devops**, **#sre**, **#google**, **#tips**
 
 Record-093: **#devops**, **#jenkins**, **#tools**, **#certification**  
 [Certified Jenkins Engineer](https://blog.opennix.ru/posts/certified-jenkins-engineer-study-guide/certified-jenkins-engineer/)
+
+Record-094: **#envoy**, **#proxy_server**, **#inside**, **#threads**, **#devops**  
+[Envoy threading model](https://blog.envoyproxy.io/envoy-threading-model-a8d44b922310)
