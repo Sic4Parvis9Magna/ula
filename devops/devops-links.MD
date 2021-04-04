@@ -297,3 +297,6 @@ Record-095: **#ssl**, **#web**, **#security**, **#util**, **#tools**, **#devops*
 
 Record-096: **#netflix**, **#serverless**, **#cosmos**, **#devops**  
 [The Netflix Cosmos Platform](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
+
+Record-097: **#dba**, **#log_trailng**, **#red_hat**, **#debezium**, **#devops**, **#tools**, **#web**  
+[Debezium is an open source distributed platform for change data capture](https://debezium.io/)
