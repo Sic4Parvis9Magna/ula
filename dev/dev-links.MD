@@ -477,3 +477,6 @@ Record-159: **#rest**, **#api_design**, **#martin_fowler**, **#maturity_model**,
 
 Record-160: **#java**, **#fraimeworks**, **#list**, **#recommendations**  
 [10-best-java-frameworks-to-use-in-2021](https://medium.com/swlh/10-best-java-frameworks-to-use-in-2021-49b6d1322c9a)
+
+Record-161: **#aws**, **#platform_use_case**, **#dev**, **#game_server**, **#example**  
+[Building a serverless multi-player game that scales Amazon Web Service](https://aws.amazon.com/blogs/compute/building-a-serverless-multiplayer-game-that-scales/)
