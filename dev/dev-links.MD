@@ -468,3 +468,6 @@ Record-156: **#tlc_1**, **#spec**, **#rfc8446**, **#web**, **#dev**
 
 Record-157: **#html_5**, **#spec**, **#dev**, **#web**  
 [HTML 5.2 W3C Recommendation, 14 December 2017 superseded 28 January 2021](https://www.w3.org/TR/html52/)
+
+Record-158: **#api_design**, **#semantic**, **#api_versioning**, **#dev**, **#web**  
+[Semantic Versioning 2.0.0](https://semver.org/)
