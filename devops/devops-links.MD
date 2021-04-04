@@ -312,3 +312,6 @@ Record-100: **#aws**, **#security_overview**, **#devops**
 
 Record-101: **#aws**, **#tools**, **#price_calc**, **#devops**  
 [AWS Pricing Calculator](https://calculator.aws/#/)
+
+Record-102: **#aws**, **#papers**, **#lib**, **#devops**  
+[AWS Stash - A collection of AWS related content ](https://awsstash.com/)
