@@ -275,3 +275,6 @@ Record-091: **#security_issue**, **#ntp_amplification**, **#web**, **#security**
 
 Record-092: **#network**, **#jncis_sp**, **#certification**  
 [Today I Passed the Juniper JNCIS-SP Exam](https://neckercube.com/posts/2021-03-01-juniper-jncis-sp-exam/)
+
+Record-093: **#rkn**, **#www_freedom**, **#dns**, **#block**  
+[Суверенный DNS уже здесь, а вы и не заметили](https://habr.com/ru/post/545366/)
