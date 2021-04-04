@@ -342,3 +342,6 @@ Record-114: **#book**, **#code_interview**, **#recomendations**, **#section**
 
 Record-115: **#cern**, **#news**, **#physics**, **#hadrons**  
 [59 new hadrons and counting](https://home.cern/news/news/physics/59-new-hadrons-and-counting)
+
+Record-116: **#money**, **#stocks**, **#brockers**  
+[Как перейти от одного брокера к другому с портфелем ценных бумаг](https://journal.tinkoff.ru/ask/broker2broker/)
