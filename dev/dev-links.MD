@@ -483,3 +483,6 @@ Record-161: **#aws**, **#platform_use_case**, **#dev**, **#game_server**, **#exa
 
 Record-162: **#book**, **#systems_performance**, **#recomendations**, **#dev**  
 [Systems Performance 2nd Edition Book](http://brendangregg.com/systems-performance-2nd-edition-book.html)
+
+Record-163: **#java**, **#cs**, **#go**, **#future_overview**  
+[Java and Csharp are Obsolete in the Age of Docker](https://medium.com/star-gazers/java-and-c-is-obsolete-in-the-age-of-docker-39fb0d28f8b6)
