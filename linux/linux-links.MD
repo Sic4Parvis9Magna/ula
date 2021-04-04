@@ -278,3 +278,6 @@ Record-092: **#network**, **#jncis_sp**, **#certification**
 
 Record-093: **#rkn**, **#www_freedom**, **#dns**, **#block**  
 [Суверенный DNS уже здесь, а вы и не заметили](https://habr.com/ru/post/545366/)
+
+Record-094: **#linux**, **#bash**, **#hotkeys**  
+[Использование быстрых клавиш в командной строке Linux (BASH)](https://habr.com/ru/company/lanit/blog/537596/)
