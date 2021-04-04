@@ -300,3 +300,6 @@ Record-096: **#netflix**, **#serverless**, **#cosmos**, **#devops**
 
 Record-097: **#dba**, **#log_trailng**, **#red_hat**, **#debezium**, **#devops**, **#tools**, **#web**  
 [Debezium is an open source distributed platform for change data capture](https://debezium.io/)
+
+Record-098: **#aws**, **#certification**, **#devops_engineer**, **#tips**, **#guides**, **#devops**  
+[Подготовка и успешная сдача экзамена AWS Certified DevOps Engineer Professional - Mykola](https://mykola.today/podgotovka-i-uspeshnaja-sdacha-jekzamena-aws-certified-devops-engineer-professional/)
