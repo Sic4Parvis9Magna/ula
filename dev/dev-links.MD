@@ -480,3 +480,6 @@ Record-160: **#java**, **#fraimeworks**, **#list**, **#recommendations**
 
 Record-161: **#aws**, **#platform_use_case**, **#dev**, **#game_server**, **#example**  
 [Building a serverless multi-player game that scales Amazon Web Service](https://aws.amazon.com/blogs/compute/building-a-serverless-multiplayer-game-that-scales/)
+
+Record-162: **#book**, **#systems_performance**, **#recomendations**, **#dev**  
+[Systems Performance 2nd Edition Book](http://brendangregg.com/systems-performance-2nd-edition-book.html)
