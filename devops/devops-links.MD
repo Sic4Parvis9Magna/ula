@@ -306,3 +306,6 @@ Record-098: **#aws**, **#certification**, **#devops_engineer**, **#tips**, **#gu
 
 Record-099: **#aws**, **#certification**, **#solutions_architect**, **#tips**, **#guides**, **#devops**  
 [AWS Solution Architect Associate Exam Study Notes](https://chloemcateer.medium.com/aws-solution-architect-associate-exam-study-notes-b6c5884ee500)
+
+Record-100: **#aws**, **#security_overview**, **#devops**  
+[Security Logging in Cloud Environments](https://www.marcolancini.it/2021/blog-security-logging-cloud-environments-aws/)
