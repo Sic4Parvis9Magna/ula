@@ -471,3 +471,6 @@ Record-157: **#html_5**, **#spec**, **#dev**, **#web**
 
 Record-158: **#api_design**, **#semantic**, **#api_versioning**, **#dev**, **#web**  
 [Semantic Versioning 2.0.0](https://semver.org/)
+
+Record-159: **#rest**, **#api_design**, **#martin_fowler**, **#maturity_model**, **#dev**, **#web**  
+[Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
