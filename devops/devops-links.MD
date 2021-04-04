@@ -309,3 +309,6 @@ Record-099: **#aws**, **#certification**, **#solutions_architect**, **#tips**, *
 
 Record-100: **#aws**, **#security_overview**, **#devops**  
 [Security Logging in Cloud Environments](https://www.marcolancini.it/2021/blog-security-logging-cloud-environments-aws/)
+
+Record-101: **#aws**, **#tools**, **#price_calc**, **#devops**  
+[AWS Pricing Calculator](https://calculator.aws/#/)
