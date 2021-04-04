@@ -303,3 +303,6 @@ Record-097: **#dba**, **#log_trailng**, **#red_hat**, **#debezium**, **#devops**
 
 Record-098: **#aws**, **#certification**, **#devops_engineer**, **#tips**, **#guides**, **#devops**  
 [Подготовка и успешная сдача экзамена AWS Certified DevOps Engineer Professional - Mykola](https://mykola.today/podgotovka-i-uspeshnaja-sdacha-jekzamena-aws-certified-devops-engineer-professional/)
+
+Record-099: **#aws**, **#certification**, **#solutions_architect**, **#tips**, **#guides**, **#devops**  
+[AWS Solution Architect Associate Exam Study Notes](https://chloemcateer.medium.com/aws-solution-architect-associate-exam-study-notes-b6c5884ee500)
