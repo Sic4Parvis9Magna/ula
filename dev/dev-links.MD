@@ -474,3 +474,6 @@ Record-158: **#api_design**, **#semantic**, **#api_versioning**, **#dev**, **#we
 
 Record-159: **#rest**, **#api_design**, **#martin_fowler**, **#maturity_model**, **#dev**, **#web**  
 [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+
+Record-160: **#java**, **#fraimeworks**, **#list**, **#recommendations**  
+[10-best-java-frameworks-to-use-in-2021](https://medium.com/swlh/10-best-java-frameworks-to-use-in-2021-49b6d1322c9a)
