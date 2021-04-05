@@ -345,3 +345,6 @@ Record-115: **#cern**, **#news**, **#physics**, **#hadrons**
 
 Record-116: **#money**, **#stocks**, **#brockers**  
 [Как перейти от одного брокера к другому с портфелем ценных бумаг](https://journal.tinkoff.ru/ask/broker2broker/)
+
+Record-117: **#physics**, **#handmade_tool**, **#spectrometr**  
+[Самодельный спектрометр с высоким разрешением](https://habr.com/ru/post/545810/)
