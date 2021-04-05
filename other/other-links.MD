@@ -348,3 +348,6 @@ Record-116: **#money**, **#stocks**, **#brockers**
 
 Record-117: **#physics**, **#handmade_tool**, **#spectrometr**  
 [Самодельный спектрометр с высоким разрешением](https://habr.com/ru/post/545810/)
+
+Record-118: **#relocation**, **#montenegro**  
+[Черногория — страна, как сон. Самая простая история переезда](https://habr.com/ru/company/gms/blog/545542/)
