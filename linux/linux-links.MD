@@ -290,3 +290,6 @@ Record-096: **#dns**, **#isolation**, **#rkn**
 
 Record-097: **#dns**, **#perl**, **#hijacking**  
 [The Hijacking of Perl.com](https://www.perl.com/article/the-hijacking-of-perl-com/)
+
+Record-098: **#rkn**, **#block_twitter**, **#network**, **#blocking**  
+[Не блокировка, а замедление](https://habr.com/ru/post/546422/)
