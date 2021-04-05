@@ -357,3 +357,6 @@ Record-119: **#physics**, **#protons**
 
 Record-120: **#web_2000**, **#nostalgi**  
 [Как ощутить «интернет 2000 года»](https://habr.com/ru/company/jugru/blog/546724/)
+
+Record-121: **#perseverance**, **#move_calc**, **#mars**, **#nasa**  
+[How Far Away From Perseverance Did the Descent Stage Land?](https://www.wired.com/story/how-far-away-from-perseverance-did-descent-stage-land/)
