@@ -495,3 +495,6 @@ Record-165: **#martin_fowler**, **#arhitecture**, **#microservices**, **#cqrs**
 
 Record-166: **#sql**, **#tool**, **#web**, **#playground**, **#dev**  
 [DB Fiddle - SQL Database Playground](https://www.db-fiddle.com/)
+
+Record-167: **#rabbit_mq**, **#kafka**, **#arhitecture**, **#dev**  
+[Интеграционный слой с Kafka и микросервисами: опыт построения операционной CRM](https://habr.com/ru/company/croc/blog/545218/)
