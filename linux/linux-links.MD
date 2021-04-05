@@ -281,3 +281,6 @@ Record-093: **#rkn**, **#www_freedom**, **#dns**, **#block**
 
 Record-094: **#linux**, **#bash**, **#hotkeys**  
 [Использование быстрых клавиш в командной строке Linux (BASH)](https://habr.com/ru/company/lanit/blog/537596/)
+
+Record-095: **#top_level_domain**, **#security**, **#web**, **#hacking**  
+[How I hijacked the top-level domain of a sovereign state](https://labs.detectify.com/2021/01/15/how-i-hijacked-the-top-level-domain-of-a-sovereign-state/)
