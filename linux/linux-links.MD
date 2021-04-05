@@ -287,3 +287,6 @@ Record-095: **#top_level_domain**, **#security**, **#web**, **#hacking**
 
 Record-096: **#dns**, **#isolation**, **#rkn**  
 [Суверенный DNS уже здесь, а вы и не заметили](https://habr.com/ru/post/545366/)
+
+Record-097: **#dns**, **#perl**, **#hijacking**  
+[The Hijacking of Perl.com](https://www.perl.com/article/the-hijacking-of-perl-com/)
