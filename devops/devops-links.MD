@@ -315,3 +315,6 @@ Record-101: **#aws**, **#tools**, **#price_calc**, **#devops**
 
 Record-102: **#aws**, **#papers**, **#lib**, **#devops**  
 [AWS Stash - A collection of AWS related content ](https://awsstash.com/)
+
+Record-103: **#devops**, **#telegram**, **#chats**, **#list**  
+[Подборка телеграм-каналов для DevOps инженеров](https://m.habr.com/ru/post/546832/)
