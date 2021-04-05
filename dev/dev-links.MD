@@ -486,3 +486,6 @@ Record-162: **#book**, **#systems_performance**, **#recomendations**, **#dev**
 
 Record-163: **#java**, **#cs**, **#go**, **#future_overview**  
 [Java and Csharp are Obsolete in the Age of Docker](https://medium.com/star-gazers/java-and-c-is-obsolete-in-the-age-of-docker-39fb0d28f8b6)
+
+Record-164: **#telegram**, **#bot**, **#development**, **#guide**, **#dev**  
+[Всё, о чём должен знать разработчик Телеграм-ботов](https://habr.com/ru/post/543676/)
