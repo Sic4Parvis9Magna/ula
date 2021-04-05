@@ -354,3 +354,6 @@ Record-118: **#relocation**, **#montenegro**
 
 Record-119: **#physics**, **#protons**  
 [Decades-Long Quest Reveals Details of the Proton’s Inner Antimatter](https://www.quantamagazine.org/protons-antimatter-revealed-by-decades-old-experiment-20210224/)
+
+Record-120: **#web_2000**, **#nostalgi**  
+[Как ощутить «интернет 2000 года»](https://habr.com/ru/company/jugru/blog/546724/)
