@@ -492,3 +492,6 @@ Record-164: **#telegram**, **#bot**, **#development**, **#guide**, **#dev**
 
 Record-165: **#martin_fowler**, **#arhitecture**, **#microservices**, **#cqrs**  
 [bliki: CQRS](https://martinfowler.com/bliki/CQRS.html)
+
+Record-166: **#sql**, **#tool**, **#web**, **#playground**, **#dev**  
+[DB Fiddle - SQL Database Playground](https://www.db-fiddle.com/)
