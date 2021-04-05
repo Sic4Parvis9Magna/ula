@@ -489,3 +489,6 @@ Record-163: **#java**, **#cs**, **#go**, **#future_overview**
 
 Record-164: **#telegram**, **#bot**, **#development**, **#guide**, **#dev**  
 [Всё, о чём должен знать разработчик Телеграм-ботов](https://habr.com/ru/post/543676/)
+
+Record-165: **#martin_fowler**, **#arhitecture**, **#microservices**, **#cqrs**  
+[bliki: CQRS](https://martinfowler.com/bliki/CQRS.html)
