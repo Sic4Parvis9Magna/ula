@@ -318,3 +318,6 @@ Record-102: **#aws**, **#papers**, **#lib**, **#devops**
 
 Record-103: **#devops**, **#telegram**, **#chats**, **#list**  
 [Подборка телеграм-каналов для DevOps инженеров](https://m.habr.com/ru/post/546832/)
+
+Record-104: **#aws**, **#dynamodb**, **#overview**, **#devops**, **#deep_dive**  
+[Глубокое погружение в DynamoDB. Часть первая: Основы - Mykola](https://mykola.today/glubokoe-pogruzhenie-v-dynamodb-chast-pervaja-osnovy/)
