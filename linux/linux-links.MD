@@ -284,3 +284,6 @@ Record-094: **#linux**, **#bash**, **#hotkeys**
 
 Record-095: **#top_level_domain**, **#security**, **#web**, **#hacking**  
 [How I hijacked the top-level domain of a sovereign state](https://labs.detectify.com/2021/01/15/how-i-hijacked-the-top-level-domain-of-a-sovereign-state/)
+
+Record-096: **#dns**, **#isolation**, **#rkn**  
+[Суверенный DNS уже здесь, а вы и не заметили](https://habr.com/ru/post/545366/)
