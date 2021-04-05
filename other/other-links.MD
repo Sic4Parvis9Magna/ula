@@ -351,3 +351,6 @@ Record-117: **#physics**, **#handmade_tool**, **#spectrometr**
 
 Record-118: **#relocation**, **#montenegro**  
 [Черногория — страна, как сон. Самая простая история переезда](https://habr.com/ru/company/gms/blog/545542/)
+
+Record-119: **#physics**, **#protons**  
+[Decades-Long Quest Reveals Details of the Proton’s Inner Antimatter](https://www.quantamagazine.org/protons-antimatter-revealed-by-decades-old-experiment-20210224/)
