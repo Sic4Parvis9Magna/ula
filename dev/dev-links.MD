@@ -498,3 +498,6 @@ Record-166: **#sql**, **#tool**, **#web**, **#playground**, **#dev**
 
 Record-167: **#rabbit_mq**, **#kafka**, **#arhitecture**, **#dev**  
 [Интеграционный слой с Kafka и микросервисами: опыт построения операционной CRM](https://habr.com/ru/company/croc/blog/545218/)
+
+Record-168: **#sql_lite**, **#tools**, **#dev**  
+[SQLite — не игрушка](https://habr.com/ru/post/547448/)
