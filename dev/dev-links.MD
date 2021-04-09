@@ -504,3 +504,6 @@ Record-168: **#sql_lite**, **#tools**, **#dev**
 
 Record-169: **#hibernate**, **#equals**, **#hashcode**, **#orm**, **#jpa**, **#guides**  
 [The best way to implement equals, hashCode, and toString with JPA and Hibernate](https://vladmihalcea.com/the-best-way-to-implement-equals-hashcode-and-tostring-with-jpa-and-hibernate/)
+
+Record-170: **#virtual_assistant**, **#ai**, **#learning**, **#speach_generation**  
+[Синтез речи виртуальных ассистентов Салют: как мы отошли от классических научных статей](https://habr.com/ru/company/sberdevices/blog/548812/)
