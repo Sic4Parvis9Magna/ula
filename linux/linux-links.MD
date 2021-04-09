@@ -299,3 +299,6 @@ Record-099: **#ping**, **#linux**, **#tools**
 
 Record-100: **#devops**, **#vpn_setup**, **#open_vpn**, **#flant**, **#guides**  
 [Наш рецепт отказоустойчивого VPN-сервера на базе tinc, OpenVPN, Linux](https://habr.com/ru/company/flant/blog/338628/)
+
+Record-101: **#web**, **#emoji**, **#domains**, **#www**, **#dns**  
+[Mailoji: I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji)
