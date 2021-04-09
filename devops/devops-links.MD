@@ -360,3 +360,6 @@ Record-116: **#network_policy**, **#k8s**, **#editor**, **#web**, **#tools**
 
 Record-117: **#selected**, **#data_center_internals**, **#devops**, **#arhitecture**, **#video_series**  
 [Selectel School - YouTube](https://youtube.com/playlist?list=PLCHX0Xp-DjKr3ygEpSf44jZMuCkvIrW8S)
+
+Record-118: **#k8s**, **#the_hard_way**, **#guides**, **#legendary**, **#devops**  
+[kelseyhightower kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
