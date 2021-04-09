@@ -528,3 +528,6 @@ Record-176: **#system_design**, **#story**, **#dev**, **#arhitecture**
 
 Record-177: **#aws**, **#deep_dive**, **#dynamodb**, **#usecases**, **#guides**, **#dev**  
 [Amazon DynamoDB Deep Dive. Chapter 1: Essentials](https://blog.tovmasyan.io/amazon-dynamodb-deep-dive-chapter-1-essentials-cb4df19356a0)
+
+Record-178: **#aws**, **#deep_dive**, **#dynamodb**, **#usecases**, **#guides**, **#dev**  
+[Amazon DynamoDB Deep Dive. Chapter 1: Essentials](https://blog.tovmasyan.io/amazon-dynamodb-deep-dive-chapter-1-essentials-cb4df19356a0)
