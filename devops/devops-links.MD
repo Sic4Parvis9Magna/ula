@@ -333,3 +333,6 @@ Record-107: **#nginx**, **#web_server**, **#devops**, **#guides**
 
 Record-108: **#vpn**, **#aws**, **#wire_guard**, **#guides**, **#devops**  
 [Бесплатный VPN сервис Wireguard на AWS](https://habr.com/ru/post/448528/)
+
+Record-109: **#docker**, **#image**, **#ml**, **#devops**  
+[A complete guide to building a Docker Image serving a Machine learning system in Production](https://towardsdatascience.com/a-complete-guide-to-building-a-docker-image-serving-a-machine-learning-system-in-production-d8b5b0533bde)
