@@ -336,3 +336,6 @@ Record-108: **#vpn**, **#aws**, **#wire_guard**, **#guides**, **#devops**
 
 Record-109: **#docker**, **#image**, **#ml**, **#devops**  
 [A complete guide to building a Docker Image serving a Machine learning system in Production](https://towardsdatascience.com/a-complete-guide-to-building-a-docker-image-serving-a-machine-learning-system-in-production-d8b5b0533bde)
+
+Record-110: **#aws**, **#lambda**, **#serverless**, **#guides**  
+[И еще разок про Serverless](https://habr.com/ru/post/546530/)
