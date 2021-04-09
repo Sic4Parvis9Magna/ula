@@ -501,3 +501,6 @@ Record-167: **#rabbit_mq**, **#kafka**, **#arhitecture**, **#dev**
 
 Record-168: **#sql_lite**, **#tools**, **#dev**  
 [SQLite — не игрушка](https://habr.com/ru/post/547448/)
+
+Record-169: **#hibernate**, **#equals**, **#hashcode**, **#orm**, **#jpa**, **#guides**  
+[The best way to implement equals, hashCode, and toString with JPA and Hibernate](https://vladmihalcea.com/the-best-way-to-implement-equals-hashcode-and-tostring-with-jpa-and-hibernate/)
