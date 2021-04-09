@@ -348,3 +348,6 @@ Record-112: **#docker**, **#best_practices**, **#guides**, **#devops**
 
 Record-113: **#devops**, **#bbc**, **#cloud_migration**, **#story**, **#architecture**  
 [Moving BBC Online to the cloud](https://medium.com/bbc-design-engineering/moving-bbc-online-to-the-cloud-afdfb7c072ff)
+
+Record-114: **#aws**, **#gcp**, **#azure**, **#comparison_by_gcp**, **#devops**, **#cloud_providers_comparison**  
+[Compare AWS and Azure services to Google Cloud](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=CDR_pve_gcp_pvergadia_&utm_content=-)
