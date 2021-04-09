@@ -357,3 +357,6 @@ Record-115: **#aws**, **#iam**, **#deep_dive**, **#devops**
 
 Record-116: **#network_policy**, **#k8s**, **#editor**, **#web**, **#tools**  
 [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
+
+Record-117: **#selected**, **#data_center_internals**, **#devops**, **#arhitecture**, **#video_series**  
+[Selectel School - YouTube](https://youtube.com/playlist?list=PLCHX0Xp-DjKr3ygEpSf44jZMuCkvIrW8S)
