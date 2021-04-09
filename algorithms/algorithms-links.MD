@@ -135,3 +135,6 @@ Record-045: **#math**, **#algorithms**, **#feigenbaum_constant**
 
 Record-046: **#task**, **#code_interview**, **#leecode**, **#cut_off_trees_**  
 [Cut Off Trees for Golf Event - LeetCode](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
+
+Record-047: **#life_game**, **#algorithms**, **#mona_lisa**  
+[Finding Mona Lisa in the Game of Life](https://avinayak.github.io/algorithms/programming/2021/02/19/finding-mona-lisa-in-the-game-of-life.html)
