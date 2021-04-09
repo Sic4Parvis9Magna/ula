@@ -345,3 +345,6 @@ Record-111: **#aws**, **#firewall**, **#guides**, **#devops**
 
 Record-112: **#docker**, **#best_practices**, **#guides**, **#devops**  
 [Top 20 Dockerfile best practices for security](https://sysdig.com/blog/dockerfile-best-practices/)
+
+Record-113: **#devops**, **#bbc**, **#cloud_migration**, **#story**, **#architecture**  
+[Moving BBC Online to the cloud](https://medium.com/bbc-design-engineering/moving-bbc-online-to-the-cloud-afdfb7c072ff)
