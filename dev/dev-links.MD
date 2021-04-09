@@ -510,3 +510,6 @@ Record-170: **#virtual_assistant**, **#ai**, **#learning**, **#speach_generation
 
 Record-171: **#project_management**, **#tools**, **#open_source**  
 [My favorite open source project management tools](https://opensource.com/article/21/3/open-source-project-management)
+
+Record-172: **#algorithms**, **#search_engines**, **#indexing**, **#reversed_index**  
+[Устройство поисковых систем: базовый поиск и инвертированный индекс](https://habr.com/ru/post/545634/)
