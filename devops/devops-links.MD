@@ -363,3 +363,6 @@ Record-117: **#selected**, **#data_center_internals**, **#devops**, **#arhitectu
 
 Record-118: **#k8s**, **#the_hard_way**, **#guides**, **#legendary**, **#devops**  
 [kelseyhightower kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
+Record-119: **#k8s**, **#cka**, **#prep**, **#devops**  
+[Kubernetes CKS CKA CKAD Simulator](https://killer.sh/)
