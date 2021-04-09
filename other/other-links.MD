@@ -363,3 +363,6 @@ Record-121: **#perseverance**, **#move_calc**, **#mars**, **#nasa**
 
 Record-122: **#brokers**, **#market**, **#top**, **#review**  
 [Best Online Stock Brokers for Beginners](https://www.investopedia.com/best-brokers-for-beginners-4587873)
+
+Record-123: **#jobs**, **#abuse**, **#life_wisdom**, **#work_motivation**  
+[The dispassionate developer](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/)
