@@ -321,3 +321,6 @@ Record-103: **#devops**, **#telegram**, **#chats**, **#list**
 
 Record-104: **#aws**, **#dynamodb**, **#overview**, **#devops**, **#deep_dive**  
 [Глубокое погружение в DynamoDB. Часть первая: Основы - Mykola](https://mykola.today/glubokoe-pogruzhenie-v-dynamodb-chast-pervaja-osnovy/)
+
+Record-105: **#smooth_migration**, **#k8s**, **#flant**, **#devops**  
+[Как мы обновляли Kubernetes 1.16 до 1.19 с удовольствием](https://habr.com/ru/company/flant/blog/545724/)
