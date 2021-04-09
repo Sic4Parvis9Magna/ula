@@ -308,3 +308,6 @@ Record-102: **#linux**, **#tools**, **#plots**
 
 Record-103: **#dpi**, **#networking**, **#dns**, **#web**  
 [Домашний DPI, или как бороться с провайдером его же методами](https://habr.com/ru/post/548110/)
+
+Record-104: **#backup**, **#borg**, **#linux**, **#tools**  
+[Теория и практика бэкапов с Borg](https://habr.com/ru/company/flant/blog/420055/)
