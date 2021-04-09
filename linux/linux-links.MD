@@ -302,3 +302,6 @@ Record-100: **#devops**, **#vpn_setup**, **#open_vpn**, **#flant**, **#guides**
 
 Record-101: **#web**, **#emoji**, **#domains**, **#www**, **#dns**  
 [Mailoji: I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji)
+
+Record-102: **#linux**, **#tools**, **#plots**  
+[Meet Plots: A Mathematical Graph Plotting App for Linux Desktop - It's FOSS](https://itsfoss.com/plots-graph-app/)
