@@ -339,3 +339,6 @@ Record-109: **#docker**, **#image**, **#ml**, **#devops**
 
 Record-110: **#aws**, **#lambda**, **#serverless**, **#guides**  
 [И еще разок про Serverless](https://habr.com/ru/post/546530/)
+
+Record-111: **#aws**, **#firewall**, **#guides**, **#devops**  
+[AWS Firewalls 101: How and When to Use Each One](https://blog.doit-intl.com/aws-firewalls-101-how-and-when-to-use-each-one-d4ad8087a6b3)
