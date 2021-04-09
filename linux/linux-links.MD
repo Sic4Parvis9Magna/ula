@@ -296,3 +296,6 @@ Record-098: **#rkn**, **#block_twitter**, **#network**, **#blocking**
 
 Record-099: **#ping**, **#linux**, **#tools**  
 [Splitting the ping](https://blog.benjojo.co.uk/post/ping-with-loss-latency-split)
+
+Record-100: **#devops**, **#vpn_setup**, **#open_vpn**, **#flant**, **#guides**  
+[Наш рецепт отказоустойчивого VPN-сервера на базе tinc, OpenVPN, Linux](https://habr.com/ru/company/flant/blog/338628/)
