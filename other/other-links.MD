@@ -369,3 +369,6 @@ Record-123: **#jobs**, **#abuse**, **#life_wisdom**, **#work_motivation**
 
 Record-124: **#books**, **#science_pop**, **#free**  
 [Всенаука Бесплатные книги](https://vsenauka.ru/knigi/besplatnyie-knigi.html)
+
+Record-125: **#cern**, **#article**, **#antimater**, **#gravity**  
+[AEgIS on track to test free fall of antimatter](https://home.cern/news/news/experiments/aegis-track-test-free-fall-antimatter)
