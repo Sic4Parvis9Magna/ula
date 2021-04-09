@@ -138,3 +138,6 @@ Record-046: **#task**, **#code_interview**, **#leecode**, **#cut_off_trees_**
 
 Record-047: **#life_game**, **#algorithms**, **#mona_lisa**  
 [Finding Mona Lisa in the Game of Life](https://avinayak.github.io/algorithms/programming/2021/02/19/finding-mona-lisa-in-the-game-of-life.html)
+
+Record-048: **#math**, **#imaginary_numbers**, **#algorithms**  
+[Imaginary Numbers May Be Essential for Describing Reality](https://www.quantamagazine.org/imaginary-numbers-may-be-essential-for-describing-reality-20210303/)
