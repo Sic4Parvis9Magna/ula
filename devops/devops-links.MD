@@ -342,3 +342,6 @@ Record-110: **#aws**, **#lambda**, **#serverless**, **#guides**
 
 Record-111: **#aws**, **#firewall**, **#guides**, **#devops**  
 [AWS Firewalls 101: How and When to Use Each One](https://blog.doit-intl.com/aws-firewalls-101-how-and-when-to-use-each-one-d4ad8087a6b3)
+
+Record-112: **#docker**, **#best_practices**, **#guides**, **#devops**  
+[Top 20 Dockerfile best practices for security](https://sysdig.com/blog/dockerfile-best-practices/)
