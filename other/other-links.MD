@@ -366,3 +366,6 @@ Record-122: **#brokers**, **#market**, **#top**, **#review**
 
 Record-123: **#jobs**, **#abuse**, **#life_wisdom**, **#work_motivation**  
 [The dispassionate developer](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/)
+
+Record-124: **#books**, **#science_pop**, **#free**  
+[Всенаука Бесплатные книги](https://vsenauka.ru/knigi/besplatnyie-knigi.html)
