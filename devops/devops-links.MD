@@ -330,3 +330,6 @@ Record-106: **#gcp**, **#calc**, **#prices**, **#devops**
 
 Record-107: **#nginx**, **#web_server**, **#devops**, **#guides**  
 [Common Nginx misconfigurations that leave your web server open to attack](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/)
+
+Record-108: **#vpn**, **#aws**, **#wire_guard**, **#guides**, **#devops**  
+[Бесплатный VPN сервис Wireguard на AWS](https://habr.com/ru/post/448528/)
