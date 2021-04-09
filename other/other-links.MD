@@ -360,3 +360,6 @@ Record-120: **#web_2000**, **#nostalgi**
 
 Record-121: **#perseverance**, **#move_calc**, **#mars**, **#nasa**  
 [How Far Away From Perseverance Did the Descent Stage Land?](https://www.wired.com/story/how-far-away-from-perseverance-did-descent-stage-land/)
+
+Record-122: **#brokers**, **#market**, **#top**, **#review**  
+[Best Online Stock Brokers for Beginners](https://www.investopedia.com/best-brokers-for-beginners-4587873)
