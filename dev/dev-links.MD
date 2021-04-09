@@ -525,3 +525,6 @@ Record-175: **#rust**, **#lang**, **#selling_points**
 
 Record-176: **#system_design**, **#story**, **#dev**, **#arhitecture**  
 [System Design для самых маленьких](https://vitkarpov.me/posts/what-is-system-design/)
+
+Record-177: **#aws**, **#deep_dive**, **#dynamodb**, **#usecases**, **#guides**, **#dev**  
+[Amazon DynamoDB Deep Dive. Chapter 1: Essentials](https://blog.tovmasyan.io/amazon-dynamodb-deep-dive-chapter-1-essentials-cb4df19356a0)
