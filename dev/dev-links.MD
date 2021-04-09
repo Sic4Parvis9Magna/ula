@@ -516,3 +516,6 @@ Record-172: **#algorithms**, **#search_engines**, **#indexing**, **#reversed_ind
 
 Record-173: **#books**, **#recomendations**, **#management**  
 [Коты и лебеди на выпасе: листаем книги для введения в профессию менеджера](https://habr.com/ru/post/548380/)
+
+Record-174: **#posgres**, **#sequence**, **#overflow**, **#sql**, **#dev**  
+[DBA: когда почти закончился serial](https://habr.com/ru/company/tensor/blog/547740/)
