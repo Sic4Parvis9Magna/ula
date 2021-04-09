@@ -305,3 +305,6 @@ Record-101: **#web**, **#emoji**, **#domains**, **#www**, **#dns**
 
 Record-102: **#linux**, **#tools**, **#plots**  
 [Meet Plots: A Mathematical Graph Plotting App for Linux Desktop - It's FOSS](https://itsfoss.com/plots-graph-app/)
+
+Record-103: **#dpi**, **#networking**, **#dns**, **#web**  
+[Домашний DPI, или как бороться с провайдером его же методами](https://habr.com/ru/post/548110/)
