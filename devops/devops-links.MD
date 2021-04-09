@@ -354,3 +354,6 @@ Record-114: **#aws**, **#gcp**, **#azure**, **#comparison_by_gcp**, **#devops**,
 
 Record-115: **#aws**, **#iam**, **#deep_dive**, **#devops**  
 [AWS IAM Deep Dive. Chapter 1: Essentials](https://blog.tovmasyan.io/aws-iam-deep-dive-chapter-1-essentials-a9cfb1931a01)
+
+Record-116: **#network_policy**, **#k8s**, **#editor**, **#web**, **#tools**  
+[Network Policy Editor for Kubernetes](https://editor.cilium.io/)
