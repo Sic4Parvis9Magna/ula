@@ -293,3 +293,6 @@ Record-097: **#dns**, **#perl**, **#hijacking**
 
 Record-098: **#rkn**, **#block_twitter**, **#network**, **#blocking**  
 [Не блокировка, а замедление](https://habr.com/ru/post/546422/)
+
+Record-099: **#ping**, **#linux**, **#tools**  
+[Splitting the ping](https://blog.benjojo.co.uk/post/ping-with-loss-latency-split)
