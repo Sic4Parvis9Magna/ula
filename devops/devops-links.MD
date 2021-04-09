@@ -327,3 +327,6 @@ Record-105: **#smooth_migration**, **#k8s**, **#flant**, **#devops**
 
 Record-106: **#gcp**, **#calc**, **#prices**, **#devops**  
 [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator)
+
+Record-107: **#nginx**, **#web_server**, **#devops**, **#guides**  
+[Common Nginx misconfigurations that leave your web server open to attack](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/)
