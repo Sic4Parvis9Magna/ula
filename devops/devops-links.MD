@@ -366,3 +366,6 @@ Record-118: **#k8s**, **#the_hard_way**, **#guides**, **#legendary**, **#devops*
 
 Record-119: **#k8s**, **#cka**, **#prep**, **#devops**  
 [Kubernetes CKS CKA CKAD Simulator](https://killer.sh/)
+
+Record-120: **#devops**, **#guides**, **#blogs**, **#guides**, **#Prashant_Lakhera**, **#medium**  
+[Prashant Lakhera – Medium](https://devopslearning.medium.com/)
