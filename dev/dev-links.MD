@@ -522,3 +522,6 @@ Record-174: **#posgres**, **#sequence**, **#overflow**, **#sql**, **#dev**
 
 Record-175: **#rust**, **#lang**, **#selling_points**  
 [Почему вы должны попробовать Rust](https://habr.com/ru/company/huawei/blog/548808/)
+
+Record-176: **#system_design**, **#story**, **#dev**, **#arhitecture**  
+[System Design для самых маленьких](https://vitkarpov.me/posts/what-is-system-design/)
