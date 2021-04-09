@@ -324,3 +324,6 @@ Record-104: **#aws**, **#dynamodb**, **#overview**, **#devops**, **#deep_dive**
 
 Record-105: **#smooth_migration**, **#k8s**, **#flant**, **#devops**  
 [Как мы обновляли Kubernetes 1.16 до 1.19 с удовольствием](https://habr.com/ru/company/flant/blog/545724/)
+
+Record-106: **#gcp**, **#calc**, **#prices**, **#devops**  
+[Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator)
