@@ -351,3 +351,6 @@ Record-113: **#devops**, **#bbc**, **#cloud_migration**, **#story**, **#architec
 
 Record-114: **#aws**, **#gcp**, **#azure**, **#comparison_by_gcp**, **#devops**, **#cloud_providers_comparison**  
 [Compare AWS and Azure services to Google Cloud](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=CDR_pve_gcp_pvergadia_&utm_content=-)
+
+Record-115: **#aws**, **#iam**, **#deep_dive**, **#devops**  
+[AWS IAM Deep Dive. Chapter 1: Essentials](https://blog.tovmasyan.io/aws-iam-deep-dive-chapter-1-essentials-a9cfb1931a01)
