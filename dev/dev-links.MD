@@ -513,3 +513,6 @@ Record-171: **#project_management**, **#tools**, **#open_source**
 
 Record-172: **#algorithms**, **#search_engines**, **#indexing**, **#reversed_index**  
 [Устройство поисковых систем: базовый поиск и инвертированный индекс](https://habr.com/ru/post/545634/)
+
+Record-173: **#books**, **#recomendations**, **#management**  
+[Коты и лебеди на выпасе: листаем книги для введения в профессию менеджера](https://habr.com/ru/post/548380/)
