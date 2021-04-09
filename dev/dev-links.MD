@@ -519,3 +519,6 @@ Record-173: **#books**, **#recomendations**, **#management**
 
 Record-174: **#posgres**, **#sequence**, **#overflow**, **#sql**, **#dev**  
 [DBA: когда почти закончился serial](https://habr.com/ru/company/tensor/blog/547740/)
+
+Record-175: **#rust**, **#lang**, **#selling_points**  
+[Почему вы должны попробовать Rust](https://habr.com/ru/company/huawei/blog/548808/)
